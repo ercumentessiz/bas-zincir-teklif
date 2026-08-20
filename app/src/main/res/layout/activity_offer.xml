@@ -188,6 +188,20 @@
                     android:textColor="@color/text_primary" />
             </RadioGroup>
 
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:hint="Teslim Süresi (örn. 3 İş Günü)">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etTeslimSuresi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:maxLines="1" />
+            </com.google.android.material.textfield.TextInputLayout>
+
             <!-- Toplamlar -->
             <com.google.android.material.card.MaterialCardView
                 android:layout_width="match_parent"
@@ -217,20 +231,6 @@
                 android:layout_marginTop="10dp"
                 android:textSize="12sp"
                 android:textColor="@color/text_secondary" />
-
-            <com.google.android.material.textfield.TextInputLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="14dp"
-                android:hint="Teslim Süresi (örn. 3 İş Günü)">
-
-                <com.google.android.material.textfield.TextInputEditText
-                    android:id="@+id/etTeslimSuresi"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="text"
-                    android:maxLines="1" />
-            </com.google.android.material.textfield.TextInputLayout>
 
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
