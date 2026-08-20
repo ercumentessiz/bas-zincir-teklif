@@ -1,0 +1,5742 @@
+[
+  {
+    "id": "c00001",
+    "ad": "AVRUPA ZİNCİR SANAYİ TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00002",
+    "ad": "RUŞEN CİVATA SAN. TİC. LTD. ŞTİ.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00003",
+    "ad": "TEKNİK METAL END.MALZ.TİC.VE SAN.A.Ş.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00004",
+    "ad": "BARAN MAKİNE VE TEKNİK HIRD.İN.SAN.TİC.LTD.ŞTİ",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00005",
+    "ad": "TEKNOHAN MÜHENDİSLİK MAK.SAN.VE TİC.A.Ş.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00006",
+    "ad": "ÜÇES HIRDAVAT INŞ.MALZ.ELEK.PVC MAK.SAN.TİC.LTD.ŞTİ.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00007",
+    "ad": "ESPADA YAPI MARKET SAN.VE TİC.LTD.ŞTİ",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00008",
+    "ad": "KAYA TEKNİK HIRDAVAT-ARİF KOCA",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00009",
+    "ad": "ERSİN CİVATA HIRDAVAT MAKİNASAN.TİC.LTD.ŞTİ.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00010",
+    "ad": "HASYAY ARGON KAYNAĞI KAYNAK İŞLERİ- MUHAMMET ŞEKEROYMAĞI",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00011",
+    "ad": "HATİP GÜMÜŞ",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00012",
+    "ad": "İSMAİLOĞULLARI SARACİYE-KEMAL BALLIOĞUL",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00013",
+    "ad": "MAPA HIRDAVAT VE YÜK KALDIRMA EKİPMANLARI-MEHMET NEZİR BARAN",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00014",
+    "ad": "EKTON İNŞAAT MÜTEAHHİTLİK LOJİSTİK SANAYİ VE TİCARET A.Ş.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00015",
+    "ad": "ATAMAN TEKNİK HIRDV.END.ÜRÜNLER MAK.SAN VE TİC.LTD.ŞTİ.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00016",
+    "ad": "HİCRET YEMCİLİK HAYV.GIDA İNŞ.VE SIHHİ TİC.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00017",
+    "ad": "SRV MÜHENDİSLİK MAKİNA İML.SAN.VE TİC.LTD.ŞTİ",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00018",
+    "ad": "BOTAŞ BORU HATLARI İLE PETROL TAŞIMA ANONİM ŞİRKETİ",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00019",
+    "ad": "ERBEYLİ İNŞ. TAAH. LTD. ŞTİ.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00020",
+    "ad": "ADANA EKSPRES KARGO TAŞIMACILIK TİCARET LTD. ŞTİ.",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00021",
+    "ad": "SEYHAN MAKİNA ENDÜSTRİ SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "ADANA"
+  },
+  {
+    "id": "c00022",
+    "ad": "AHMET ÇANAKÇIOĞLU ÖMER ÇANAKÇIOĞLU",
+    "il": "AFYONKARAHİSAR"
+  },
+  {
+    "id": "c00023",
+    "ad": "ER TİCARET-MUAMMER GÜRBÜZER",
+    "il": "AFYONKARAHİSAR"
+  },
+  {
+    "id": "c00024",
+    "ad": "HARUN TİCARET YAPI VE İNŞAAT MALZEMELERİ-HARUN YANARDAĞ",
+    "il": "AFYONKARAHİSAR"
+  },
+  {
+    "id": "c00025",
+    "ad": "MEHMET ÇANAKÇIOĞLU HIRDAVAT NALBURİYE İNŞ.MALZ.",
+    "il": "AFYONKARAHİSAR"
+  },
+  {
+    "id": "c00026",
+    "ad": "ÇETİNLER TİCARET - SIDDIK ÇETİN",
+    "il": "AĞRI"
+  },
+  {
+    "id": "c00027",
+    "ad": "TEPECİLER HIRDAVAT -ERSENTEPECİ",
+    "il": "AKHİSAR"
+  },
+  {
+    "id": "c00028",
+    "ad": "ATLAS PARK İNŞ. METAL MOBİLYA PLAS SAN.TİC. LTD. ŞTİ.",
+    "il": "AKSARAY"
+  },
+  {
+    "id": "c00029",
+    "ad": "AĞAÇLI OTOMOTİV GIDA TİCARET VE SANAYİ A.Ş.",
+    "il": "AKSARAY"
+  },
+  {
+    "id": "c00030",
+    "ad": "ASYAFARM MAKİNA SAN.VE TİC.A.Ş.",
+    "il": "AKSARAY"
+  },
+  {
+    "id": "c00031",
+    "ad": "İDEAL ÇANTA DERİ TEKS SAN.TİC.LTD.ŞTİ",
+    "il": "AMASYA"
+  },
+  {
+    "id": "c00032",
+    "ad": "MUTAFLAR MAKİNA SANAYİ TİC.LTD.ŞTİ",
+    "il": "AMASYA"
+  },
+  {
+    "id": "c00033",
+    "ad": "LİTSA LASTİK JANT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00034",
+    "ad": "OTO KÖŞE SAN. TİC. LTD. ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00035",
+    "ad": "ANKARA CİVATA BAĞLANTI ELAMANLARI İTHALAT İHRACAT SAN.VE TİC.A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00036",
+    "ad": "İSMAİL HASARPA",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00037",
+    "ad": "ASENYA EV GEREÇLERİ HIRDAVAT OTOMOTİV KIRTASİYE ELEKTRİK ELEKTRONİK SAN.TİC.A.Ş",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00038",
+    "ad": "ÇETİN KALDIRMA ÜNİTELERİ ZİNCİR VE ÇELİK HALAT SAPAN İMALAT SANAYİ TİC.LTD.ŞTİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00039",
+    "ad": "ACA METAL SAN.TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00040",
+    "ad": "MİM MÜHENDİSLİK İNŞ.ÇELİK ENDÜSTRİ SAN.VE TİC.A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00041",
+    "ad": "KALE HALAT İNŞ.MAK.HIRD.GIDA SAN.VE TİC.LTD.ŞTİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00042",
+    "ad": "İSMAİL HASARPA -MUSTAFA SOYSAL ADİ ORTAKLIĞI",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00043",
+    "ad": "AKSAN KARDAN SAN. VE DIŞ TİC. LTD. ŞTİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00044",
+    "ad": "ARYA ELEKTROMEKANİK SES VE IŞIK SİS.SAN.TİC.LTD.ŞTİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00045",
+    "ad": "ZETAŞ YAPI MALZEMELERİ SAN.TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00046",
+    "ad": "MADENLER TARIM VE HAYVANCILIK MAK.İML.-HALİL İBRAHİM MADEN",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00047",
+    "ad": "ALAGRUP MİMARLIK MÜH.İNŞ.EĞT.HİZM.GIDA HAYVAN TAAH.İTH.VE SAN.TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00048",
+    "ad": "US İTHALAT VE PAZARLAMA A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00049",
+    "ad": "BETA MAKİNA - ÖMER BERBEROĞLU",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00050",
+    "ad": "OTO NOKTA OTOMOTİV SAN VE TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00051",
+    "ad": "BETA GRUP KAZAN TAAHHÜT MAKİNA İNŞAAT GIDA NAKLİYE SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00052",
+    "ad": "DEMİRCİLER NALBURİYE HIRD.-M.FATİH DEMİREL",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00053",
+    "ad": "MARKA İŞ MAKİNA YEDEK PARÇA-İSMAİL CANPOLAT",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00054",
+    "ad": "YENİ DOĞAN ÇELİK HALAT HIRD.MAK.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00055",
+    "ad": "ELİTE ENERJİ SİSTEMLERİ ELEKTRONİK VE DIŞ TİCARET SAN.A.Ş",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00056",
+    "ad": "AS GRUP MAKİNA KİMYA YEDEK PARÇA PAZ.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00057",
+    "ad": "HALAT TİCARET İNŞ.MAK.SAN.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00058",
+    "ad": "MADENLER MAKİNA ADNAN MADEN",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00059",
+    "ad": "MESS MAKİNA ÇELİK VE ÇİFTLİK EKİPMANLARI SANAYİ TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00060",
+    "ad": "KARMA SATIŞ PAZARLAMA İTH.İHR.İNŞ.TAAH.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00061",
+    "ad": "MDN GRUP TARIM SANAYİ VE TİC.A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00062",
+    "ad": "GÜNEŞ KROM DEKORASYON İSMAİL GÜNEŞ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00063",
+    "ad": "ERCİYES TİCARET MEHMET AKİF BAKIR",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00064",
+    "ad": "İREN MAKİNE KİMYA İNŞAAT GIDA TURİZM SAN.VE TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00065",
+    "ad": "TEMEL İNŞAAT MALZEMELERİ MÜTEAHHİTLİK SAN. VE TİC. LTD. ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00066",
+    "ad": "DEFAŞ MADENCİLİK SAN. VE TİC. A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00067",
+    "ad": "MAK SAVUNMA SAN.ELEKTRONİK OTOM.İNŞ.TUR.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00068",
+    "ad": "KÖMÜR İŞLETMELERİ A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00069",
+    "ad": "SAHA ZİNCİR ÇELİK HALAT İMALAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00070",
+    "ad": "ENERJİ ÇELİK HALAT HIRDAVAT MAKİNA İNŞAAT SAN.VE TİC.LTD.ŞTİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00071",
+    "ad": "OSTİM ZİNCİR MAKİNA VE DİŞLİ İML İTH.İHR TİC.SAN.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00072",
+    "ad": "TORAMAN MAKİNA İMALAT SAN.TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00073",
+    "ad": "BİRLİK ÇELİK HALAT İNŞ.OTO.VE ELEKT.SAN.TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00074",
+    "ad": "ÇOPUROĞLU SANAYİ MALZEMELERİ İMALAT VE TİCARET A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00075",
+    "ad": "YILDIRIMOĞLU MAKİNA SERVİS VE TİCARET  MEHMET YILDIRIM",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00076",
+    "ad": "FERNAS İNŞAAT A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00077",
+    "ad": "KAPADOKYA GALVANİZ METAL VE SAN.TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00078",
+    "ad": "GÜVEN ÇELİK HALAT İNŞ.ASN.MAK.OTOM.SAN.TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00079",
+    "ad": "ÖZ ÇINARLAR TEKNİK HIRDAVAT MAK.İNŞ.ÇELİK SAN.VE TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00080",
+    "ad": "DORUK MADENCİLİK VE ELEKTRİK ÜRETİM SAN.TİC.A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00081",
+    "ad": "ATLANTİS İSKELE İNŞAAT LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00082",
+    "ad": "OVEMMAK MAKİNA MÜH.İNŞ.SAN.TİC.A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00083",
+    "ad": "ÇAYIRHAN TERMİK ELEKTRİK ÜRETİM VE MADENCİLİK ANONİM ŞİRKETİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00084",
+    "ad": "UĞUR MAKİNA TAAHHÜT SANAYİ TİCARET A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00085",
+    "ad": "YAKUT CİVATA HIRDAVAT SAN.VE TİC.LTD.ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00086",
+    "ad": "SANAYİ VE TEKNOLOJİ BAKANLIĞI DÖNER SERMAYE İŞLETMESİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00087",
+    "ad": "DENİZ ELEKTRİK MAKİNA İMALAT SANAYİ ŞEMSETTİN DENİZ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00088",
+    "ad": "SARILAR MAKİNA ANKARA SARILAR İNŞAAT TURİZM MAKİNA OTO BAK. NAK. SAN. VE TİC. LTD. ŞTİ.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00089",
+    "ad": "TÜRK PATENT VE MARKA KURUMU",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00090",
+    "ad": "ÇORLU DİNAMİK MÜHENDİSLİK MAKİNA İNŞ.GIDA TURİZM SAN.VE TİC.LTD.ŞTİ",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00091",
+    "ad": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00092",
+    "ad": "GAFUR ŞAHİN",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00093",
+    "ad": "TÜRK STANDARDLARI ENSTİTÜSÜ / İZMİR BELGELENDİRME MÜD.",
+    "il": "ANKARA"
+  },
+  {
+    "id": "c00094",
+    "ad": "MARS TİCARET RAMAZAN KULLAŞ",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00095",
+    "ad": "ALİ DENİZ- EMRE KOCAKAYA ORT.(KEMER DENİZCİLİK)",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00096",
+    "ad": "ARMAN HIRDAVAT AYŞE BAL",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00097",
+    "ad": "TANRIKULU MAKİNA İNŞ.EML.OTO TURZ.SAN.VE TİC.A.Ş.",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00098",
+    "ad": "MEKOSER SERACILIK SAN.VE TİC.LTD.ŞTİ.",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00099",
+    "ad": "AYLAR HIRDAVAT İNŞAAT TİC. VE PAZ. LTD. ŞTİ.",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00100",
+    "ad": "ESİN ÇAKIROĞLU",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00101",
+    "ad": "ÖZTÜRK MARİN YAT MALZEMELERİ & TEKNİK SERVİS-FAİK ÖZTÜRK",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00102",
+    "ad": "DM ORMAN ÜRÜNLERİ DENİZCİLİK SAN. TİC. LTD. ŞTİ.",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00103",
+    "ad": "MARİNE KEMER YATÇILIK TURİZM TİC.VE SAN.LTD.ŞTİ.",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00104",
+    "ad": "ANTALYA KENT EKİPMANLARI İMALAT VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00105",
+    "ad": "MUSTAFA ÇETİNER",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00106",
+    "ad": "MANTEK MAKİNE OTOMASYON DANIŞMANLIK SAN.VE  TİC.LTD.ŞTİ.",
+    "il": "ANTALYA"
+  },
+  {
+    "id": "c00107",
+    "ad": "VEZİROĞLU ULUSLARARASI NAK.İNŞ.SAN.İÇ VE DIŞ TİC.LTD.ŞTİ",
+    "il": "ARTVİN"
+  },
+  {
+    "id": "c00108",
+    "ad": "LİVANELİ ULUSLARARASI NAKLİYAT İÇ VE DIŞ TİC.LTD.ŞTİ",
+    "il": "ARTVİN"
+  },
+  {
+    "id": "c00109",
+    "ad": "VİCE İNŞ.TAAH.İÇ VE DIŞ TİC.LTD.ŞTİ",
+    "il": "ARTVİN"
+  },
+  {
+    "id": "c00110",
+    "ad": "ÖZEFE TEKNİK HIRDAVAT NALBURİYE İHR.İTH.SAN.TİC.A.Ş.",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00111",
+    "ad": "BOZDOĞAN BELEDİYE BAŞKANLIĞI FEN İŞLERİ MÜDÜRLÜĞÜ",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00112",
+    "ad": "VEFA ÖZCAN MÜH. İNŞ. YAPI MALZ. HAY. SAN. VE TİC. LTD. ŞTİ.",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00113",
+    "ad": "CAN OTO DÖŞEME ERCAN UÇAK",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00114",
+    "ad": "ÇELİK HAFRİYAT NAKLİYAT İNŞ VİNÇ -MUSA ÇELİK",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00115",
+    "ad": "FEMAS ELEKTRİK MOTOR SAN. VE TİC. LTD. ŞTİ",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00116",
+    "ad": "ATK METAL SAN.TİC.LTD.ŞTİ",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00117",
+    "ad": "EYS ENDÜSTRİ MAKİNA SANAYİ ve TİCARET A.Ş.",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00118",
+    "ad": "ZEYBEK HAYVAN ÇİFTLİK EKİPMANLARI- EROL ARACI",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00119",
+    "ad": "COŞKUN TARIM MAKİNALARI-GÖKHAN ÖZSEZ",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00120",
+    "ad": "ULUDAĞ MAKİNA SANAYİ-OZAN ULUDAĞ",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00121",
+    "ad": "ZEYBEK  TARIM ÇİFTLİK EKİPMANLARI DURMUŞ ARACI",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00122",
+    "ad": "İZELMAK MAKİNA A.Ş.",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00123",
+    "ad": "EGE TAŞKÖMÜR MADEN ENERJİ PETROL İNŞAAT SAN.VE TİC.A.Ş.",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00124",
+    "ad": "DOĞUŞ DİDİM MARİNA İŞLETMELERİ TURİZM TİCARET ANONİM ŞİRKETİ",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00125",
+    "ad": "ERCAN SEVİNGÜL",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00126",
+    "ad": "HÜSEYİN YUVALI",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00127",
+    "ad": "AS-ÇELİK-SERVET AKSU",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00128",
+    "ad": "OSMAN ÖZATES",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00129",
+    "ad": "ASRIM AMBALAJ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "AYDIN"
+  },
+  {
+    "id": "c00130",
+    "ad": "AS KONTEYNIR HALİT BAYRAK",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00131",
+    "ad": "EĞİNLİOĞLU ZİNCİR SAN.VE TİC.A.Ş.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00132",
+    "ad": "ATİKLER SICAK DALDIRMA GALVANİZ SAN.VE TİC. LTD.ŞTİ.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00133",
+    "ad": "OĞUZHAN GUTER",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00134",
+    "ad": "BURAK ZİNCİR VE DÖVME SAN.TİC.LTD.ŞTİ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00135",
+    "ad": "ZEREN HIRDAVAT SINAİ VE TIBBİ GAZLAR MAK.SAN.TİC.LTS.ŞTİ.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00136",
+    "ad": "DÖKÜCÜOĞLU CİVATA SOMUN VE TEKNİK HIRDAVAT TİCARET SANAYİİ LTD.ŞTİ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00137",
+    "ad": "AK ZİNCİR SAN.VE TİC.LTD.ŞTİ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00138",
+    "ad": "EMK OLUKLU MUK.KUTU AMB.VE MAT.SAN.VE TİC.LTD.ŞTİ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00139",
+    "ad": "KAYAOĞLU MAKİNE NAK İNŞ GIDA SAN.MAK.İM.TA.TİC.SAN.LTD ŞT.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00140",
+    "ad": "ÜNAL TİCARET-AHMET KOYUNCUOĞLU ORT.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00141",
+    "ad": "MARMARA RULMAN PAZ VE SAN TİC.LTD.ŞTİ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00142",
+    "ad": "ÇELMAK TARIM MAKİNALARI TİC. SAN. LTD. ŞTİ.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00143",
+    "ad": "HEDEF HALAT SAPAN VE MAKİNA SAN.VE TİC.LTD.ŞTİ.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00144",
+    "ad": "TÜLÜHAN GIDA HAY.TAR.TUR.SAN.VE TIC.LTD.STI",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00145",
+    "ad": "ÜNALLAR  NALBURİYE HIRDAVAT -SÜLEYMAN  ÜNAL",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00146",
+    "ad": "2M KALE YAPI MALZEMELERİ SAN. TİC. LTD. ŞTİ.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00147",
+    "ad": "ZEYBEK TİCARET - YAKUP ZEYBEK",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00148",
+    "ad": "AYHAN KOZALI",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00149",
+    "ad": "MEVSİM SARACI HALİL TUZLUK",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00150",
+    "ad": "PAKSAN MAKİNA SANAYİ VE TİCARET A.Ş",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00151",
+    "ad": "TINAZ TARIM VE SANAYİ MAKİNALARI TİC.VE SAN.A.Ş.",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00152",
+    "ad": "AKYILDIZ AĞ ÖRME HÜSEYİN AKYILDIZ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00153",
+    "ad": "ÖZGÜR FİLİZ LOJİSTİK NAKLİYAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00154",
+    "ad": "ÜNVER ASİTÇİLİK  ASİT SATIŞ VE NAKLİYECİLİK-HALE İBİŞLER",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00155",
+    "ad": "BALIKESİR MUTAF ANBARI NAKLİYE LTD.ŞTİ",
+    "il": "BALIKESİR"
+  },
+  {
+    "id": "c00156",
+    "ad": "RECEP KIRCI",
+    "il": "BANDIRMA"
+  },
+  {
+    "id": "c00157",
+    "ad": "ULUPINAR MÜHENDİSLİK MAK.İMALAT TURZ.NAK.SAN.MAKZ.SAN.TİC.LTD.ŞTİ",
+    "il": "BARTIN"
+  },
+  {
+    "id": "c00158",
+    "ad": "HATTAT ENERJİ VE MADEN TİCARET A.Ş.",
+    "il": "BARTIN"
+  },
+  {
+    "id": "c00159",
+    "ad": "STAR ÇİVİ ÖNLÜĞÜ -CENGİZ YALÇIN",
+    "il": "BATMAN"
+  },
+  {
+    "id": "c00160",
+    "ad": "ABBASOĞLU TİCARET YAKUP GÜRBÜZER",
+    "il": "BAYBURT"
+  },
+  {
+    "id": "c00161",
+    "ad": "DANIŞLAR KALIP MAKİNA İNŞAAT SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "BİLECİK"
+  },
+  {
+    "id": "c00162",
+    "ad": "FURKAN SARACİYE",
+    "il": "BOLU"
+  },
+  {
+    "id": "c00163",
+    "ad": "İKİZ GRUP DERİ VE DERİ ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "BOLU"
+  },
+  {
+    "id": "c00164",
+    "ad": "MUHSİN KARATAŞ",
+    "il": "BOLU"
+  },
+  {
+    "id": "c00165",
+    "ad": "SONGÜL ARSLANOĞLU-ANADOLU SARACİYE",
+    "il": "BOLU"
+  },
+  {
+    "id": "c00166",
+    "ad": "ÖZTÜRKLER SARACİYE / MEHMET ÖZTÜRK",
+    "il": "BOLU"
+  },
+  {
+    "id": "c00167",
+    "ad": "RECEP KELEŞLİ",
+    "il": "BOLU"
+  },
+  {
+    "id": "c00168",
+    "ad": "KNC KESİCİ TAKIM SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "BURDUR"
+  },
+  {
+    "id": "c00169",
+    "ad": "BUMETSAN ZİNCİR OTOMOTİV MAKİNA YED. PARÇA SAN. TİC. LTD. ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00170",
+    "ad": "DOST TİCARET ARSLAN KOZ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00171",
+    "ad": "EFE METAL TORNA FREZE KALIP-İSMAİL UYGUR",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00172",
+    "ad": "GİRİŞİMCİ OTOMOTİV TURİZM İNŞAAT SAN VE TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00173",
+    "ad": "DIAMOND B&M OTOMOTİV İTH.İHR. MUSTAFA KEMAL PALANCI",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00174",
+    "ad": "HEBASAN MAKİNA İMALATI VE SANAYİ-HASAN KARAMAN",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00175",
+    "ad": "PINAR HAF.ALAŞ.METAL PLASTİK LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00176",
+    "ad": "TURGUT TİCARET BAĞLANTI ELEMANLARI TEKNİK HIRDAVAT SAN. TİC. A.Ş",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00177",
+    "ad": "HİDRO SEAL HİDROLİK PNOMATİK SAN.TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00178",
+    "ad": "EMİRHAN BOYA MENS KİMYA SAN..TİC.LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00179",
+    "ad": "AZBERAL METAL TORNA FERFORJE MOBİLYA GIDA TEKSTİL İTHALAT İHRACAT VE TİCARET LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00180",
+    "ad": "İCS ELEKTROMARKET SAN.TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00181",
+    "ad": "CENK ŞERİF TEPE MÜH.PETROL ÜRN.SAN.TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00182",
+    "ad": "UĞUR TEKNİK RULMAN YASİN ARIĞ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00183",
+    "ad": "YILMAZ OTOMOTİV SAN.TİC.SAVAŞ YILMAZ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00184",
+    "ad": "SİMAŞ METAL ELEKTRİK A.Ş.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00185",
+    "ad": "AKBAŞAK İNŞAAT MALZEMELERİ NALBURİYE HIRD.VE İZOLASYON TİC.SAN.LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00186",
+    "ad": "BURELKAN ELEKTRİK MAKİNA İNŞAAT NAKLİYE OTOMOTİV SAN.VE TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00187",
+    "ad": "TÜRKÖZ ELEKTRİK-MUSTAFA TÜRKÖZ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00188",
+    "ad": "GÜRDEMİR MAKİNE KALIP APARAT FİK.TASARIM  VE İMALAT-MUSTAFA DEMİRCİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00189",
+    "ad": "KAREL HIRDAVAT NAL.İNŞ.İTH.İHT.SAN.VE TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00190",
+    "ad": "M.O.S.T MODERN SÜT TEKNOLOJİLER HAYVANCILIK GIDA PAZARLAMA İNŞAAT TAAH.SAN.TİC.A.Ş.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00191",
+    "ad": "YÜKSAN TARIM MAKİNALARI LİMİTED ŞİRKETİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00192",
+    "ad": "BCE KAUÇUK VE METAL SAN.TİC.LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00193",
+    "ad": "EFEOĞLU ÇELİK HALAT -ÇELİK  TEL SAN.TİC LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00194",
+    "ad": "ELKİM MAKİNA YEDEK PARÇA SANAYİ TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00195",
+    "ad": "MÜCAİT ER TEZEL DÖKÜM",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00196",
+    "ad": "GÜÇLÜ TEKSTİL SAN VE TİC.A.Ş.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00197",
+    "ad": "UZPA HIRDAVAT MAKİNA NALBURİYE MOBİLYA NAKLİYAT İNŞAAT İTH.İHR.SAN.TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00198",
+    "ad": "TELBİS TEKSTİL SAN. ve TİC. LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00199",
+    "ad": "HAKTAN HIRDAVAT TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00200",
+    "ad": "KÜRESEL HIRDAVAT SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00201",
+    "ad": "TEKNOTİM BİLGİSAYAR-ÖZGE KAVAK",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00202",
+    "ad": "SLS İLAÇLAMA LİMAN HİZMETLERİ SAN.VE TİC.A.Ş.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00203",
+    "ad": "HUB MARİNE YATÇILIK VE DENİZCİLİK LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00204",
+    "ad": "DERELİ MARİNE EMRE DERELİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00205",
+    "ad": "EKS ENDÜSTRİYEL OTOMATİK KAPI SİSTEMLERİ   Bülent GÜRTÜRK",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00206",
+    "ad": "SEZER TARIM VE SAĞIM TEKNOLOJİLERİ SAN.TİC.LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00207",
+    "ad": "AVCI HIRDAVAT MALZ.VE EL ALETLERİ TİCARETİ-OĞUZ AVCI",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00208",
+    "ad": "FİMAKS MAKİNA GIDA VE TARIM ÜRÜNLERİ SAN. TİC. A.Ş.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00209",
+    "ad": "ELİF SU TEM.İNŞ.NAK.HAYV.TUR.GIDA TEKSTİL SAN.VE TİC.LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00210",
+    "ad": "TEKİNMAK TARIM MAKİNALARI SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00211",
+    "ad": "OKTEL EMAYE BOBİN TELLERİ ANDÜSTRİ MALZ.SAN.TİC.A.Ş.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00212",
+    "ad": "GÜRMAK YÜKLEME VE İSTİF MAKİNALARI SAN.TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00213",
+    "ad": "YILDIRIM SOĞUTMA BASINÇLI KOMPRESÖR SAN.VE TİC.A.Ş.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00214",
+    "ad": "ERYILMAZ PAZARLAMA  TİCARET VE SANAYİ LTD. ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00215",
+    "ad": "ERGÜL KARGO OTOPARK TUR.LOJ.NAKLİYAT TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00216",
+    "ad": "KAYRA YEMEK PASTANECİLİK GIDA TEMİZLİK HİZMETLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00217",
+    "ad": "ALİZE GÜMRÜK MÜŞAVİRLİĞİ LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00218",
+    "ad": "HOŞSEVEN ANBALAJ PAKETLEME SAN.VE TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00219",
+    "ad": "GÖKSAN OTOMOTİV YEDEK PARÇA SAN.TİC.LTD.ŞTİ",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00220",
+    "ad": "REMTAŞ ULAŞIM DEPOLAMA HİZ.LOJ.VE NAK.AMBARI İŞL.TİC.LTD.ŞTİ.",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00221",
+    "ad": "NADİR BAŞ ZİNCİR İMALATI",
+    "il": "BURSA"
+  },
+  {
+    "id": "c00222",
+    "ad": "SITKI ÖZEL YAYPA YAY İMALAT VE PAZARLAMA",
+    "il": "ÇANAKKALE"
+  },
+  {
+    "id": "c00223",
+    "ad": "ALKAN TİCARET SELİM ALKAN",
+    "il": "ÇORUM"
+  },
+  {
+    "id": "c00224",
+    "ad": "MUSTAFA GÜCÜCÜK-TAŞHAN TİCARET",
+    "il": "ÇORUM"
+  },
+  {
+    "id": "c00225",
+    "ad": "ER TİCARET MAKİNA SANAYİ GAZLARI A.Ş.",
+    "il": "ÇORUM"
+  },
+  {
+    "id": "c00226",
+    "ad": "YÜKSELEN MAKİNA SAN.TİC.LTD.ŞTİ",
+    "il": "ÇORUM"
+  },
+  {
+    "id": "c00227",
+    "ad": "AHMET GÜCÜCÜK",
+    "il": "ÇORUM"
+  },
+  {
+    "id": "c00228",
+    "ad": "MUHİTTİN AYDURAN",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00229",
+    "ad": "ÇAKIROĞLU HIRDAVAT SAN. TİC. A.Ş.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00230",
+    "ad": "ATM HIRDAVAT SAN. VE TİC. LTD. ŞTİ.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00231",
+    "ad": "EKİZ TİCARET YAPI MAMÜLLERİ  SATIŞI -HALİL İBRAHİM  EKİZ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00232",
+    "ad": "KABAŞ LASTİK KİMYA PET. TURZ. NAK. İNŞ. TAAH. MÜH. SAN. TİC.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00233",
+    "ad": "AKGÜN METAL KABLO TEKSTİL GIDA. TOPRAK VE HAYVAN MAHSÜLLERİ,İNŞAAT SANAYİ VE TİCARET  LTD.ŞTİ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00234",
+    "ad": "AS MAKİNA TEKNİK HIRD. SAN. TİC. LTD. ŞTİ.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00235",
+    "ad": "ÇAKI BIÇAK İMALATI VE SATIŞI-OSMAN KARAKAYA",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00236",
+    "ad": "GDZ ENERJİ YATIRIMLARI A.Ş.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00237",
+    "ad": "KAHRAMANLAR OTO LASTİK OTOMOTİV SAN.TİC LTD.ŞTİ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00238",
+    "ad": "ÖNDER NAL.İNŞ.MALZ.SAN.VE TİC.İTH.İHR.LTD.ŞTİ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00239",
+    "ad": "KÜP ŞARAPÇILIK FER.GIDA İNŞ.TAAH..NAK.SAN.TİC.LTD.ŞTİ.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00240",
+    "ad": "YELALSAN DENTÜRK HIRDAVAT NALBURİYE TOPTAN PARAKENDE -TUNCAY TÜRK",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00241",
+    "ad": "HKN CİVATA & HIRDAVAT-AYLİN TOZUN",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00242",
+    "ad": "ÇELENLER FIRÇA YAPI MALZEMELERİ İMALAT SAN. TİC. LTD. ŞTİ.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00243",
+    "ad": "MÜFTÜOĞLU YAPI MALZ. TEKSTİL İMAL. İNŞ. GIDA PAZ. SAN. TİC. LTD. ŞTİ.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00244",
+    "ad": "AYŞE ATEŞ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00245",
+    "ad": "YS HORTUMİŞ HIRDAVAT SANAYİ VE TİCARETLİMİTED ŞİRKETİ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00246",
+    "ad": "HÜMSAN MAKİNE OTOMASYON SAN. TİC. LTD. ŞTİ.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00247",
+    "ad": "KÜÇÜKER TEKSTİL SANAYİ VE TİCARET A.Ş.",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00248",
+    "ad": "ERSA DEMİR ÇELİK LTD.ŞTİ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00249",
+    "ad": "KARDEMİR ÇELİK SANAYİ ANONİM ŞİRKETİ",
+    "il": "DENİZLİ"
+  },
+  {
+    "id": "c00250",
+    "ad": "PİRAN TİCARET-KADRİ DEMİR",
+    "il": "DİYARBAKIR"
+  },
+  {
+    "id": "c00251",
+    "ad": "KILIÇ TİCARET- MÜCAHİT KILIÇ",
+    "il": "DİYARBAKIR"
+  },
+  {
+    "id": "c00252",
+    "ad": "COŞKUNLAR TİCARET İNŞ.PLAS.TAR.ÜRÜN.TİC.LTD.ŞTİ.",
+    "il": "DİYARBAKIR"
+  },
+  {
+    "id": "c00253",
+    "ad": "EMA TEMİZLİK İNŞ. SAN. TİC. LTD. ŞTİ.",
+    "il": "DİYARBAKIR"
+  },
+  {
+    "id": "c00254",
+    "ad": "NEXT İNŞAAT TEKNOLOJİ MEDİKAL GIDA AHMET AKIN",
+    "il": "DİYARBAKIR"
+  },
+  {
+    "id": "c00255",
+    "ad": "MED HABERLEŞME VE BİLGİ TEKNOLOJİLERİ YAZILIM MEDİKAL PETROL GIDA VE TARIM İTH.İHR.DIŞ TİC.LTD.ŞTİ.",
+    "il": "DİYARBAKIR"
+  },
+  {
+    "id": "c00256",
+    "ad": "CELFİ YAPI  İNŞ.TAAH.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "DÜZCE"
+  },
+  {
+    "id": "c00257",
+    "ad": "KÖKAĞAÇ TİCARET YUSUF KÖKAĞAÇ",
+    "il": "DÜZCE"
+  },
+  {
+    "id": "c00258",
+    "ad": "BKİ BATI KÖMÜR İŞLETMELERİ ANONİM ŞİRKETİ",
+    "il": "EDİRNE"
+  },
+  {
+    "id": "c00259",
+    "ad": "GEZER MAKİNA SAN.TİC.LTD.ŞTİ.",
+    "il": "ELAZIĞ"
+  },
+  {
+    "id": "c00260",
+    "ad": "PETSAN İNŞAAT TURİZM RENT A CAR SAN.TİC.A.Ş.",
+    "il": "ELAZIĞ"
+  },
+  {
+    "id": "c00261",
+    "ad": "ÖZEN NALBURİYE İNŞ.VE MALZ.NAK.TAR.ÜRT.PAZ.İTH.İHR.SAN.TİC.LTD.ŞTİ.",
+    "il": "ELAZIĞ"
+  },
+  {
+    "id": "c00262",
+    "ad": "ÖZ EMEK OTOMOTİV MÜHENDİSLİK İNŞ.TAH.GI.TEM.SAN. TİC.LTD.ŞTİ.",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00263",
+    "ad": "YAVUZ TİCARET-KENAN HAYATİ GÖZENER",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00264",
+    "ad": "YARDIMCI TİC. LTD. ŞTİ.",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00265",
+    "ad": "ÖĞEL KARDEŞLER OTOMOTİV İNŞ.TUR.GIDA SAN.TİC.LTD.ŞTİ",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00266",
+    "ad": "YAKAMOZ YAPI MALZEMELERİ A.Ş.",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00267",
+    "ad": "RACİ KÖRÜKLER",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00268",
+    "ad": "MERT HIRDAVAT İNŞ.YAPI MALZ.PAZ.AHMET AKTAŞ",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00269",
+    "ad": "AKAR  TİCARET VE PAZ.LTD.ŞTİ.",
+    "il": "ERZURUM"
+  },
+  {
+    "id": "c00270",
+    "ad": "ESPROMC MAKİNE İNŞAAT BİLİŞİM SAN.VE TİC.LTD.ŞTİ.",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00271",
+    "ad": "KOZMİK ISI CİHAZLARI SAN.TİC.LTD.ŞTİ.",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00272",
+    "ad": "ARIKAN HIRDAVAT KEMAL ARIKAN",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00273",
+    "ad": "Y.M.S. MAKİNA METAL - ZİYA BÜYÜKYILDIRIM",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00274",
+    "ad": "CAN CİVATA HIRDAVAT OTO YEDEK PARÇA SAN.TİC.LTD.ŞTİ",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00275",
+    "ad": "HUZUR YEDEK PARÇA OTO A.Ş.",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00276",
+    "ad": "TULPARES TARIM MAKİNALARI TASARIM VE DANIŞMANLIK HİZMETLERİ SAN.TİC.LTD.ŞTİ.",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00277",
+    "ad": "RS ŞENSARI ASFALT PLANT ÜLKER ŞENSARI",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00278",
+    "ad": "ŞENSARI ASFALT PLENTİ VE YOL EKİPMANLARI LTD.ŞTİ.",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00279",
+    "ad": "ELDEM DAYANIKLI TÜKETİM MALLARI İNŞAAT TURZ.İŞL.SAN.VE TİC.A.Ş",
+    "il": "ESKİŞEHİR"
+  },
+  {
+    "id": "c00280",
+    "ad": "HASAN REMZİ ERALP",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00281",
+    "ad": "CİVAN SARACİYE - LEVENT DOKUYUCU",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00282",
+    "ad": "DETAY BGLT. ELM. SAN. TİC. AŞ.",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00283",
+    "ad": "EMEK SARACİYE DERİ VE DERİ MAMÜLLERI LTD. ŞTİ. M.ZİHNİ AÇIKKOL",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00284",
+    "ad": "HÜSEYİN - İSMAİL SULAKDAĞ FT. :FATMA BARLAR",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00285",
+    "ad": "FURKAN GÜR (BİRLİK SARACİYE)",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00286",
+    "ad": "MERT-SAN İNŞAAT MALZEMELERİ - AHMET KARACA",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00287",
+    "ad": "OSMANLI ÇELİK SICAK DEMİRCİLİK-RECEP ÜMİT ALTUNTAŞ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00288",
+    "ad": "ALTINÇELİK TİCARET - AYHAN FARUK ALTUNTAŞ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00289",
+    "ad": "RABİA YAĞMUR GÜRBAN",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00290",
+    "ad": "ALFIRAT KARGO TAŞ. İÇ VE DIŞ TİC. LTD. ŞTİ.",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00291",
+    "ad": "MERT SARACİYE - BİLAL GÖRÜNMEZ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00292",
+    "ad": "İBRAHİM HALİL ERTAY",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00293",
+    "ad": "BÜYÜK NALBURİYE - SERKAN BÜYÜK",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00294",
+    "ad": "YILDIZ BAĞLANTI ELEMANLARIVE OTOM.SAN.TİC.LTD.ŞTİ.",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00295",
+    "ad": "ENES BAĞLANTI ELEMANLARI CİVATA SANAYİ VE TİC.LTD.ŞTİ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00296",
+    "ad": "MEGA OTO AKSESUAR TOPTAN PERAKENDE SATIŞI HALİL İBRAHİM KORKMAZ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00297",
+    "ad": "AK SALÇA GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00298",
+    "ad": "EMİN CİVATA TEKSTİL SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00299",
+    "ad": "BİRKAN EROL-GÜNEYDOĞU TİCARET",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00300",
+    "ad": "ERDAL SEÇİLMİŞ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00301",
+    "ad": "ZÜMRA CİVATA BAĞLANTI ELEMANLARI TEKNİK HIRDAVAT İNŞAAT LİMİTED ŞİRKETİ.",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00302",
+    "ad": "HANİFİ SEÇKİN",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00303",
+    "ad": "İBRAHİM GÜNEY",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00304",
+    "ad": "TEMELOĞLU SARACİYE - ORHAN ÖZTEMEL",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00305",
+    "ad": "SELÇUK ÖZKABALCI - BİROL SARACİYE",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00306",
+    "ad": "BEREKET SARACİYE-MÜCAHİT NEBİ DORUM",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00307",
+    "ad": "DHT İNTERNATIONAL LOJİSTİK DENİZCİLİK İTHALAT VE İHRACAT LTD.ŞTİ.",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00308",
+    "ad": "HASAN KARAKUŞ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00309",
+    "ad": "GAZİANTEP SARACİYE - EMRAH BAĞDATLI",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00310",
+    "ad": "GÜNEYOĞLU SARACİYE - İBRAHİM GÜNEY",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00311",
+    "ad": "YILMAZ SARACİYE-EKREM YILMAZ",
+    "il": "GAZİANTEP"
+  },
+  {
+    "id": "c00312",
+    "ad": "BEŞEL KAPI SİSTEMLERİ İTHALAT İHRACAT SANAYİ TİCARET LİMİTED ŞİRKETİ.",
+    "il": "HATAY"
+  },
+  {
+    "id": "c00313",
+    "ad": "MEHMET YERAL",
+    "il": "HATAY"
+  },
+  {
+    "id": "c00314",
+    "ad": "TOSYALI FİLMAŞİN VE İNŞAAT DEMİR ÜRETİM SANAYİ ANONİM ŞİRKET",
+    "il": "HATAY"
+  },
+  {
+    "id": "c00315",
+    "ad": "HİS TİCARET VİNÇ VE SANAYİ MALZEMELERİ SATIŞI-HATİCE MACİT",
+    "il": "HATAY"
+  },
+  {
+    "id": "c00316",
+    "ad": "MÜEZZİNOĞLU KESİCİ EL ALETLERİ",
+    "il": "ISPARTA"
+  },
+  {
+    "id": "c00317",
+    "ad": "DÖV-SAN  DÖVME SANAYİ MUHİTTİN VE CEYLAN ÇALLIOĞLU",
+    "il": "ISPARTA"
+  },
+  {
+    "id": "c00318",
+    "ad": "HÜLYA DURSUN",
+    "il": "ISPARTA"
+  },
+  {
+    "id": "c00319",
+    "ad": "TAŞ YAPI ALİ İHSAN TAŞ",
+    "il": "ISPARTA"
+  },
+  {
+    "id": "c00320",
+    "ad": "MAT METAL SAN VE DIŞ TİC.LTD.ŞTİ. 2026",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00321",
+    "ad": "NMT LOJISTIK ANONIM SIRKETI",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00322",
+    "ad": "MEHMET CEYLAN YAPI MALZ. NAKLİYE TURİZM VE İNŞAAT SAN. VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00323",
+    "ad": "MATECH PROJE SANAYİ VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00324",
+    "ad": "KADİR KÜÇÜK METAL ANONİM ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00325",
+    "ad": "METROSAN KALİBRASYON MERKEZİ SAN.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00326",
+    "ad": "LAS ZIRH ZİNCİR SAN. TİC. AŞ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00327",
+    "ad": "ASİL ÇELİK HALAT ASANSÖR MALZ. SAN. VE TİC. LTD. ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00328",
+    "ad": "MOTİF HIRDAVAT SANAYİ VE PAZARLAMA DIŞ TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00329",
+    "ad": "ZAFER HEDİYELİK EŞYA SPOR MALZ.SAN.VE DIŞ TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00330",
+    "ad": "CSM METALURJİ İMALAT SAN. VE MÜH. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00331",
+    "ad": "BMS BİRLEŞİK METAL SAN. TİC. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00332",
+    "ad": "DEBİSA DENİZLİ BIÇAK SAN. YATAĞAN KESİCİ EL ALETLERİ VE HIRDAVAT MUHTEREM GÖKKURT",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00333",
+    "ad": "REİSLER GLOBAL DIŞ TİCARET LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00334",
+    "ad": "HİLAL ÇELİK HALAT - KUNTAY REÇBER",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00335",
+    "ad": "GÜLAL A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00336",
+    "ad": "NUH TEL SANAYİ ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00337",
+    "ad": "GÜÇLÜ TEKSTİL YEDEK PARÇA SANAYİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00338",
+    "ad": "FURKAN METAL KİMYA SAN. DIŞ TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00339",
+    "ad": "MZM TEKNİK MARKET SAN.TİC.A.Ş",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00340",
+    "ad": "TESLA BAĞLANTI ELEMANLARI LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00341",
+    "ad": "MERTSOM SOMUN SAN. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00342",
+    "ad": "MOTOBROS MOTOR AKSESUARLARI SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00343",
+    "ad": "OTO KONAK YEDEK PARÇA LTD.STI.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00344",
+    "ad": "OTO UZAY OTOMOTİV TİC. LTD. ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00345",
+    "ad": "UGR UĞUR HİDROLİK PNOMATİK MAKİNE SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00346",
+    "ad": "BAHAR GRUP BOYA İNŞAAT YAPI MALZAMELERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00347",
+    "ad": "SPANZET MAK. OTOMOTİV LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00348",
+    "ad": "ŞEN GIDA OTOMOTİV MAKİNA SAN. VE DIŞ TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00349",
+    "ad": "TERMO MÜHENDİSLİK İNŞ.TESİSAT REKLAMCILIK SAN. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00350",
+    "ad": "FARUK BOYRAZ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00351",
+    "ad": "TÜRKMENLER OTO AKSESUAR SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00352",
+    "ad": "KOÇKAYA MOTORLU ARAÇLAR SAN. VE TİC. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00353",
+    "ad": "LEGACY PİLATES EKİPMANLARI TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00354",
+    "ad": "OTO ERBAYLAR LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00355",
+    "ad": "TEVFİK ERBAHAR MUHTELİF DENİZ MALZ.ÇELİK HALAT VE AKSESUARLARI ÇELİK TEL SAPAN ÖRGÜ PRES BASKI İŞLER",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00356",
+    "ad": "EMRE AŞLAMACI",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00357",
+    "ad": "GERGİSAN YÜK VE İŞ GÜVENLİĞİ EKİP İMAL. OTO İTH. İHR. SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00358",
+    "ad": "KUBİLAY ASLANTAŞ LİONSTONE AUTO PARTS",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00359",
+    "ad": "SİL-VAR KALDIRMA GEREÇLERİ SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00360",
+    "ad": "DÖRTEL HIRDAVAT SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00361",
+    "ad": "SIR CEKVALF VE YANGIN SÖNDÜRME MALZEMELERİ MADENİ EŞYA İMALAT PAZ.SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00362",
+    "ad": "AYMER DENİZCİLİK VE YANGIN SÖNDÜRME CİHAZLARI ÜMİT ÇİFTÇİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00363",
+    "ad": "ÇEVRE RULMAN HIRD. SAN. PAZ. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00364",
+    "ad": "GLOBAL ÇELİK HALAT TİC. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00365",
+    "ad": "STAR YEDEK PARÇA VE DAYANIKLI TÜKETİM MALLARI TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00366",
+    "ad": "DEMİRCİ ÇELİK YAPI VE MAKİNA SANAYİ - AHMET GÜLASTI",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00367",
+    "ad": "AKBİL HIRDAVAT-SERDAR YAPICI",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00368",
+    "ad": "KANAT DIŞ TİCARET DAN.SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00369",
+    "ad": "KOLSAN METAL ENDÜSTRİ SAN.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00370",
+    "ad": "ATILIM TEKSTİL-NALAN ERBAŞI",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00371",
+    "ad": "GÜLER ÇELİK HALAT İŞ GÜVENLİĞİ SAN.TİCARET",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00372",
+    "ad": "AVRASYA PASPAS OTOMOTİV SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00373",
+    "ad": "ALBASSAM TURİZM TEKSTİL SAN DIŞ TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00374",
+    "ad": "ÜNVER ÇELİK HALAT HIRDAVAT DENİZ MALZEMELERİ SANAYİ  VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00375",
+    "ad": "ŞAHİN ZİNCİR TURİZM GIDA SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00376",
+    "ad": "DC ELEKTRONİK MUSTAFA ÖZDEN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00377",
+    "ad": "PPG CLEANROOMS MÜHENDİSLİK VE TEKNOLOJİK SİSTEMLER SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00378",
+    "ad": "S.C.VETERİNER VE HAYVAN ÜRÜNLERİ DIŞ TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00379",
+    "ad": "HDY FİLO KİRALAMA HİZMETLERİ LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00380",
+    "ad": "ENGİN KÖKNAR DENİZ METAL",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00381",
+    "ad": "GTIP GRUP İÇ VE DIŞ TİC.SAN.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00382",
+    "ad": "AFAS İHRACAT İTHALAT TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00383",
+    "ad": "KOZA OTOMOTİV SAN. TİC. VE A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00384",
+    "ad": "KUEN MAKİNA DANIŞMANLIK SANAYİ TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00385",
+    "ad": "BİRLEŞİM RULMAN HIRDAVAT MAK.SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00386",
+    "ad": "STILSON EL ALETLERİ SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00387",
+    "ad": "HALİS İŞIK",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00388",
+    "ad": "MERİÇ PAZARLAMA İÇ VE DIŞ TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00389",
+    "ad": "IMEKS SANAYİ ÜRÜNLARİPAZARLAMA TURİZM İTHALAT İHR.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00390",
+    "ad": "HEDEF PARK KENT MOB.VE KAUÇUK ZEMİN SİSTEMLERİ SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00391",
+    "ad": "KNK BAŞ PATİNAJ ZİNCİRİ LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00392",
+    "ad": "PLANET LASTİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00393",
+    "ad": "NECATİ BİLGİN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00394",
+    "ad": "ÇUKUROVALI GEMİ HIRDAVAT SANAYİ VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00395",
+    "ad": "GÜLTEKİN İĞCİ MOPAR -İŞ OTOMOTİV",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00396",
+    "ad": "MY CİVATA HIRDAVAT VE RULMAN SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00397",
+    "ad": "GENCER TEKNİK HIRDAVAT PAZARLAMA SAN.TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00398",
+    "ad": "AVRASYA BAZAAR LOJİSTİK İTH.İHR.DIŞ TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00399",
+    "ad": "ÖKSÜZ ÇELİK HALAT-HAKAN ÖKSÜZ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00400",
+    "ad": "FİBRE TEKSTİL TUR.İNŞ.SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00401",
+    "ad": "SELİN DEVEOĞLU/DEVPA ENDÜSTRİYEL",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00402",
+    "ad": "DOST TEKNİK TEKSTİL VE KUYUMCULUK SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00403",
+    "ad": "CHARTER LINK TURKEY LOJISTIK A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00404",
+    "ad": "AYHAN İLHAN HIRD.SAN VE DIŞ TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00405",
+    "ad": "MARŞEN DIŞ TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00406",
+    "ad": "FATMA MERVE KARAKAŞOĞLU - MOTO BROS",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00407",
+    "ad": "IST İSTANBUL ÇELİK HALAT VE HIRDAVAT İTHALAT İHRACAT TİCARET SANAYİ LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00408",
+    "ad": "EAE ELEKTRİK ASANSÖR END.İNŞAAT SAN.VE TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00409",
+    "ad": "BULUŞ HIRDAVAT-YUSUF BULUŞ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00410",
+    "ad": "LİDER RAF DOĞ.VE NAK.SAN.TİC..LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00411",
+    "ad": "SELİM KAYA KOLTUK-SELİM KAYA",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00412",
+    "ad": "QAAP İTHALAT İHRACAT  DANIŞMANLIK GIDA TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00413",
+    "ad": "YIL DEMİR ÇELİK SAN VE TİC LTD ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00414",
+    "ad": "ARKON İNŞAAT MALZ.VE DIŞ TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00415",
+    "ad": "ÖZARI GROUP BRANDA TEKSTİL SANAYİ VE DIŞ TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00416",
+    "ad": "YASEMİN AKBAŞ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00417",
+    "ad": "GLOBAL AMAZON İHRACAT İTHALAT TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00418",
+    "ad": "İZOREF ENDÜSTRİYEL ÜRÜNLER MAK.KİMYA SAN VE DIŞ TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00419",
+    "ad": "BOYSA DIŞ TİC.VE HIRDAVAT SAN.PAZ.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00420",
+    "ad": "METSAN SPANZET İŞ VE YÜK GÜVENLİĞİ EKİPMANLARI  SAN.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00421",
+    "ad": "SİNERJİ TRAFİK ENERJİ SANAYİ VE TİC.A.Ş",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00422",
+    "ad": "ŞAŞMAZLAR OTOMOTİV-EBRU ŞAŞMAZLAR",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00423",
+    "ad": "HİSAR ÇELİK HALAT İTH.İHR.SAN.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00424",
+    "ad": "SETAŞ BAĞLANTI ELEMANLARI KALIP VE PRES YAYLI RONDELA VE YARIKLI PİMLER İMALATI-İBRAHİM ZEYBEK",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00425",
+    "ad": "ERSEL FABRİKA MALZEMELERİ METAL SANAYİ TİCARET LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00426",
+    "ad": "DİRA ÇELİK MÜŞERREF DOĞAN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00427",
+    "ad": "NOKTA ÇELİK HALAT VE MAKİNA SANAYİ TİCARET A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00428",
+    "ad": "SEZGİN NALBURİYE İNŞAAT END.MALZ.SAN VE TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00429",
+    "ad": "GÖKTÜRKLER ÇELİK A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00430",
+    "ad": "ERK ÇELİK HALAT SANAYİ ve TİCARET A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00431",
+    "ad": "ENDER YAPI MALZEMELERİ İNŞ.TAAH.SAN.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00432",
+    "ad": "KARADAYI  HIRDAVAT İNŞ.MALZ.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00433",
+    "ad": "GÖKHAN DENİZCİLİK -HAKAN ÇALIŞKAN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00434",
+    "ad": "AYK HIRDAVAT OTOMOTİV SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00435",
+    "ad": "FİDANLAR GRUP DIŞ TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00436",
+    "ad": "SALMAN GÖKÇE",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00437",
+    "ad": "EBRAR TEKNİK HIRDAVAT A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00438",
+    "ad": "ÇUKURLUOĞLU HIRDAVAT MAKBULE ÇUKURLU",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00439",
+    "ad": "KARTAL GRUP LÜKS HIRDAVAT ELEKTRONİK PLASTİK SANAYİ DIŞ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00440",
+    "ad": "TELMAKSAN TEL VE MAKİNA SANAYİ TİCARET ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00441",
+    "ad": "METİN NALBURİYE TİC.VE SAN.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00442",
+    "ad": "SAYFA METAL ENDÜSTRİ SAN.VE TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00443",
+    "ad": "AS RULO FIRÇA VE TEKSTİL SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00444",
+    "ad": "MET-GÜN-EZE-ATİS ADİ ORTAKLIĞI",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00445",
+    "ad": "FATİH İNAN METAL AYD.OTO.İNŞ.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00446",
+    "ad": "SABANCILAR OTO MAKİNA İTH.İHR.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00447",
+    "ad": "KISMET HIRDAVAT İNŞ.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00448",
+    "ad": "MURAT SEZGİN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00449",
+    "ad": "AL AGHBAR DANIŞMANLIK.İTH.İHR.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00450",
+    "ad": "NESSA METAL MAKİNA SAN.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00451",
+    "ad": "DORUK YAPI GEREÇLERİ SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00452",
+    "ad": "CENGİZ IŞIK",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00453",
+    "ad": "ADA AVCIOĞULLARI PRES DÖKÜM SU ARMATÜRLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00454",
+    "ad": "ŞERAFETTİN ŞENOL",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00455",
+    "ad": "GÜNEŞ MAKİNA SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00456",
+    "ad": "SARAY DENİZ MALZ.YAT.SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00457",
+    "ad": "ULU ÇELİK HALAT SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00458",
+    "ad": "ÇELİKAY ZİNCİR DİŞLİ SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00459",
+    "ad": "KESİCİ DIŞ TİCARET VE MAKİNA SAN.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00460",
+    "ad": "MARTI ÇEVRE HİZMETLERİ  DENİZ TEMİZLİĞİ  LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00461",
+    "ad": "MARİS DENİZ ÇEVRE SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00462",
+    "ad": "ASLI PARK ÇEVRE TASARIM VE MÜHENDİSLİK SANAYİ DIŞ TİCARET LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00463",
+    "ad": "HALİL AYSEL VE ORTAK",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00464",
+    "ad": "ES-ER DÖVME ÇELİK SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00465",
+    "ad": "UFUK TERZİOĞLU",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00466",
+    "ad": "SALİH KAYA-BİLLİMUM TOPTAN DEMİR",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00467",
+    "ad": "GEMAS GEMİ MAKİNA SAN.TAŞ.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00468",
+    "ad": "YÜCEDAL TİCARET -HASAN YÜCEDAL",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00469",
+    "ad": "GÖVER ÇELİK HALAT SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00470",
+    "ad": "POLYAK EYNEZ ENERJİ ÜRETİM MADENCİLİK San. Ve Tic. A.Ş",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00471",
+    "ad": "ÇELSAN ÇELİK HALAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00472",
+    "ad": "CİNAZOĞLU ÇELİK HALAT TİCARET CULYO BASMACIYAN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00473",
+    "ad": "AVRUPA HALAT VE YÜK KALDIRMA EKİPMANLARI SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00474",
+    "ad": "LİMAN ÇELİK HIRDAVAT MAKİNA İTH.İHR.SAN.VE TİC LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00475",
+    "ad": "OMSAN LOJİSTİK A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00476",
+    "ad": "KURTSAN TARIM END.MAK.SAN.VE TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00477",
+    "ad": "İSTANBUL GÜVERTE VE GEMİ MAL.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00478",
+    "ad": "DEHA TECH MAKİNA SANAYİ VE TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00479",
+    "ad": "SEAGULL DENİZ TEMİZLİĞİ VE ÇEVRE TEKNOLOJİLERİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00480",
+    "ad": "EPS DENİZCİLİK VE ÇEVRE HİZ.SAN.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00481",
+    "ad": "KRM YAT ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00482",
+    "ad": "BLUE WATER SHIPPING LOJISTIK ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00483",
+    "ad": "MASER ÇELİK HALAT HIRDAVAT SAN VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00484",
+    "ad": "GÜNEY ÇELİK HALAT İTH.İHC.SAN VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00485",
+    "ad": "KUŞDOĞAN ÇELİK HALAT SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00486",
+    "ad": "HALATSAN SAPAN VE MAKİNA SANAYİ TİCARETİ LİMİTED ŞİRKETİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00487",
+    "ad": "PARHAN MAKİNA SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00488",
+    "ad": "TUDA ÇELİK HALAT VE YÜK KALDIRMA EKİPMANLRI-TUGAY DAĞDEVİREN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00489",
+    "ad": "NET MAK METAL MAKİNE SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00490",
+    "ad": "METEMTUR YATIRIM ENERJİ TURİZM VE İNŞ. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00491",
+    "ad": "ÜNAL KEKEÇ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00492",
+    "ad": "ARS TASARIM PROJE UYGULAMA LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00493",
+    "ad": "HİDROKAPSAN GEMİ İNŞAAT MÜHENDİSLİK SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00494",
+    "ad": "QLTEQ TEKNOLOJİ YAZILIM DANIŞ.TURİZM A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00495",
+    "ad": "SAMER  MAKİNA KALIP AMBALAJ TIBBİ CİHAZ SAN VE DIŞ TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00496",
+    "ad": "BES BİYOKÜTLE ENERJİ SANTRALİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00497",
+    "ad": "VESTEB İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00498",
+    "ad": "CANİP KAHRAMAN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00499",
+    "ad": "MODERN GARAJ DAVUT ÇORLU",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00500",
+    "ad": "GTEAM OTOMOTİV YEDEK PARÇA &AKSESUAR-HÜSEYİN GÜNANA",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00501",
+    "ad": "LİFT AND SHİP ÇELİK HALAT VE DENİZCİLİK MALZ.İML.VE TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00502",
+    "ad": "UTA DIŞ TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00503",
+    "ad": "MARİNEİST DENİZ MALZEMELERİ KUYUMCULUK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00504",
+    "ad": "KOLLEKTİF GEMİ DONATIM VE DIŞ TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00505",
+    "ad": "ACN TEKNOLOJİ İNŞAAT LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00506",
+    "ad": "ATAKÖY MARİNA VE YAT İSL.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00507",
+    "ad": "G CONCEPT OTOMOTİV TEKNOLOJİ SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00508",
+    "ad": "ROZA TARIM HAYVANCILIK LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00509",
+    "ad": "ENDÜSTRİ GRUP MÜHENDİSLİK MAKİNA İNŞAAT SAN.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00510",
+    "ad": "TAMÇELİK ÇELİK HALAT HIRDAVAT SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00511",
+    "ad": "ŞİŞMANYAZICI KARDEŞLER DENİZ MALZEMELERİ TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00512",
+    "ad": "BİRİNCİLER KİMYA SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00513",
+    "ad": "EZGİ METAL SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00514",
+    "ad": "DÖNMEZ METAL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00515",
+    "ad": "ETS ERSOY TURİSTİK SERVİSLERİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00516",
+    "ad": "MODA DENİZCİLİK NAKLİYAT DIŞ TİCARET LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00517",
+    "ad": "SAĞLAM METAL SAN.VE TİC.AŞ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00518",
+    "ad": "YAPI KREDİ FİNANSAL KİRALAMA A.O.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00519",
+    "ad": "FORMAK FORKLİFT PAZARLAMA VE KİR.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00520",
+    "ad": "YURTİÇİ KARGO SERVİSİ A.Ş. GENEL MÜDÜRLÜK",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00521",
+    "ad": "EGE ÇELİK ENDÜSTRİSİ SANAYİ VE TİCARET A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00522",
+    "ad": "İÇDAŞ ÇELİK ENERJİ TERS. UL. SAN. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00523",
+    "ad": "ARAS KARGO YURTİÇİ YURTDIŞI TAŞIMACILIK A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00524",
+    "ad": "HALAT BRANDA SAN. TİC. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00525",
+    "ad": "GÖKBORA ULUSLARARASI NAKLİYAT VE TİCARET A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00526",
+    "ad": "YOLBULAN DEMİR SANAYİ VE TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00527",
+    "ad": "ALBAKSAN ALAŞIMLI BAKIR SAN.VE TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00528",
+    "ad": "ALDÖKSAN ALAŞIMLI DÖKÜM SANAYİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00529",
+    "ad": "ANADOLU FAKTORİNG A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00530",
+    "ad": "ASYA ISIL İŞLEM SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00531",
+    "ad": "BATIHAN GÜMRÜK MÜŞAVİRLİK HİZMETLERİ LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00532",
+    "ad": "BROMETA MATERIALS DIŞ TİCARET LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00533",
+    "ad": "ÇOKYAŞAR HALAT MAKİNE TEL GALVANİZLEME SAN.TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00534",
+    "ad": "DURUKANLAR METAL SANAYİ VE TİCARET ANONİM ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00535",
+    "ad": "EMFA ÇELİK SANAYİ DIŞ TİCARET A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00536",
+    "ad": "EVOLOG NAKLİYAT VE LOJİSTİK HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00537",
+    "ad": "FALKON OTOMOTİV DIŞ. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00538",
+    "ad": "GÜVEN İŞ ELEKTRİK ELEKTRONİK MAKİNA SAN VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00539",
+    "ad": "İSTANBUL METAL SAN.TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00540",
+    "ad": "KRD İNSAN KAYNAKLARI VE DANIŞMANLIK HİZMETLERİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00541",
+    "ad": "KUR ELEKTRİK SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00542",
+    "ad": "MNG KARGO YURTİÇİ VE YURTDIŞI TAŞIMACILIK A.Ş",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00543",
+    "ad": "NURAN KARASU",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00544",
+    "ad": "OCEAN NETWORK EXPRESS PTE LTD.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00545",
+    "ad": "OSMANLI ALUMİNYUM LTD.ŞT.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00546",
+    "ad": "ÖZDEMİRLER METAL MAMÜLLERİ SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00547",
+    "ad": "ÖZEL TEKNİK HIRDAVAT SAN. VE TİC. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00548",
+    "ad": "PANO METAL VE PLASTİK SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00549",
+    "ad": "PARAŞÜT YAZILIM TEKNOLOJİLERİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00550",
+    "ad": "PETEK KİMYA VE METAL SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00551",
+    "ad": "RHENUS İNTERMODAL SİSTEMLERİ LOJİSTİK LTD ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00552",
+    "ad": "SİMGE PASLANMAZ METAL SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00553",
+    "ad": "SİMİTÇİOĞLU METAL PASL.İNŞ.SAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00554",
+    "ad": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00555",
+    "ad": "VOLİ FUAR HİZMETLERİ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00556",
+    "ad": "YAKUT KOMPRESÖR MAKİNA SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00557",
+    "ad": "YAŞAR RULMAN VE END. ÜRÜNLERİ SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00558",
+    "ad": "HABAŞ SIN. TIB. GAZ A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00559",
+    "ad": "MERT TEKNİK FAB. MLZ. TİC. A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00560",
+    "ad": "SELTAŞ HADDE SAN. TİC. LTD. ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00561",
+    "ad": "ERACO İKLİMLENDİRME VE ENDÜSTRİYEL SOĞUTMA SİSTEMLERİ TİCARET LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00562",
+    "ad": "BDP INTERNATIONAL LOJİSTİK LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00563",
+    "ad": "NEV PASLANMAZ METAL VE MAMÜLSAN.TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00564",
+    "ad": "CEM METAL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00565",
+    "ad": "KARPAR MOTORLU ARAÇLAR KAUÇUK MAM. İNŞAAT TEKSTİL İTH. SAN. VE TİC. LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00566",
+    "ad": "TEL-MAK-SAN TEL VE MAKİNA İMALAT SAN.VETİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00567",
+    "ad": "TARZ STANT HİZMETLERİ SANAYİ TİCARET LİMİTED ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00568",
+    "ad": "TELSAŞ TEL VE TEL MAMÜLLERİ SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00569",
+    "ad": "KROMTEL SANAYİ VE TİCARET A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00570",
+    "ad": "MERİDYEN ULUSLARARSI FUARCILIK SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00571",
+    "ad": "AHT ÖZEL EĞİTİM HİZMETLERİ YAPI İNŞAAT PETROL TEKSTİL MADENCİLİK OTO İTH.İHR.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00572",
+    "ad": "VİOLENT TEKNİK EL ALETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00573",
+    "ad": "KAMİL HÜSEYİNOĞULLARI",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00574",
+    "ad": "ÇALIŞKAN  TEL İŞ SAN.TİC.LTD.ŞTİ.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00575",
+    "ad": "ERSA BAĞLANTI ELEMANLARI SAN.VE TİC.LTD.ŞTİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00576",
+    "ad": "ŞAFAK FIRÇA-KAAN ŞAHİN",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00577",
+    "ad": "UPS Hızlı Kargo Taşımacılığı A.Ş.",
+    "il": "İstanbul"
+  },
+  {
+    "id": "c00578",
+    "ad": "ÖYKÜ LOJİSTİK ANONİM ŞİRKETİ",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00579",
+    "ad": "TİM FORKLİFT SAN.TİC.A.Ş.",
+    "il": "İSTANBUL"
+  },
+  {
+    "id": "c00580",
+    "ad": "G.M.S. TEKNİK HIRDAVAT VE İNŞ. MALZ. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00581",
+    "ad": "OTOKOÇ OTOMOTİV TİC. VE SAN. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00582",
+    "ad": "HKS ÇELİK HALAT İTH. İHR. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00583",
+    "ad": "ERHAN GÖZGEÇ MİKRO MAKSAN CNC TORNA ATELYESİ VE YEDEK PARÇA İMALATI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00584",
+    "ad": "İZMİR NETGRAND MAKİNA METAL HEDİYELİK EŞYA PLAST.İNŞAAT SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00585",
+    "ad": "DOĞUŞ VANA VE DÖKÜM SAN. TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00586",
+    "ad": "OĞUZ OTOMOTİV SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00587",
+    "ad": "ATEŞ HALAT HIRD. NAK. PLS. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00588",
+    "ad": "AYSELİN TİCARET - FATMA BAŞTAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00589",
+    "ad": "OTTO OTOMATİK KAPILAR VE YÜKLEME SİSTEMLERİ SANAYİ TİCARET LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00590",
+    "ad": "BANAZLI NALBURİYE HIRD. ZİRAİ ALET MÜTEAHHİTLİK İNŞ. MALZ. EKİP. TİC.İMALATI PAZ. SAN. TİC. LTD. ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00591",
+    "ad": "LEVENT VİNÇ DÖKÜM MAK.SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00592",
+    "ad": "ÖZBUDAK MAKİNA OTO İNŞ PET MÜH.SAN VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00593",
+    "ad": "TETA TEKNİK TARIM MAK VE ÜR.İTH.İHT. SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00594",
+    "ad": "EGE GELİŞİM KİMYA ZİRAİ İLAÇLAR İNŞAAT NAKLİYE İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00595",
+    "ad": "MVR KARGO TAŞIMACILIK DAĞITIM DEPOCULUK HİZ.TİC.LTF.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00596",
+    "ad": "KORAL ELEKTRİK SANAYİ VE TİCARET A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00597",
+    "ad": "SP GAYRİMENKUL İNŞAAT DANIŞMANLIK İTH. İHR. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00598",
+    "ad": "UYTEK ENDÜSTRİYEL ÜRÜNLER İNŞ.GIDA HAY.MAKİNA SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00599",
+    "ad": "GÜNDOĞMUŞ HIRDAVAT VE NALB.İNŞ. SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00600",
+    "ad": "ÇKR TARIM ÜRÜNLERİ HAYVANCILIK TEKNOLOJİLERİ SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00601",
+    "ad": "UÇAK KARDEŞLER LOJİSTİK ANONİM ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00602",
+    "ad": "LE-SAR SARACİYE ÜRÜNLERİ İMALATI LEVENT BONCUKOĞLU",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00603",
+    "ad": "YK ENDÜSTRİ CİVATA HIRDAVAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00604",
+    "ad": "AHMET KADIOĞLU BETON MADENCİLİK İNŞ.SAN.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00605",
+    "ad": "AKDEMİR ÇELİK SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00606",
+    "ad": "KALE DAYANIKLI  MADENİ EŞYA SAN.VETİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00607",
+    "ad": "GRUP RULMAN İNŞAAT MAKİNA SANAYİ TİCARET LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00608",
+    "ad": "GÖRGÜN ENDÜSTRİ ÜRÜNLERİ TURİZM TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00609",
+    "ad": "RİME DIŞ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00610",
+    "ad": "LFC MEKATRONİKİNŞAAT SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00611",
+    "ad": "YAVUZ METAL VE SAÇ SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00612",
+    "ad": "ATLAS EXPRESS CARGO INTERNATIONAL TAŞIMACILIK LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00613",
+    "ad": "SAYGILI RULMAN SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00614",
+    "ad": "FORLAS FORKLİFT LASTİK İŞ MAKİNELERİ SAN VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00615",
+    "ad": "SOYCAN NALB. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00616",
+    "ad": "HİDROGEN HİDROLİK PNÖMATİK MAKİNE OTOMASYON SAN.VE TİC. LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00617",
+    "ad": "KRONE TİCARİ ARAÇLAR SAN. TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00618",
+    "ad": "GÜLERAY AĞIR NAKLİYAT SANAYİ VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00619",
+    "ad": "NESAN OTOMOTİV A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00620",
+    "ad": "İZOLE KİREMİT SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00621",
+    "ad": "ETİ BAKIR A.Ş.(HALIKÖY ŞUBESİ)",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00622",
+    "ad": "RUYOL İNŞ.TEM.TAAH.SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00623",
+    "ad": "DAYHAN İNŞ.TUR.SAN.ISITMA SOĞUTMA ELK.ESY.İLETİŞİM TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00624",
+    "ad": "ONUR SARACİYE-ALİ ULVİ AYRANCI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00625",
+    "ad": "KAYRA ENDÜSTRİ MAKİNALARI VE EKİPMANLARI TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00626",
+    "ad": "ANS EGEPOL PLASTİK AMBALAJ SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00627",
+    "ad": "DTA LOJİSTİK TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00628",
+    "ad": "KADRİYE KIRIM",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00629",
+    "ad": "ALİ ATEŞ HALAT SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00630",
+    "ad": "VARDAROĞLU TEKNİK HIRDAVAT SAN.TİC. LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00631",
+    "ad": "MİNİMAR BOYA KİMYA SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00632",
+    "ad": "BOYSAŞ KATAFOREZ BOYA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00633",
+    "ad": "MAK-İŞ MÜHENDİSLİK MAKİNA SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00634",
+    "ad": "PAYLAŞIM ÇELİK HALAT NALB. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00635",
+    "ad": "SARAÇ YILMAZ KUTLUDUR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00636",
+    "ad": "İZMİR ATEŞ PLASTİK NAKLİYE TURİZM HAYVANCILIK TARIM SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00637",
+    "ad": "NADİR BAŞ ZİNCİR İMALATI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00638",
+    "ad": "BUL-TUR PETROL GIDA TURİZM TAŞIMACILIK İNŞ.SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00639",
+    "ad": "SS İĞDELİ VE ÇEVRE KÖYLERİ TARIMSAL KALKINMA KOOP.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00640",
+    "ad": "TEKNOPLAST HIRDAVAT İNŞ. KİMYA MAK. İTH. İHR. SAN. TİC.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00641",
+    "ad": "BAŞAK PAZARLAMA TEMİZLİK VE GIDA ÜRÜNLERİTİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00642",
+    "ad": "MERCAN ZİNCİR AYŞEN MERCAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00643",
+    "ad": "GÖZÜKIRMIZI NALBURİYE SAN. VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00644",
+    "ad": "MUSTAFA GÜRHAN ACAR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00645",
+    "ad": "AHMET AYRANCI ÖZİDEAL SARACİYE VE AV MALZ.TİC.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00646",
+    "ad": "FAHRETTİN  CÖMERT NAKLİYE HAFRİYAT BETON DİREK VE TEL ÖRGÜ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00647",
+    "ad": "B&B ENDUSTRİYEL EKİPMANLAR - BUĞRA FIRTINALI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00648",
+    "ad": "ÖRENEL  TİCARET-AHMET ÖRENEL",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00649",
+    "ad": "İSMAİL KUTLUDUR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00650",
+    "ad": "MADRAN SU MEŞRUBAT NAK.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00651",
+    "ad": "KALE SARACİYE-MELTEM ALTUN KALEOĞLU",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00652",
+    "ad": "YILMAZ PAKKANLILAR PAK ÇELİK DÖK.MAK. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00653",
+    "ad": "İZMİR İLİ DAMIZLIK SIĞIR YETİŞTİRİCİLERİ BİRLİĞİ TİCARET İSTİSADİ İŞLETMESİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00654",
+    "ad": "TOROS HIRDAVAT-İSMAİL ERŞAHİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00655",
+    "ad": "YAŞAR ÇETİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00656",
+    "ad": "HERMES ENDÜSTRİYEL KAPI SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00657",
+    "ad": "TOKGÖZ SANAYİ VE TİCARET-ZEYNULLAH TOKGÖZ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00658",
+    "ad": "ARİF ÖZALP ÖZSAN TARIM MAKİNALARI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00659",
+    "ad": "ÖMER LEVENT CEBECİ-KUZENLER PROJE İNŞAAT SAN.VE TİC.AŞ İŞ ORTAKLIĞI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00660",
+    "ad": "EGE TEKNİK KESİCİ TAKIM MALZ.SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00661",
+    "ad": "ORFAMET MOB.MED.SAN.TİC.VE LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00662",
+    "ad": "ADA YANGIN ADALET GÜLTEPE",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00663",
+    "ad": "ŞENER CİVATA-HÜSEYİN ŞENER",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00664",
+    "ad": "HIRDAVATOLOG TEKNİK HIRDAVAT&İNŞAAT MALZEMELERİ  MUSTAFA AYÇİÇEK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00665",
+    "ad": "SEVER İNŞ.MALZ.NAK.GIDA PAZ.TİC.LTD.ŞTİ-AHMET SEVER",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00666",
+    "ad": "AKNAL NAKLİYAT-HIRDAVAT NALBURİYE-SARACİYE ÜRÜNLERİ İMALATI TOPTAN VE PERAKENDE SATIŞI ASİL KAFADAR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00667",
+    "ad": "MERSAC YILMAZ COŞAR CANOĞLU SPOR ANTR. MALZ. OYUNC. DERİ SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00668",
+    "ad": "DOĞAN ÇAVUŞOĞLU İÇ VE DIŞ TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00669",
+    "ad": "KESSAN RÖMORK- MEHMET KESKİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00670",
+    "ad": "GÜVEN FASON TAVUKÇULUK OTO KAPORTA BOYA GIDA INŞ. NAKL.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00671",
+    "ad": "HASAN HÜSEYİN DEMİR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00672",
+    "ad": "UD CONCEPT MİMARLIK A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00673",
+    "ad": "VOLKAN İTFAİYE ARAÇLARI SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00674",
+    "ad": "ETS ENDÜSTRİYEL TEM.SİS.SAN.VE DIŞ TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00675",
+    "ad": "YARGAN HUKUKVE DANIŞMANLIK-ŞAHABETTİN SYDIN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00676",
+    "ad": "ÖZ ROTA TURİZM TAŞIMACILIK TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00677",
+    "ad": "ARAPOĞLU BAKKALİYE UN YEM  TİC.SÜT. SÜT ÜRN.İMLT.PAZ.SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00678",
+    "ad": "ALİ KAFADAR- SARACRAFT SARACİYE ÜRÜNLERİ İMALATI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00679",
+    "ad": "GİMAS GİRGİN MAKİNA İMALAT MONTAJ VE MÜH.SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00680",
+    "ad": "TEMURTAŞLAR DEMİR ÇELİK İNŞAAT,MİNŞ.MALZ.MAKİNE SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00681",
+    "ad": "REMAK REDÜKTÖR MAKİNA SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00682",
+    "ad": "BAYSAL HİDROLİK MAKİNA İMALAT VE TİCARET-FAHRİ BAYSAL",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00683",
+    "ad": "KİLYOS MADENCİLİK HAFRİYAT İNŞAAT VE İNŞAAT MALZ.NAK.TURZ SAN.VE TİC.LTD..ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00684",
+    "ad": "ÖZDEMİR REDÜKTÖR ELEKTRİK MOTOR SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00685",
+    "ad": "SİNEM GÖKÇEN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00686",
+    "ad": "HÜSEYİN VASFİ IRMAK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00687",
+    "ad": "KARTAŞ OTOM. OTO KİR. YOLCU TAŞ.PET. ÜRN.OTO YEDEK PAR. TUR. TİC. LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00688",
+    "ad": "HASAN MESUT TAŞKIRAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00689",
+    "ad": "PMS POLİETİLEN MAMÜLLERİ SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00690",
+    "ad": "SABRİ IRMAK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00691",
+    "ad": "KIRIKKAYA GIDA SAN.TİC.-AKIN KIRIKKAYA",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00692",
+    "ad": "ALTUNAY AYAKKABI KONF.TAŞ GIDA SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00693",
+    "ad": "ABDÜLKADİR BAŞ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00694",
+    "ad": "MERT UYSAL MAKİNA GÜÇ AKTARMA SİSTEMLERİ LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00695",
+    "ad": "ZİTRON HAVALANDIRMA SİSTEMLERİ TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00696",
+    "ad": "ATA MAKİNA -FATMA TANRIVERDİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00697",
+    "ad": "MAHMUT DÖNMEZ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00698",
+    "ad": "ÖZLEM KAYNAK ZİNCİR VE ÇİVİ İMALATI ALİ RIZA KAYNAK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00699",
+    "ad": "SEDAT KARABAŞ- DOSTLAR LOKANTASI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00700",
+    "ad": "ARTEMİS DENİZ VE YAT MALZEMELERİ -FAHRETTİN KUTAY GÜLER",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00701",
+    "ad": "ÖZ KİRAZ GALVENİZ SAC VE AMBALAJ SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00702",
+    "ad": "MAKELSAN ZİNCİR ENDÜSTRİYEL ÜRÜNLER SAN. TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00703",
+    "ad": "TAYKON ÇELİK İNŞAAT TAAHHÜT SAN. VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00704",
+    "ad": "KONSEN ELEKTRİK ELEKTRONİK MÜHENDİSLİK TEKSTİL GIDA NAKL.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00705",
+    "ad": "PINARTAŞ MADENCİLİK SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00706",
+    "ad": "MADENONLİNE DIŞ TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00707",
+    "ad": "HAMDİ KÜÇÜK ÇELİK MAKİNA TİC. VE SAN A.Ş",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00708",
+    "ad": "ROSEN ENDUSTRIYEL SOGUTMA MAK.SAN.TİC.LTD.ŞTI.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00709",
+    "ad": "MHS TEKNOLOJİ MAKİNA SAN. VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00710",
+    "ad": "GÖZET MAKİNA A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00711",
+    "ad": "EGE YAĞMUR TEKNİK YAPI İNŞ.MAK.SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00712",
+    "ad": "DENİZ ÇELİK HALAT SANAYİ TİCARET-KADİR KARAMAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00713",
+    "ad": "FD ZİNCİR ÖZEL KONVEYÖR ZİNCİRİ İMALATI MAKİNE VE YED.PARÇ.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00714",
+    "ad": "KDM TARIM VE HAYVANSAL ÜRÜNLER SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00715",
+    "ad": "SUMAR IRGAT SUAT NANTU",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00716",
+    "ad": "LİMANÇELİK MAKİNA MÜHENDİSLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00717",
+    "ad": "HAKYEMEZ MARİNE-MÜJDAT HAKYEMEZ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00718",
+    "ad": "ÖZEL YEŞİLYURT AĞIZ DIŞ SAĞLIĞI MERKEZİ TARIM GIDA VE HAYVANCILIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00719",
+    "ad": "OVALI  MAKİNA - FERAY OVALI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00720",
+    "ad": "KASABALI DEĞİRMEN VE VİNÇ MAKİNALARI HIRDAVAT MALZ.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00721",
+    "ad": "IC ÇEŞME  MARİNA YATIRIM TURİZM VE İŞL.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00722",
+    "ad": "DENİZMAR İÇ DIŞ TİCARET ANONİM ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00723",
+    "ad": "SCC KONVEYÖR ZİNCİR MAKİNE VEYED.PAR.İML.İTH.SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00724",
+    "ad": "İMBAT MADENCİLİK ENERJİ TURİZ SAN.VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00725",
+    "ad": "ÇAY OCAĞI (ÖZAY BAĞCI)",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00726",
+    "ad": "MELİH EVİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00727",
+    "ad": "CENGİZ EVİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00728",
+    "ad": "ERTAN KAHYAOĞLU",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00729",
+    "ad": "GENÇSAN OTOMOTİV - HASAN YILDIZBAŞ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00730",
+    "ad": "GÜDÜMCÜOĞLU MADENİ YAĞ - ŞEVKET GÜDÜMCÜOĞLU VE ORT.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00731",
+    "ad": "KÜÇÜK MENDERES SULAMA BİRLİĞİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00732",
+    "ad": "SERKAN NADİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00733",
+    "ad": "TUZSAN HÜSEYİN DEMİR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00734",
+    "ad": "NİHAL ÇALPA İLKE KIRTASİYE",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00735",
+    "ad": "OĞUZHAN AYRANCI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00736",
+    "ad": "KAPLAN HIRDAVAT  - EKREM KAPLAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00737",
+    "ad": "KRC HIRDAVAT SARACİYEİMALAT SANAYİ -HAZIM KARCI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00738",
+    "ad": "SERT TİCARET -M.EMİN SERT",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00739",
+    "ad": "GÖKHAN AYRANCI-ADA SARACİYE",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00740",
+    "ad": "GÖKKOR PLASTİK AMBALAJ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00741",
+    "ad": "HİLDE YILDIZ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00742",
+    "ad": "AKTUR ARAÇ MUAYENE İSTASYONLARI İŞLETMECİLİĞİ A.Ş",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00743",
+    "ad": "OTTOTEKNİK MAKİNA OTOMASYON SANAYİ TİCARET  LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00744",
+    "ad": "AKA KİMYA SABUN YAĞ TEMİZLİK ÜRÜNLERİ SAN. TİC. - İSMAİL AKA",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00745",
+    "ad": "ASİL OLTULU END. METAL PLAST. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00746",
+    "ad": "MUSA ÇEVIK- ÇEVİK DEMİR SANAYİ VE TİCARET",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00747",
+    "ad": "EFE ISIL İŞLEM  METAL SAN VE TİC LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00748",
+    "ad": "EGE ÇUVAL FABRİKASI - ABDULLAH ÇELİK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00749",
+    "ad": "FİGEN CEYLAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00750",
+    "ad": "KOZANOĞLU OTOMOTİV TARIM MAKİNALARI SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00751",
+    "ad": "ÖZEKİZ SINAİ VE TIBBİ GAZLAR SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00752",
+    "ad": "ÖZGÜR TAŞIMACILIK SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00753",
+    "ad": "UĞUR BRANDA - ÖDEMİŞ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00754",
+    "ad": "BİROL ÇUMAKLAR HEDEF VİDA VE PERÇİN SANAYİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00755",
+    "ad": "YAYLACIK AMBALAJ SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00756",
+    "ad": "EGE ULAŞIM TAŞIMACILIK VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00757",
+    "ad": "ERCAN KALEOĞLU",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00758",
+    "ad": "KATİPLER KİMYA TURZ. İNŞ. SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00759",
+    "ad": "ÖMER DÖKÜM REDÜKTÖR MAKİNA SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00760",
+    "ad": "ÇİNKOSAN KAPLAMA SANAYİ VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00761",
+    "ad": "ÖDEMİŞ ORGANİZE SANAYİ BÖLGESİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00762",
+    "ad": "NURCAN KOCABAŞ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00763",
+    "ad": "YDÇ METAL MAK SAN.TİC LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00764",
+    "ad": "ÖZYAYLA RULMAN-MUSTAFA ÖZYAYLA",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00765",
+    "ad": "ULUSAL REDÜKTÖR MOTOR SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00766",
+    "ad": "ENVİROTEK EKOLOJİK SİSTEMLER  SAN. ve TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00767",
+    "ad": "AMAÇ GİYİM-TURGUT AMAÇ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00768",
+    "ad": "YENİ İZMİR EGEKOÇ KARGO-EROL KARAKAŞ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00769",
+    "ad": "TUNA NALBANTOĞLU GÜMRÜKLEME LOJİSTİK HİZM.DIŞ TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00770",
+    "ad": "TAHA MAKİNA İŞ MAKİNALARI YEDEK PARÇA İMALATI  TANER HAZAR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00771",
+    "ad": "ATAK ELEKTRİK MÜHENDİSLİK OTOMASYON SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00772",
+    "ad": "DEVRİM DEMİREL",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00773",
+    "ad": "ALİ BOZ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00774",
+    "ad": "EFE OFSET MATBAACILIK YAYINCILIK SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00775",
+    "ad": "RENK OFSET MATBAA & REKLAM &YAYINCILIK METİN DURSUN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00776",
+    "ad": "ADANA EKSPRES NAKLİYAT AMBARI TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00777",
+    "ad": "AŞAN DEMİR TİCARET ARİF YURDAŞAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00778",
+    "ad": "NİKA YEDEK PAR. SAN. TİC. AŞ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00779",
+    "ad": "SERER ELEKTRİK MALZ. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00780",
+    "ad": "İZKİM MADENCİLİK DANIŞMANLIK SAN. TİC. LTD. ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00781",
+    "ad": "ÖDEMİŞ OSGB HİZMETLERİ LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00782",
+    "ad": "ÖDEMİŞ DEMİR - REMZİ KALEOĞLU",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00783",
+    "ad": "BEYDAĞ BELEDİYE BAŞKANLIĞI VE KÜLTÜR MERKEZİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00784",
+    "ad": "CEM DEMİR SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00785",
+    "ad": "TABA AMBALAJ SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00786",
+    "ad": "DERİ BANT DERİ MAKİNALARI SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00787",
+    "ad": "ECE PROFİL ONUR VE TAHİR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00788",
+    "ad": "EMPAK OLUKLU MUKAVVA KUTU VE AMB. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00789",
+    "ad": "ESMETAL METAL SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00790",
+    "ad": "EVCİLER YAPI İNŞAAT NAKLİYE HIRDAVAT GIDA SAN.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00791",
+    "ad": "GEPAR OTOMOTİV İNŞAAT HIRDAVAT SAN. VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00792",
+    "ad": "GÜZEL MENDERES PETROL ÜR. GID. İNŞ. NAK. TAR. ÜR. SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00793",
+    "ad": "HEDEF DEMİR ÇELİK ALİ KAYA",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00794",
+    "ad": "İZOMAS GALVENİZ ÇELİK GAYRİMENKUL YATIRIM SAN. VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00795",
+    "ad": "MEHMET KARGAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00796",
+    "ad": "MERCAN PEN SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00797",
+    "ad": "MİKA KALIP SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00798",
+    "ad": "ÖZDEMİR ÖLÇÜ VE TARTI ALETLERİ SANAYİ TAMİR VE TAM. METIN ÖZDEMIR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00799",
+    "ad": "ÖZEN ENERJİ İNŞAAT TAH. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00800",
+    "ad": "ÖZGİRGİN PASTANESİ - TANER ÖZGİRGİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00801",
+    "ad": "ÖZTEKFEN REDÜKTÖR SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00802",
+    "ad": "SEZGİN MUTLU (HORTUMCU)",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00803",
+    "ad": "TİRE KUTU AMBALAJ İNŞAAT ZİRAİ ÜRÜNLER GIDA SAN. TİC.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00804",
+    "ad": "ULUS MANDIRA - İBRAHİM ÖZDEMİR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00805",
+    "ad": "USTA GALVANO KİMYA SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00806",
+    "ad": "YILMAZ JÜT PLS. AMB. SAN. TİC. GÜRSEL YILMAZ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00807",
+    "ad": "GİMAK FORKLİFT TİC. SAN. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00808",
+    "ad": "ORGANİZE KAĞIT VE ANBALAJ SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00809",
+    "ad": "ASTEKNİK RULMAN OTOMOTİV SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00810",
+    "ad": "DİDEM ZEYREK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00811",
+    "ad": "ACS KOMPRESÖR İÇ VE DIŞ TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00812",
+    "ad": "TUNCAY KAYMAK TOKA İŞÇİLİĞİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00813",
+    "ad": "ÖNER DEMİR ÇELİK HURDA SAN. TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00814",
+    "ad": "YERGÜL ORMAN ÜRÜNLERİ AYHAN YERGÜL",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00815",
+    "ad": "MİKROCERRAHİ ÖZEL SAĞLIK HİZMETLERİ SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00816",
+    "ad": "LİMİT REDÜKTÖR MOTOR TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00817",
+    "ad": "PGM İNŞAAT TAAHHÜT SANAYİ TİCARET-PINAR GÖKTER",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00818",
+    "ad": "İKİLER OTOMOTİV FİLTRE İTHALAT İHRACAT SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00819",
+    "ad": "ARİF ALAÇAM RULMAN TİC.VE SAN.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00820",
+    "ad": "ULUSSAN ULUS SÜT ÜRN.İML.İNŞ.YEM VE TOPR. MAK.TİC.PAZ.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00821",
+    "ad": "OMEGA HIRDAVAT SAN.VE TİCARET LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00822",
+    "ad": "ARTCO TARIM MAKİNALARI SANAYİ VE TİCARET LİMİTED.ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00823",
+    "ad": "BİLİSTER TIBBİ CİHAZLAR SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00824",
+    "ad": "KEY METAL MERMER İTH.İHR.SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00825",
+    "ad": "SAVAŞ ÜLKÜ MERCAN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00826",
+    "ad": "ÖZCAN DEMİR TİC. VE SAN. AŞ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00827",
+    "ad": "EGE ÇELİK HALAT HIRD. SAN. VE TİC. LTD. ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00828",
+    "ad": "İNKO DEMİR ÇELİK PETROL ÜRÜNLERİ SAN.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00829",
+    "ad": "ARNES MEKANİK MAKİNA SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00830",
+    "ad": "TORMAŞ GÜMRÜK MÜŞAVİRLİĞİ LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00831",
+    "ad": "BENZEŞİK METAL DÖKÜM SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00832",
+    "ad": "HÜDAŞ MAKİNA TAKIM TEZGAHLARI YEDEK PARÇA İTH.İHR.SAN.VE TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00833",
+    "ad": "ÖZEN - TAŞ HARFİYAT TEMİZLİK HİZ.YAPIİNŞ.MALZ.TAAHHÜT İŞLSAN. VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00834",
+    "ad": "POLİMEK ELEKTRONİK VE BİLGİSAYAR TEKPAZ SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00835",
+    "ad": "RÜZGAR SABRİ IRMAK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00836",
+    "ad": "BATI PREFABRİK SANAYİ VE TİCARET A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00837",
+    "ad": "EMELSAN ELEKTROMEKANİK-ELEKTRONİK SAN.TİC.  GÜRCAN PUTİŞ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00838",
+    "ad": "YÖNTEM OLUKLU MUKAVVA KUTU VE KAĞIT MAK.SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00839",
+    "ad": "ÖZ ÖZEN KARDEŞLER KUM OCAĞI TAŞ.HİZ.HAY.İNŞAAT MAD.SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00840",
+    "ad": "SAVAR YANGIN SÖNDÜRME VE GÜVENLİK SİSTEMLERİ TAAHHÜT İŞLERİ-SİBEL BÜYÜKBULUTER",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00841",
+    "ad": "KAFKAS KLİMA VA TESİSAT İNŞ.SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00842",
+    "ad": "R KOMPRESÖR MAK. SAN. VE TİC. LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00843",
+    "ad": "ZINKPOWER İZMİR GALVANİZ METAL SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00844",
+    "ad": "BAZ GALVANİZ KAPLAMA BORU PROFİL İNŞ.TAS.SAN VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00845",
+    "ad": "BATI YAY REZİSTANS VE METAL SAN.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00846",
+    "ad": "İZMİR ÖZBURSA TAŞIMACILIK VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00847",
+    "ad": "ATA REDUKTOR MOTOR SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00848",
+    "ad": "ŞİBA TEKNİK İNŞAAT MÜHENDİSLİK TAAHHÜT SAN.VE TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00849",
+    "ad": "MORPA AMBALAJ-FIRAT YURUL",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00850",
+    "ad": "DÖSAN ISIL İŞLEM SAN.anonim.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00851",
+    "ad": "MURAT BOBİNAJ ELEKTRİK MOTORU JENAROTÖR PANO TAMİRİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00852",
+    "ad": "KASTAŞ SIZDIRMAZLIK TEKNOLOJİLERİ SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00853",
+    "ad": "MUTLU DURGUT",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00854",
+    "ad": "BATI TAR-MAK TARIM MAKİNA SAN.VETİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00855",
+    "ad": "ER-LER PETROL ÜRÜNLERİ İNŞ.TURİZM VE BİT.YAĞ-YEM SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00856",
+    "ad": "ERD TEKNİK HIRDAVAT-HÜSEYİN ERDİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00857",
+    "ad": "ULUSAL ATIK ÇEVRE MÜHENDİSLİĞİ LOJİSTİK GERİ DÖNÜŞÜM DAN. HUR. KUY. MAD. İNŞ. GIDA SAN. VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00858",
+    "ad": "SÜR NAKLİYAT HUR.TUR.İNŞ.PET.SAN.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00859",
+    "ad": "ÖZ FEDA NAKLİYAT TAŞIMACILIK TUR İNŞ.VE MLZ.SAN.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00860",
+    "ad": "MERCANLAR KİMYA TURİZM İNŞAAT SANAYİ VE TİCARET  LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00861",
+    "ad": "AYDIN GÜMRÜK MÜŞAVİRLİĞİ LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00862",
+    "ad": "ATLI MOBİLYA DEKORASYON İNŞAAT SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00863",
+    "ad": "GEDİZ ELEKTRİK PARAKENDE SATIŞ A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00864",
+    "ad": "SMT OTOMOTİV- İLKAY SÜNMEZTEKİN",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00865",
+    "ad": "GÜVEN METAL HİLMİ KIRTIK",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00866",
+    "ad": "ÇMÇ ÇELİK METAL ÇÖZÜMLER İNŞ.TAAH.SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00867",
+    "ad": "SENDA ELEKTRİK MUH.DANIŞ.İNŞ.TAAH.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00868",
+    "ad": "MARİMO GLOBAL LOJİSTİK DIŞ TİCARET LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00869",
+    "ad": "ENVİ ELEKTRİK MAKİNA MÜH.İNŞ.TAAH.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00870",
+    "ad": "KARPA PALETÇİLİK ORMAN ÜRÜN. AMBALAJ SAN.TİC.-ÖZLEM EROĞLU",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00871",
+    "ad": "TEZ DEMİR ÇELİK SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00872",
+    "ad": "TRANSOVA TRANSPORT LOJİSTİK ANONİM ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00873",
+    "ad": "YENİ NAK KARGO  YURT İÇİ TAŞIMACILIK TİC.ANOM.ŞTİ   ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00874",
+    "ad": "SERHAN GAÇAR - EGE BİLGİSAYAR",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00875",
+    "ad": "SAİM TULPAR ÇAĞDAŞ ÇANTA",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00876",
+    "ad": "İNTAŞ ÇELİK BORU SAC SAN. VE TİC. A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00877",
+    "ad": "MEKATEST LABORATUVAR ENDÜSTRİYEL KONTROL VE BELGELENDİEME HİZMETLERİ SAN.TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00878",
+    "ad": "ERKUNT BOYA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00879",
+    "ad": "GÜNAY PACK ANBALAJ SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00880",
+    "ad": "ÖDEMİŞ BELEDİYE BAŞKANLIĞI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00881",
+    "ad": "KRG NAKLİYAT TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00882",
+    "ad": "HRY KUTU AMBALAJ MATBAA MALZEMELERİİTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00883",
+    "ad": "ARTI GRUP DOĞALGAZ MEK.SAN  TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00884",
+    "ad": "AKYOL HURDACILIK GERİ DÖNÜŞÜM KANTAR NAKLİYE VE MAKİNE SANAYİ TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00885",
+    "ad": "ASOS GÜMRÜK MÜŞAVİRLİĞİ LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00886",
+    "ad": "TRN ORMAN ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00887",
+    "ad": "GOLD ENTEGRE AĞAÇ ÜRÜNLERİ SAN.TİC.LTD.ŞTİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00888",
+    "ad": "İZMİR REMTAŞ NAKLİYAT TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00889",
+    "ad": "ÖDEMİŞ EKSPRES NAKLİYAT VE TİCARET LİMİTED ŞİRKETİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00890",
+    "ad": "DEMİRÖREN ETİKET SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00891",
+    "ad": "IJK RULMAN İMALAT SANAYİ VE TİCARET LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00892",
+    "ad": "SERHAN KİMYA BOYA VE PETROL ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00893",
+    "ad": "ENPAL AHŞAP ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00894",
+    "ad": "ERBA ENDÜSTRİYEL SIZDIRMAZLIK ELEMANLARI SAN.VE TİC.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00895",
+    "ad": "MUSTAFA KOÇAK GÜRKAN TEKBIÇAK ADİ ORTAKLIĞI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00896",
+    "ad": "ENERJİ TEKNİK POMPA TEK. SAN. TİC. LİM. ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00897",
+    "ad": "ELEKTRONEK ENDÜSTRİYEL ELEKTRONİK MAK.SAN.LTD.ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00898",
+    "ad": "EFE AKADEMİ İŞ GÜVENLİĞİ UZMANLIĞI VE İŞYERİ HEKİMLİĞİ EĞİTİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İzmir"
+  },
+  {
+    "id": "c00899",
+    "ad": "UMBRELLA ULUSLARARASI TAŞIMACILIK LOJİSTİK İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00900",
+    "ad": "BAŞARI KESİCİ TAKIMLAR OTOMOTİV YEDEK PARÇA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00901",
+    "ad": "ERTEK YAPI VE MAKİNA ENDÜSTRİ EKİPMANLARI SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00902",
+    "ad": "BAYRAM ÖZDEN",
+    "il": "İzmir"
+  },
+  {
+    "id": "c00903",
+    "ad": "İLKER EKİZ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00904",
+    "ad": "YÖRÜK ÇADIRI",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00905",
+    "ad": "İZMİR ADA YANGIN MÜH.PROJE DAN.İNŞ.TİC.LTD.ŞTİ.",
+    "il": "İzmir"
+  },
+  {
+    "id": "c00906",
+    "ad": "KAVİPAL AHŞAP PALET ORMAN ÜRÜNLERİ SAN.TİC.A.Ş.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00907",
+    "ad": "KAYA İŞ VE İSTİF MAKİNALARI SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00908",
+    "ad": "İSA SAVŞAN",
+    "il": "İzmir"
+  },
+  {
+    "id": "c00909",
+    "ad": "KARDEŞLER İMALAT ÇELİKLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00910",
+    "ad": "İNOTEK OTOMASYON SAN. VE TİC. LTD. ŞTİ.",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00911",
+    "ad": "HURİYE KAYA",
+    "il": "İZMİR"
+  },
+  {
+    "id": "c00912",
+    "ad": "ER ELEKTRO MARKET - ALPASLAN ERŞAHAN",
+    "il": "KAHRAMANMARAŞ"
+  },
+  {
+    "id": "c00913",
+    "ad": "MMS GÜBRE YÖNETİM SİSTEMLERİ SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "KAHRAMANMARAŞ"
+  },
+  {
+    "id": "c00914",
+    "ad": "YÜCELER ÇELİK TEKN.HIRD.OTOM.TAŞ.İNŞ.TİC.SAN.LTD.ŞTİ",
+    "il": "KAHRAMANMARAŞ"
+  },
+  {
+    "id": "c00915",
+    "ad": "MAKTES ISITMA VE SOĞUTMA SİS. TAAH.MAK.TES.İNŞ.PLAN SAN.VE TİC.LTD.ŞTİ.",
+    "il": "KAHRAMANMARAŞ"
+  },
+  {
+    "id": "c00916",
+    "ad": "ÇELİKOĞLU DEMİR ÇELİK LTD.ŞTİ",
+    "il": "KARABÜK"
+  },
+  {
+    "id": "c00917",
+    "ad": "KAYIKÇI DEMİR ÇELİK  SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "KARABÜK"
+  },
+  {
+    "id": "c00918",
+    "ad": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "il": "KARABÜK"
+  },
+  {
+    "id": "c00919",
+    "ad": "OTO ÇALIŞKAN - ALİ ÖZHAN ÇALIŞKAN",
+    "il": "KARAMAN"
+  },
+  {
+    "id": "c00920",
+    "ad": "BİRCAN KERESTECİLİK - HASAN BİRCAN",
+    "il": "KARAMAN"
+  },
+  {
+    "id": "c00921",
+    "ad": "ERGUN TİCARET - İSMET ÇELİK",
+    "il": "KARS"
+  },
+  {
+    "id": "c00922",
+    "ad": "ZİNTAŞ KASTAMONU ZİNCİR SAN.VE TİC. A.Ş.KASTAMONU ŞUBESİ",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00923",
+    "ad": "FİKRET HIZLI",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00924",
+    "ad": "MUSTAFA GÖKGÖZOĞLU",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00925",
+    "ad": "HASAN YETİŞGEN - YETİŞGEN TİCARET",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00926",
+    "ad": "RÜZGAR NAKLİYAT SANAYİ VE TİC.LTD.ŞTİ.",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00927",
+    "ad": "KASTAMONU ZİRAİ MAHSÜLLER- NEBAHAT KENDİRCİ",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00928",
+    "ad": "KANAAT YAPI İNŞAAT MALZEMELERİ SAN.TİC.LTD.ŞTİ.",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00929",
+    "ad": "BAKİLER TİC KOLL ŞTİ.",
+    "il": "KASTAMONU"
+  },
+  {
+    "id": "c00930",
+    "ad": "UHUD TEKNİK HIRDAVAT SAN.VE TİC.LTD.ŞTİ.",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00931",
+    "ad": "ÖMER İŞLİGÜL GÜVEN İŞ TİC.",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00932",
+    "ad": "İBRAHİM TÜFEKÇİ - ANADOLU BIÇAK",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00933",
+    "ad": "KAMAŞ HIRDAVAT NALBURİYE İNŞAAT MALZ.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00934",
+    "ad": "GÜNDOĞDU TİCARET-MEHMET GÜNDOĞDU",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00935",
+    "ad": "ALİBEYOĞLU A.Ş.",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00936",
+    "ad": "HAN SPANZET OĞUZHAN UZUNHİSARCIKLI",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00937",
+    "ad": "KİRİKLER HIRDAVAT NALBURİYE MAKİNA BOYA SAN TİC.A.Ş.",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00938",
+    "ad": "KYSAR METAL MOBİLYA İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00939",
+    "ad": "KUMTEL DAYANIKLI TÜKETİM MALLARI PLASTİK SAN.VE TİC.A.Ş.",
+    "il": "KAYSERİ"
+  },
+  {
+    "id": "c00940",
+    "ad": "TRAKYA LAVANTA ÜRETİM HİZMETLERİ",
+    "il": "KIRKLARELI"
+  },
+  {
+    "id": "c00941",
+    "ad": "BOMONTİ HAYVANCILIK TARIM İÇ VE DIŞ SAN. TİC. A.Ş.",
+    "il": "KIRKLARELİ"
+  },
+  {
+    "id": "c00942",
+    "ad": "YÜKSEL SOBA TÜRKAN YÜKSEL",
+    "il": "KIRŞEHİR"
+  },
+  {
+    "id": "c00943",
+    "ad": "GÜÇTAY ELEKTRİK SAN. VE TİC. A.Ş.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00944",
+    "ad": "İSTANBUL TEL ÇİVİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00945",
+    "ad": "GEBZE HIRDAVAT BAĞLANTI ELEMANLARIİNŞ.VE METAL SAN.DIŞ.TİC.LTD.ŞTİ.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00946",
+    "ad": "AKYÜZLER İNŞ. MLZ. SAN.VE TİC. LTD. ŞTİ.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00947",
+    "ad": "MİS OTO AKSESUAR - SERDAR MİS",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00948",
+    "ad": "BORA TEL METAL SAN. TİC. LTD. ŞTİ.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00949",
+    "ad": "ÜÇER ZIMPARA TAŞI SAN. VE TİC. LTD. ŞTİ.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00950",
+    "ad": "SAFETÜRK İŞ GÜVENLİĞİ VE YÜK GÜVENLİĞİ SAN.TİC. LTD. ŞTİ.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00951",
+    "ad": "TUANAPARK-YUNUS EMRE YILMAZ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00952",
+    "ad": "YAŞAR TEKNİK YAPI MALZEMELERİ DIŞ TİC. A.Ş.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00953",
+    "ad": "YILPARK KENT MOBİLYALARI İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00954",
+    "ad": "U CAR OTOMOTİV TİCARET LİMİTED ŞİRKETİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00955",
+    "ad": "ÖZYIL ÇEMBER TOKA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00956",
+    "ad": "MST NALBURİYE HIRDAVAT İNŞ İTH. İHR. SAN VE TİC. A.Ş.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00957",
+    "ad": "MURAT HAN PUL CİVATA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00958",
+    "ad": "KURTOĞLU ÇELİK HALAT LTD.ŞTİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00959",
+    "ad": "EVREN ZİNCİR İMALAT MAKİNA SAN. VE TİC.A.Ş.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00960",
+    "ad": "MERDAL MAKİNE KALIP VİNÇ OTOMOTİV SANAYİ VE TİC.LTD.ŞTİ.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00961",
+    "ad": "LEVEND SAKİN/ÇLS ÇELİK HALAT",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00962",
+    "ad": "YILDIZ ÇELİK HALAT ÜMİT YILDIZ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00963",
+    "ad": "TEKNİK HADDE VE KALIP - NURİ AYDIN",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00964",
+    "ad": "DALKO DALDIRMA GALVANİZ SAN TİC LTD ŞTİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00965",
+    "ad": "YİĞİT ERLER NAKLİYAT TAAH.PETROL ÜRÜNLERİ İNŞ.TİC.LTD.ŞTİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00966",
+    "ad": "BECOR METAL İNŞAAT ELEKTRİK ELEKTRONİK VE TUR.SAN.TİC.LTD.ŞTİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00967",
+    "ad": "KROMAN ÇELİK SANAYİ A.Ş.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00968",
+    "ad": "KAPTAN ÇELİK HALAT A.Ş.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00969",
+    "ad": "AGH TEKNİK MAKİNA METAL HIRDAVAT SAN VE TİC.LTD.ŞTİ",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00970",
+    "ad": "GEZER - MASS KASTAMONU İŞ ORTAKLIĞI",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00971",
+    "ad": "METRON METALURJİ ELEKTRONİK SAN.TİC.A.Ş.",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00972",
+    "ad": "BALABANLAR SANAYİ MALZEMELERİ TİCARETİ-AHMET BALABAN",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00973",
+    "ad": "MHR İNŞAAT YUNUS EMRE TAŞDELEN",
+    "il": "KOCAELİ"
+  },
+  {
+    "id": "c00974",
+    "ad": "MEFSA OTOM.ELEKTRONİKTEKSTİL HIRDAVAT KİMYASAL SAN.İÇ. VE DIŞ TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00975",
+    "ad": "ÇOBANLAR ENDÜSTRİYEL ÜRÜNLER SAN. TİC. LTD. ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00976",
+    "ad": "HİDROLİKSAN HİDROLİK PRES İML. SAN. TİC. LTD. ŞTİ. HALİM USTA",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00977",
+    "ad": "VİTRİN OTOMOTİV İNŞ. NAK. HAYV. SAN. TİC. LTD. ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00978",
+    "ad": "KAMİL TÜRK HIRDAVAT-NALBURİYE İNŞ.MALZ.PAZ.NAK.SAN.VE TİC. LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00979",
+    "ad": "ARICI MANİFATURA MEFRUŞAT SANAYİ TİCARET LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00980",
+    "ad": "MUSTAFA KAMİL KUBAK-KUBAK TİCARET",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00981",
+    "ad": "PEK PERÇİN CİVATA SAN VE TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00982",
+    "ad": "PEK BAĞLANTI ELEMANLARI SAN.VE TİC. LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00983",
+    "ad": "YETGİN CİVATA BAĞLANTI ELEMANLARI HIRD.SAN.TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00984",
+    "ad": "CEMRE HIRDAVAT YAPI MALZEMELERİ SAN.TİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00985",
+    "ad": "ROTSAN OTO İNŞ.KUN.SAN.TİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00986",
+    "ad": "BTF INOVASYON İTHALAT İHRACAT LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00987",
+    "ad": "NOKTA HİDROLİK & PNÖMATİK İMALAT SANAYİ MUSTAFA TOLAYCANLI",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00988",
+    "ad": "İHSAN KOÇAK MAKİNA SAN. VE TİC.A.Ş.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00989",
+    "ad": "ASİL NALBURİYE HIRDAVAT MAKİNE SANAYİ VE TİCARET   LİMİTED ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00990",
+    "ad": "KOBASTAR ELEKTRONİK SAN.VE TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00991",
+    "ad": "KOÇAKSAN BÜYÜK BAŞ HAYVAN EKİPMANLARI - İSA KOÇAK",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00992",
+    "ad": "DİRİM METAL ANONİM ŞİRKETİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00993",
+    "ad": "BÜYÜK TUFAN OTOMOTİV İNŞ.VE GIDA SAN.TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00994",
+    "ad": "YILDIZ VİNÇ ÇELİK HALAT-İSA YALDIR",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00995",
+    "ad": "MY KARDAN OTOMOTİV MAKİNA VE SANAYİ TİCARETLTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00996",
+    "ad": "WEILOTECH ELEKTRONİK SANAYİ TİCARET LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00997",
+    "ad": "KENAN USTA HİDROLİK PRES İMALAT SANTİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00998",
+    "ad": "MİR TARIM MARKET-MEHMET ŞAMİL KILINÇ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c00999",
+    "ad": "AYDEMİR MEDYA TASARIM TEKNOLOJİ SAN.VE TİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01000",
+    "ad": "ELMAS YAY SAN.TİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01001",
+    "ad": "AHENK OTO AKSESUAR-OĞUZHAN ATEŞ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01002",
+    "ad": "LIA MAKİNE  SAN.VE TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01003",
+    "ad": "ÇELİKEL TARIM MAKİNALARI SANAYİ VE TİCARET A.Ş.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01004",
+    "ad": "KARAR HIRDAVAT NALBURİYE İNŞAAT MALZEMELERİ TARIM SANAYİ TİCARET LİMİTED ŞİRKETİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01005",
+    "ad": "AHİ OSMANLI HIRDAVAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01006",
+    "ad": "SELÇUKLU CİVATA HIRDAVAT İNŞ. SAN. VE TİC. LTD. ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01007",
+    "ad": "GÖKTÜRK ÇELİK HALAT ÜRÜNLERİ HIRD.SAN.TİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01008",
+    "ad": "AGRO MEKS TARIM MAK.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01009",
+    "ad": "TERRAKAT TARIM MAKİNALARI SAN.TİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01010",
+    "ad": "ÖZYEŞİLYURT TARIM MAKİNALARI VE DEĞİRMENCİLİK İÇ DIŞ TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01011",
+    "ad": "KÜÇÜK GROUP KABLO SAN.TİC.A.Ş.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01012",
+    "ad": "YILDIZ GRUP VİNÇ MARKET SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01013",
+    "ad": "ŞENAY KARA EZEL BÜYÜKBAŞ HAYVAN EKİPMANLARI",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01014",
+    "ad": "HOLMER TÜRKEİ OTOMOTİV LİMİTED ŞİRKETİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01015",
+    "ad": "STAR ÇELİK HALAT VİNÇ SAN.TİC.LTD.ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01016",
+    "ad": "HAMESA PETROL ÜRÜN.HAYV.NAK.SAN.TİC.LTD.ŞTİ",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01017",
+    "ad": "VERMAKSAN MAK. TEKS. KIRT. AYAK. SAN. VE TİC. LTD. ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01018",
+    "ad": "FORMATEK TEKSTİL PROMOSYON İHR. İTH. LTD. ŞTİ.",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01019",
+    "ad": "ARAS PROMOSYON - FATİH",
+    "il": "KONYA"
+  },
+  {
+    "id": "c01020",
+    "ad": "ARB COM N.T.SH.",
+    "il": "KOSOVE"
+  },
+  {
+    "id": "c01021",
+    "ad": "YAŞAR KÖKTÜRK",
+    "il": "KÜTAHYA"
+  },
+  {
+    "id": "c01022",
+    "ad": "ETİ MADEN İŞLETMELERİ GENEL MÜDÜRLÜĞÜ Emet Bor İşletme Müdürlüğü",
+    "il": "KÜTAHYA"
+  },
+  {
+    "id": "c01023",
+    "ad": "CAVİT CENGİZ",
+    "il": "KÜYAHYA"
+  },
+  {
+    "id": "c01024",
+    "ad": "MİMSAN ENDÜSTRİ KAZANLARI SAN.VE TİC.A.Ş.",
+    "il": "MALATYA"
+  },
+  {
+    "id": "c01025",
+    "ad": "GÜN-PA NALBURİYE VE İNŞ.MALZ.TİC.PAZ.-ÜZEYİR GÜNDÜZALP",
+    "il": "MALATYA"
+  },
+  {
+    "id": "c01026",
+    "ad": "EMRE ABDULLAH KILINÇ ORTADOĞU ŞASE DAMPER",
+    "il": "MALATYA"
+  },
+  {
+    "id": "c01027",
+    "ad": "DURMAZLAR PETROL MOZAİK LTD ŞTİ",
+    "il": "MALATYA"
+  },
+  {
+    "id": "c01028",
+    "ad": "BORBAY İNŞAAT TAAH.TEKS.GIDA İHR.İTH.TİC.VE SAN.LTD.ŞTİ",
+    "il": "MALATYA"
+  },
+  {
+    "id": "c01029",
+    "ad": "ALSAÇ MODERN ÇİFTLİK EKİPMANLARI SAN. VE TİC. LTD. ŞTİ.",
+    "il": "MANISA"
+  },
+  {
+    "id": "c01030",
+    "ad": "LİDER TRAKTÖR DÖKÜM YEDEK PRÇ. İTH. İHR. SAN. TİC. LTD. ŞTİ.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01031",
+    "ad": "HAKİM KAYNAK MAK. MALZ. SERVIS VE HIRDAVAT ÜRÜNL. TİC. LTD. ŞTİ.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01032",
+    "ad": "KURŞUN BRANDA GÜRKAN KURŞUN",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01033",
+    "ad": "OEMLUBE ENDÜSTRİYEL ÇÖZÜMLER TİCARET LİMİTED ŞİRKETİ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01034",
+    "ad": "BİRLİK GALVANO MAKİNA İMALATI-BATUHAN TAŞKIRAN",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01035",
+    "ad": "AYRANCI RULMAN NECDET ÖZGÜRLER ORTAKLIĞI",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01036",
+    "ad": "ARTU KİMYA SAN VE TİCARET A.Ş.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01037",
+    "ad": "LİDER GIDA SAN.VE DIŞ.TİC.LTD.ŞTİ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01038",
+    "ad": "SAHALAR METAL DEMİR ÇELİK HURDACILIK NAKL.HAFR.İNŞ.TAAH.İTH.İHR.SAN.VE TİC.LTD.ŞTİ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01039",
+    "ad": "BİLEN BİRİ REKLAM TANITIM DAN.ANBALAJ SAN.TİC.A.Ş.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01040",
+    "ad": "VULCAN KALIP METAL GELİŞİM SAN VE TİC.LTD.ŞTİ.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01041",
+    "ad": "ÖZ BOYACIOĞLU YELKEN TİCARET-MEHMET ALİ YELKEN",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01042",
+    "ad": "TALU EKOFARM GIDA TARIM HAYVANCILIK ENERJİ SAN VE TİC.A.Ş.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01043",
+    "ad": "ERHAN KAPLAMA-ERHAN GÜRKAN",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01044",
+    "ad": "İNDİRİMSMART-ENVER BARIŞ ŞENCAN",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01045",
+    "ad": "MEHMET ZÜMBÜL",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01046",
+    "ad": "ALEMDARLAR METAL MAK.İNŞAAT İNŞAAT MALZ.PET.ÜR.SAN.TİC.LTD.ŞTİ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01047",
+    "ad": "EGE DÖVME SANAYİ VE TİCARET A.Ş.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01048",
+    "ad": "ÇINARLI MAKİNE SANAYİ TİCARET ANONİM ŞİRKETİ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01049",
+    "ad": "DEMİRBAŞLAR ADEM DEMİRBAŞ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01050",
+    "ad": "SPEKTRUM TAŞIMA SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01051",
+    "ad": "TEVFİK DEMİRCİ",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01052",
+    "ad": "DEMİR EXPORT A.Ş. FERNAS İNŞ. A.Ş. ADİ ORTAKLIĞI",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01053",
+    "ad": "BULUT SOMA  METAL SAN VE TİC.LTD.ŞTİ.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01054",
+    "ad": "SAMETSAN KALIP ELEMANLARI SANAYİ VE TİCARET A.Ş.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01055",
+    "ad": "BATI ISIL İŞLEM SAN.VE TİC.A.Ş.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01056",
+    "ad": "DAŞKANLAR PLASTİK SOĞUK HAVA DEPO İŞL.TARIM GIDA TAŞ.SAN.TİC.A.Ş.",
+    "il": "MANİSA"
+  },
+  {
+    "id": "c01057",
+    "ad": "KURT HIRDAVAT -GARİP KURT",
+    "il": "MARDİN"
+  },
+  {
+    "id": "c01058",
+    "ad": "BARIŞ ELEKTRONİK OTO İNŞ.TUR.GIDA SAN.TİC.LTD.ŞTİ",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01059",
+    "ad": "MERSİN GENC HIRDAVAT NAK.İNŞ.GIDA.PET.İTH.İHR.SAN.TİC.LTD.ŞTİ",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01060",
+    "ad": "VENÜS LASTİKÇİLİK -BAYRAM YILDIRIM",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01061",
+    "ad": "GİMPA BAĞLANTI ELEMANLARI METAL SAN.VE TİC.LTD.ŞTİ.",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01062",
+    "ad": "MTD OTOMOTİV SAN.VE TİC.LTD.ŞTİ.",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01063",
+    "ad": "PETRO TEK ELEKTRİK RLRKTRONİK İNŞAAT SAN.VE TİC.LTD.ŞTİ.",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01064",
+    "ad": "MARİN JET MÜRSEL ÖZTÜRK",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01065",
+    "ad": "AYS PROJE TAAHHÜT SAN.VE TİC.A.Ş.",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01066",
+    "ad": "YAŞAR HIRDAVAT PAZ.SAN VE TİC.LTD.ŞTİ",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01067",
+    "ad": "MERSİN ULUSLAR ARASI LİMAN İŞLETMECİLİĞİ A.Ş.",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01068",
+    "ad": "HALİL İBRAHİM ÖZ",
+    "il": "MERSİN"
+  },
+  {
+    "id": "c01069",
+    "ad": "EMRE TÜRKOĞLU TİCARET-EMRE TÜRKOĞLU",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01070",
+    "ad": "DEMET OTURGAN / BARBAROS GALVANİZ",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01071",
+    "ad": "EBYAT İŞLETMECİLİĞİ TURİZM LTD.ŞTİ.",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01072",
+    "ad": "NETSEL TURİZM YATIRIMLARI A.Ş.",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01073",
+    "ad": "ARMA DENİZCİLİK VE TEKNİK SERVİS HİZMETLERİ TURİZM SERV. HİZMETLERİ TURİZM TİC.TAAH.İTH.İHR.LTD.ŞTİ",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01074",
+    "ad": "HAKAN ÖZBEK ÇAPA MARİN YAT MALZEMELERİ VE HIRDAVAT",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01075",
+    "ad": "MARİNEİST GÖCEK DENİZ MALZEMELERİ SANAYİ VE TİC.LTD.ŞTİ.",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01076",
+    "ad": "BERKE UZ",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01077",
+    "ad": "SALİH KURU",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01078",
+    "ad": "ANADOLU TEHLİKELİ ATIK DEPOLAMA SAN VE TİC.A.Ş.",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01079",
+    "ad": "KAVAKLIDERE ORMAN İŞLETME MÜDÜRLÜĞÜ",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01080",
+    "ad": "YATAĞAN TERMİK ENERJİ ÜRETİM A.Ş. SANTRAL ŞUBESİ",
+    "il": "MUĞLA"
+  },
+  {
+    "id": "c01081",
+    "ad": "NEKSAN KARUSER EKİPMANLARI GIDA İNŞAAT TUR.OTOM.NAK.SAN.VE TİC.LTD.ŞTİ.",
+    "il": "NEVŞEHİR"
+  },
+  {
+    "id": "c01082",
+    "ad": "ALİ BALDEMİR-BALDEMİRLER TİCARET",
+    "il": "NEVŞEHİR"
+  },
+  {
+    "id": "c01083",
+    "ad": "Nev/ak otomotiv Ahmet Kafalı",
+    "il": "NEVŞEHİR"
+  },
+  {
+    "id": "c01084",
+    "ad": "RAMİS BEDENLİ-ATILIM MAKİNA",
+    "il": "NEVŞEHİR"
+  },
+  {
+    "id": "c01085",
+    "ad": "OĞUZ HIRDAVAT - ASAF YÜKSEL-OĞUZ KIRAN",
+    "il": "NİĞDE"
+  },
+  {
+    "id": "c01086",
+    "ad": "ELİZ İNŞAAT -SEMA YÜCESOY",
+    "il": "ORDU"
+  },
+  {
+    "id": "c01087",
+    "ad": "TÜRKOĞLU HIRDAVAT TÜTÜN EVİ  MEHMET AKİF TÜRKOĞLU",
+    "il": "ORDU"
+  },
+  {
+    "id": "c01088",
+    "ad": "YASİN AKÇAM",
+    "il": "OSMANİYE"
+  },
+  {
+    "id": "c01089",
+    "ad": "SAYOĞLU MAKİNA SAN TİC.LTD.ŞTİ",
+    "il": "OSMANİYE"
+  },
+  {
+    "id": "c01090",
+    "ad": "SAYSAN İNŞAAT HIRDAVAT OTO BOYAMA SAN VE TİC.LTD.ŞTİ",
+    "il": "OSMANİYE"
+  },
+  {
+    "id": "c01091",
+    "ad": "İRFAN PAÇA -BIÇSAN DERİ BIÇAKLARI ISIL İŞLEM",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01092",
+    "ad": "ADA MARMARA BETON İÇ VE DIŞ TİC.A.Ş.",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01093",
+    "ad": "ABS HALAT YÜK VE İŞ GÜVENLİĞİ EKİPMANLARI İMALAT OTOMOTİV İTHALAT İHRACAT SAN VE TİC.LTD.ŞTİ.",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01094",
+    "ad": "ÖZBAY GIDA SAN.VE TİC. LTD.ŞTİ",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01095",
+    "ad": "GÜÇLÜ SPANZET YÜK VE İŞ GÜVENLİĞİ SAN.VE TİC.A.Ş.",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01096",
+    "ad": "ARES HALAT YÜK KALDIRMA VE SABİTLEME EKİPMANLARI LTD.ŞTİ.",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01097",
+    "ad": "SADIK AVCI",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01098",
+    "ad": "ME-TAŞ MAKİNA METAL İŞLERİ SAN VE TİC.LTD.ŞTİ.",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01099",
+    "ad": "FGI KAPI VE YÜKLEME TEKNOLOJİLERİ A.Ş.",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01100",
+    "ad": "EKREM KÖKSAL TARIM MAKİNALARI İMALAT VE TİC.A.Ş",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01101",
+    "ad": "ADAPAZARI TAŞIMACILIK KARGO VE DAĞITIM TİC.LTD.ŞTİ",
+    "il": "SAKARYA"
+  },
+  {
+    "id": "c01102",
+    "ad": "ÖZSAMUK CİVATA SAN. VE TİC. LTD. ŞTİ.",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01103",
+    "ad": "YUSUF YAMAN HIRD. NALB. LTD. ŞTİ.",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01104",
+    "ad": "MALKOÇOĞLU HIRDAVAT NALBURİYE MOBİLYA AKSESUARLARI İNŞ.SAN.TİC.LTD.ŞTİ",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01105",
+    "ad": "KARTEK HIRD.PLS.MAL.İMAL.İTH.İHR.SAN.TİC.LTD.ŞTİ",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01106",
+    "ad": "SAMSUN CİVATA HIRDAVAT PAZARLAMA SAN.TİC.LTD.ŞTİ.",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01107",
+    "ad": "SAMUK CİVATACILIK SAN VE TİC LTD ŞTİ",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01108",
+    "ad": "YAMANLAR GRUP TEKNİK HIRDAVAT TAAH.MET.SAN.TİC.LTD.ŞTİ",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01109",
+    "ad": "OKUTGEN NALBURİYE İNŞ.HIR.VE SAN.LTD.ŞTİ.",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01110",
+    "ad": "KUZEY YILDIZI HIRDAVAT NALBURİYE YAZILIM BİLGİ İŞLEM PAZ.İTH.İHR TİC.VE SAN.LTD.ŞTİ.",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01111",
+    "ad": "TELLİOĞLU METAL SAN. VE TİC. A.Ş.",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01112",
+    "ad": "CANDAN TİCARET VE PAZARLAMA-RAHMİ CANDAN",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01113",
+    "ad": "BİRLİK İMAR KONUT İNŞ MÜH.MİM TAAHHÜT SAN.TİC.LTD.ŞTİ.",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01114",
+    "ad": "ÖZGÜR HIRDAVAT-AYDIN GÜLER",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01115",
+    "ad": "RECEPOĞLU HIRDAVAT-DURSUN BAŞ",
+    "il": "SAMSUN"
+  },
+  {
+    "id": "c01116",
+    "ad": "TEKNİK YAPI NAKLİYE İNŞAAT ELEKTRİK ORMAN ÜRÜNLERİ BİLEŞİM SANAYİ VE TİC.LTD.ŞTİ.",
+    "il": "SİİRT"
+  },
+  {
+    "id": "c01117",
+    "ad": "OTO GELİŞ ORTAKLIĞI",
+    "il": "SİNOP"
+  },
+  {
+    "id": "c01118",
+    "ad": "CABALI OTOMOTİV,İNŞAAT ORMAN ÜRÜNLERİ,NAKLİYAT ODUN,KÖMÜR,İTHALAT,İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+    "il": "SİNOP"
+  },
+  {
+    "id": "c01119",
+    "ad": "ONUR BOYA İNŞ.TAAH.İNS.MAİ.TEM.MAK.İMT.İHR.PAZ.VESAN.TİC.LTD. ŞTİ",
+    "il": "SİVAS"
+  },
+  {
+    "id": "c01120",
+    "ad": "ÜNLÜ KARDEŞLER LTD.ŞTİ - SABRİ ÜNLÜ",
+    "il": "SİVAS"
+  },
+  {
+    "id": "c01121",
+    "ad": "KARDEŞLER OTO KLİMA &ELEKTRİK- FATİH TÜRTÜK",
+    "il": "SİVAS"
+  },
+  {
+    "id": "c01122",
+    "ad": "KUZEY MAKİNE ENERJİ MÜHENDİSLİK İNŞAAT NAK.SAN.LTD.ŞTİ.",
+    "il": "SİVAS"
+  },
+  {
+    "id": "c01123",
+    "ad": "HÜSEYİN TATAR",
+    "il": "ŞANLIURFA"
+  },
+  {
+    "id": "c01124",
+    "ad": "MUHAT YAPI SAN.TİC.LTD.ŞTİ-MUHARREM AĞAT",
+    "il": "ŞANLIURFA"
+  },
+  {
+    "id": "c01125",
+    "ad": "SAHAND SNOW CHAIN",
+    "il": "TABRIZ"
+  },
+  {
+    "id": "c01126",
+    "ad": "ŞAZMAZLAR TİCARET - RIDVAN ŞAZMAZ",
+    "il": "TEKİRDAĞ"
+  },
+  {
+    "id": "c01127",
+    "ad": "SEMENTE METAL ISIL İŞLEM İNŞAAT SAN.DIŞ TİC.LTD.ŞTİ",
+    "il": "TEKİRDAĞ"
+  },
+  {
+    "id": "c01128",
+    "ad": "ASYAPORT KILAVUZLUK A.Ş.",
+    "il": "TEKİRDAĞ"
+  },
+  {
+    "id": "c01129",
+    "ad": "TAŞTAN GROUP KONF. PLSTK. MEDKL. MAHRUKT. TARIM LTD. ŞTİ. - BURHAN TAŞTAN",
+    "il": "TOKAT"
+  },
+  {
+    "id": "c01130",
+    "ad": "COŞKUNSEL TİCARET NALBURİYE PLASTİK  TİC.-ABDULLAH COŞKUNSEL-SEZGİN COŞKUNSEL",
+    "il": "TOKAT"
+  },
+  {
+    "id": "c01131",
+    "ad": "ÖZGÜNEŞ HIRDAVATÇILIK PAZ.TİC.İNŞ.TAAH.LTD.ŞTİ",
+    "il": "TRABZON"
+  },
+  {
+    "id": "c01132",
+    "ad": "ÖZ-TÜR CİVATA SAN ÜRÜN LTD.ŞTİ",
+    "il": "TRABZON"
+  },
+  {
+    "id": "c01133",
+    "ad": "KÜÇÜKARSLANLAR BAKIR ÇİNKO SANAYİ VE TİCARET A.Ş.",
+    "il": "TRABZON"
+  },
+  {
+    "id": "c01134",
+    "ad": "HAKÇA TİCARET-CAN ÖZYAZICI",
+    "il": "TRABZON"
+  },
+  {
+    "id": "c01135",
+    "ad": "MUSTAFA TURHAN-KESER BALTA VE EL SANATLARI",
+    "il": "TRABZON"
+  },
+  {
+    "id": "c01136",
+    "ad": "ÖZBALBAN TİCARET TOPTAN SATIŞ VE PAZARLAMA-İSMAİL HAKKI BALBAN",
+    "il": "UŞAK"
+  },
+  {
+    "id": "c01137",
+    "ad": "ÖZ TATARLAR - ÖMER CAN TATAR",
+    "il": "VAN"
+  },
+  {
+    "id": "c01138",
+    "ad": "SULTANOĞLU TİCARET SARACİYE NALBURİYE ADNAN ÇAKAR",
+    "il": "VAN"
+  },
+  {
+    "id": "c01139",
+    "ad": "ENSAR TİCARET SEVDİN TAŞKIRAN",
+    "il": "VAN"
+  },
+  {
+    "id": "c01140",
+    "ad": "SÜRMELİ PETROL ÜRÜNLERİ SAN.TİC.LTD.ŞTİ",
+    "il": "VAN"
+  },
+  {
+    "id": "c01141",
+    "ad": "YALOVA GÖZDE PLS.İTL.İHR.İNŞ.TEKS.TUR.MOB.HAY.SAN.TİC.LTD.ŞTİ",
+    "il": "YALOVA"
+  },
+  {
+    "id": "c01142",
+    "ad": "ÜMELSAN ELEKTRİK İNŞ. DAY. TÜK. MAL. SAN. TİC. LTD. ŞTİ.",
+    "il": "YALOVA"
+  },
+  {
+    "id": "c01143",
+    "ad": "YAĞIZ KURCUOĞLU",
+    "il": "YALOVA"
+  },
+  {
+    "id": "c01144",
+    "ad": "ELEKTROMARKETİM BİLİŞİM HİZM. VE ELEKTRONİK TİC. A.Ş.",
+    "il": "YALOVA"
+  },
+  {
+    "id": "c01145",
+    "ad": "SETUR YALOVA MARİNA İŞLETMECİLİĞİ A.Ş.",
+    "il": "YALOVA"
+  },
+  {
+    "id": "c01146",
+    "ad": "EREĞLİ YILMAZ VİNÇ SANAYİ VE TİCARET LTD.ŞTİ",
+    "il": "ZONGULDAK"
+  },
+  {
+    "id": "c01147",
+    "ad": "ATAÇ PROJE İNŞ.SAN.TİC.A.Ş.",
+    "il": "ZONGULDAK"
+  },
+  {
+    "id": "c01148",
+    "ad": "HUZUR MAKİNA SANAYİ- HALİT YENER",
+    "il": "ZONGULDAK"
+  }
+]

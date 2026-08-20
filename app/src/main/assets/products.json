@@ -1,0 +1,4426 @@
+[
+  {
+    "id": "p0001",
+    "ad": "Makaralı Zincir 2,5 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 175.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0002",
+    "ad": "Makaralı Zincir 3 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0003",
+    "ad": "Makaralı Zincir 4 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0004",
+    "ad": "Makaralı Zincir 5 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0005",
+    "ad": "Makaralı Zincir 6 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0006",
+    "ad": "Makaralı Zincir 7 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0007",
+    "ad": "Makaralı Zincir 8 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0008",
+    "ad": "Makaralı Zincir 9 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0009",
+    "ad": "Makaralı Zincir 10 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0010",
+    "ad": "Makaralı Zincir 12 mm",
+    "kategori": "Makaralı Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": "Koli: 25KG"
+  },
+  {
+    "id": "p0011",
+    "ad": "DIN 766 Kalibre Zincir 4 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 150.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0012",
+    "ad": "DIN 766 Kalibre Zincir 4 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 167.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0013",
+    "ad": "DIN 766 Kalibre Zincir 4 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 150.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0014",
+    "ad": "DIN 766 Kalibre Zincir 4 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 167.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0015",
+    "ad": "DIN 766 Kalibre Zincir 5 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 98.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0016",
+    "ad": "DIN 766 Kalibre Zincir 5 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 106.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0017",
+    "ad": "DIN 766 Kalibre Zincir 5 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 98.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0018",
+    "ad": "DIN 766 Kalibre Zincir 5 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 106.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0019",
+    "ad": "DIN 766 Kalibre Zincir 6 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0020",
+    "ad": "DIN 766 Kalibre Zincir 6 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0021",
+    "ad": "DIN 766 Kalibre Zincir 6 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0022",
+    "ad": "DIN 766 Kalibre Zincir 6 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0023",
+    "ad": "DIN 766 Kalibre Zincir 7 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0024",
+    "ad": "DIN 766 Kalibre Zincir 7 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0025",
+    "ad": "DIN 766 Kalibre Zincir 7 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0026",
+    "ad": "DIN 766 Kalibre Zincir 7 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0027",
+    "ad": "DIN 766 Kalibre Zincir 8 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0028",
+    "ad": "DIN 766 Kalibre Zincir 8 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0029",
+    "ad": "DIN 766 Kalibre Zincir 8 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0030",
+    "ad": "DIN 766 Kalibre Zincir 8 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0031",
+    "ad": "DIN 766 Kalibre Zincir 10 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0032",
+    "ad": "DIN 766 Kalibre Zincir 10 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0033",
+    "ad": "DIN 766 Kalibre Zincir 10 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0034",
+    "ad": "DIN 766 Kalibre Zincir 10 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0035",
+    "ad": "DIN 766 Kalibre Zincir 12 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0036",
+    "ad": "DIN 766 Kalibre Zincir 12 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0037",
+    "ad": "DIN 766 Kalibre Zincir 12 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0038",
+    "ad": "DIN 766 Kalibre Zincir 12 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0039",
+    "ad": "DIN 766 Kalibre Zincir 13 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0040",
+    "ad": "DIN 766 Kalibre Zincir 13 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0041",
+    "ad": "DIN 766 Kalibre Zincir 13 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0042",
+    "ad": "DIN 766 Kalibre Zincir 13 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0043",
+    "ad": "DIN 766 Kalibre Zincir 14 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0044",
+    "ad": "DIN 766 Kalibre Zincir 14 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0045",
+    "ad": "DIN 766 Kalibre Zincir 14 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0046",
+    "ad": "DIN 766 Kalibre Zincir 14 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0047",
+    "ad": "DIN 766 Kalibre Zincir 16 mm (Parlak) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0048",
+    "ad": "DIN 766 Kalibre Zincir 16 mm (Beyaz) - Kg.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "KG",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0049",
+    "ad": "DIN 766 Kalibre Zincir 16 mm (Parlak) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 93.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0050",
+    "ad": "DIN 766 Kalibre Zincir 16 mm (Beyaz) - Mt.",
+    "kategori": "DIN 766 Kalibre Zincir",
+    "birim": "METRE",
+    "fiyat": 101.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0051",
+    "ad": "DIN 5685 Torba Zincir 2,5 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 160.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0052",
+    "ad": "DIN 5685 Torba Zincir 2,5 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 175.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0053",
+    "ad": "DIN 5685 Torba Zincir 3 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0054",
+    "ad": "DIN 5685 Torba Zincir 3 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0055",
+    "ad": "DIN 5685 Torba Zincir 4 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0056",
+    "ad": "DIN 5685 Torba Zincir 4 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0057",
+    "ad": "DIN 5685 Torba Zincir 5 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0058",
+    "ad": "DIN 5685 Torba Zincir 5 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0059",
+    "ad": "DIN 5685 Torba Zincir 6 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0060",
+    "ad": "DIN 5685 Torba Zincir 6 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0061",
+    "ad": "DIN 5685 Torba Zincir 7 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0062",
+    "ad": "DIN 5685 Torba Zincir 7 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0063",
+    "ad": "DIN 5685 Torba Zincir 8 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0064",
+    "ad": "DIN 5685 Torba Zincir 8 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0065",
+    "ad": "DIN 5685 Torba Zincir 9 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0066",
+    "ad": "DIN 5685 Torba Zincir 9 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0067",
+    "ad": "DIN 5685 Torba Zincir 10 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0068",
+    "ad": "DIN 5685 Torba Zincir 10 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0069",
+    "ad": "DIN 5685 Torba Zincir 12 mm (Parlak)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 94.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0070",
+    "ad": "DIN 5685 Torba Zincir 12 mm (Beyaz)",
+    "kategori": "DIN 5685 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 100.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0071",
+    "ad": "DIN 763 Torba Zincir 2,5 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 165.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0072",
+    "ad": "DIN 763 Torba Zincir 2,5 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 175.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0073",
+    "ad": "DIN 763 Torba Zincir 3 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0074",
+    "ad": "DIN 763 Torba Zincir 3 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0075",
+    "ad": "DIN 763 Torba Zincir 4 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0076",
+    "ad": "DIN 763 Torba Zincir 4 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0077",
+    "ad": "DIN 763 Torba Zincir 5 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0078",
+    "ad": "DIN 763 Torba Zincir 5 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0079",
+    "ad": "DIN 763 Torba Zincir 6 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0080",
+    "ad": "DIN 763 Torba Zincir 6 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0081",
+    "ad": "DIN 763 Torba Zincir 7 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0082",
+    "ad": "DIN 763 Torba Zincir 7 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0083",
+    "ad": "DIN 763 Torba Zincir 8 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0084",
+    "ad": "DIN 763 Torba Zincir 8 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0085",
+    "ad": "DIN 763 Torba Zincir 9 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0086",
+    "ad": "DIN 763 Torba Zincir 9 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0087",
+    "ad": "DIN 763 Torba Zincir 10 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0088",
+    "ad": "DIN 763 Torba Zincir 10 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0089",
+    "ad": "DIN 763 Torba Zincir 12 mm (Parlak)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 110.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0090",
+    "ad": "DIN 763 Torba Zincir 12 mm (Beyaz)",
+    "kategori": "DIN 763 Torba Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0091",
+    "ad": "G-80 Zincir 6 mm",
+    "kategori": "G-80 Zincir",
+    "birim": "METRE",
+    "fiyat": 176.35,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0092",
+    "ad": "G-80 Zincir 7 mm",
+    "kategori": "G-80 Zincir",
+    "birim": "METRE",
+    "fiyat": 196.4,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0093",
+    "ad": "G-80 Zincir 8 mm",
+    "kategori": "G-80 Zincir",
+    "birim": "METRE",
+    "fiyat": 190.4,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0094",
+    "ad": "G-80 Zincir 10 mm",
+    "kategori": "G-80 Zincir",
+    "birim": "METRE",
+    "fiyat": 300.6,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0095",
+    "ad": "G-80 Zincir 13 mm",
+    "kategori": "G-80 Zincir",
+    "birim": "METRE",
+    "fiyat": 531.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0096",
+    "ad": "G-80 Zincir 16 mm",
+    "kategori": "G-80 Zincir",
+    "birim": "METRE",
+    "fiyat": 851.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0097",
+    "ad": "G-80 Zincir 18 mm",
+    "kategori": "G-80 Zincir",
+    "birim": "METRE",
+    "fiyat": 1545.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0098",
+    "ad": "Bükülü Zincir 3 mm (Parlak)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 135.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0099",
+    "ad": "Bükülü Zincir 3 mm (Beyaz)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 145.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0100",
+    "ad": "Bükülü Zincir 5 mm (Parlak)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0101",
+    "ad": "Bükülü Zincir 5 mm (Beyaz)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 130.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0102",
+    "ad": "Bükülü Zincir 6 mm (Parlak)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0103",
+    "ad": "Bükülü Zincir 6 mm (Beyaz)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 130.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0104",
+    "ad": "Bükülü Zincir 7 mm (Parlak)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0105",
+    "ad": "Bükülü Zincir 7 mm (Beyaz)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 130.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0106",
+    "ad": "Bükülü Zincir 8 mm (Parlak)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 120.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0107",
+    "ad": "Bükülü Zincir 8 mm (Beyaz)",
+    "kategori": "Bükülü Zincir",
+    "birim": "KG",
+    "fiyat": 130.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0108",
+    "ad": "Halka 10 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 1.33,
+    "ekBilgi": "Paket: 1000, Torba: 10.000"
+  },
+  {
+    "id": "p0109",
+    "ad": "Halka 12 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 1.46,
+    "ekBilgi": "Paket: 1000, Torba: 8.000"
+  },
+  {
+    "id": "p0110",
+    "ad": "Halka 14 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 1.6,
+    "ekBilgi": "Paket: 500, Torba: 5.000"
+  },
+  {
+    "id": "p0111",
+    "ad": "Halka 16 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 1.86,
+    "ekBilgi": "Paket: 500, Torba: 4.000"
+  },
+  {
+    "id": "p0112",
+    "ad": "Halka 18 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 2.93,
+    "ekBilgi": "Paket: 250, Torba: 2.500"
+  },
+  {
+    "id": "p0113",
+    "ad": "Halka 20 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 3.72,
+    "ekBilgi": "Paket: 200, Torba: 2.500"
+  },
+  {
+    "id": "p0114",
+    "ad": "Halka 5MM 50 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 4.79,
+    "ekBilgi": "Paket: 120, Torba: 1.500"
+  },
+  {
+    "id": "p0115",
+    "ad": "Halka 6MM 40 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 6.12,
+    "ekBilgi": "Paket: 125, Torba: 1.250"
+  },
+  {
+    "id": "p0116",
+    "ad": "Halka 7MM 50 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 10.11,
+    "ekBilgi": "Paket: 100, Torba: 1.000"
+  },
+  {
+    "id": "p0117",
+    "ad": "Halka 8MM 40 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 12.24,
+    "ekBilgi": "Paket: 85, Torba: 850"
+  },
+  {
+    "id": "p0118",
+    "ad": "Halka 8MM 50 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 14.36,
+    "ekBilgi": "Paket: 70, Torba: 700"
+  },
+  {
+    "id": "p0119",
+    "ad": "Halka 8MM 65 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 19.15,
+    "ekBilgi": "Paket: 50, Torba: 500"
+  },
+  {
+    "id": "p0120",
+    "ad": "Halka 8MM 75 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 21.28,
+    "ekBilgi": "Paket: 40, Torba: 400"
+  },
+  {
+    "id": "p0121",
+    "ad": "Halka 10MM 75 NO",
+    "kategori": "Halka",
+    "birim": "ADET",
+    "fiyat": 31.92,
+    "ekBilgi": "Paket: -, Torba: 300"
+  },
+  {
+    "id": "p0122",
+    "ad": "Toka 10 NO",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 3.8,
+    "ekBilgi": "Paket: 500 ADET, Torba: 5000"
+  },
+  {
+    "id": "p0123",
+    "ad": "Toka 12 NO",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 4.7,
+    "ekBilgi": "Paket: 350 ADET, Torba: 3500"
+  },
+  {
+    "id": "p0124",
+    "ad": "Toka 14 NO",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 5.2,
+    "ekBilgi": "Paket: 300 ADET, Torba: 3000"
+  },
+  {
+    "id": "p0125",
+    "ad": "Toka 16 NO",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 5.5,
+    "ekBilgi": "Paket: 300 ADET, Torba: 3000"
+  },
+  {
+    "id": "p0126",
+    "ad": "Toka 18 NO",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 6.0,
+    "ekBilgi": "Paket: 250 ADET, Torba: 2500"
+  },
+  {
+    "id": "p0127",
+    "ad": "Toka 20 NO",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 6.5,
+    "ekBilgi": "Paket: 200 ADET, Torba: 2000"
+  },
+  {
+    "id": "p0128",
+    "ad": "Toka 50 NO",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 7.8,
+    "ekBilgi": "Paket: 125 ADET, Torba: 1000"
+  },
+  {
+    "id": "p0129",
+    "ad": "Toka 50 NO Çift Dilli",
+    "kategori": "Toka",
+    "birim": "ADET",
+    "fiyat": 8.6,
+    "ekBilgi": "Paket: 125 ADET, Torba: 1000"
+  },
+  {
+    "id": "p0130",
+    "ad": "Dizgin Toka 25 NO",
+    "kategori": "Dizgin Toka",
+    "birim": "ADET",
+    "fiyat": 10.11,
+    "ekBilgi": "Paket: 150, Torba: 1.500"
+  },
+  {
+    "id": "p0131",
+    "ad": "Dizgin Toka 27 NO",
+    "kategori": "Dizgin Toka",
+    "birim": "ADET",
+    "fiyat": 10.64,
+    "ekBilgi": "Paket: 150, Torba: 1.500"
+  },
+  {
+    "id": "p0132",
+    "ad": "Dizgin Toka 30 NO",
+    "kategori": "Dizgin Toka",
+    "birim": "ADET",
+    "fiyat": 11.31,
+    "ekBilgi": "Paket: 100, Torba: 1.000"
+  },
+  {
+    "id": "p0133",
+    "ad": "Dizgin Toka 35 NO",
+    "kategori": "Dizgin Toka",
+    "birim": "ADET",
+    "fiyat": 11.97,
+    "ekBilgi": "Paket: 75, Torba: 750"
+  },
+  {
+    "id": "p0134",
+    "ad": "Dizgin Toka 40 NO",
+    "kategori": "Dizgin Toka",
+    "birim": "ADET",
+    "fiyat": 20.62,
+    "ekBilgi": "Paket: 50, Torba: 500"
+  },
+  {
+    "id": "p0135",
+    "ad": "Düğümlü Zincir 1,2 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 370.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0136",
+    "ad": "Düğümlü Zincir 1,4 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 350.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0137",
+    "ad": "Düğümlü Zincir 1,6 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 340.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0138",
+    "ad": "Düğümlü Zincir 1,8 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 320.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0139",
+    "ad": "Düğümlü Zincir 2 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 300.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0140",
+    "ad": "Düğümlü Zincir 2,2 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 300.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0141",
+    "ad": "Düğümlü Zincir 2,5 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 280.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0142",
+    "ad": "Düğümlü Zincir 2,8 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 250.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0143",
+    "ad": "Düğümlü Zincir 3 mm",
+    "kategori": "Düğümlü Zincir",
+    "birim": "KG",
+    "fiyat": 250.0,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0144",
+    "ad": "Florasan Askı Zinciri 1,2 mm",
+    "kategori": "Florasan Askı Zinciri",
+    "birim": "METRE",
+    "fiyat": 14.3,
+    "ekBilgi": ""
+  },
+  {
+    "id": "p0145",
+    "ad": "X6 mm 70x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 104.56,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0146",
+    "ad": "X6 mm 70x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 112.61,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0147",
+    "ad": "X6 mm 70x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 118.2,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0148",
+    "ad": "X6 mm 70x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 127.3,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0149",
+    "ad": "X6 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 104.91,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0150",
+    "ad": "X6 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 112.98,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0151",
+    "ad": "X6 mm 75x90 -3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 105.7,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0152",
+    "ad": "X6 mm 75x90 -3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 113.83,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0153",
+    "ad": "X6 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 110.75,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0154",
+    "ad": "X6 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 119.27,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0155",
+    "ad": "X6 mm 75x100 -3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 111.95,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0156",
+    "ad": "X6 mm 75x100 -3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 120.56,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0157",
+    "ad": "X6 mm 75x100-4 kollu Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 149.46,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0158",
+    "ad": "X6 mm 75x100-4 kollu Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 160.96,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0159",
+    "ad": "X6 mm 75x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 111.38,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0160",
+    "ad": "X6 mm 75x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 119.95,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0161",
+    "ad": "X6 mm 75x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 120.48,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0162",
+    "ad": "X6 mm 75x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 129.74,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0163",
+    "ad": "X6 mm 75x130-4 kollu Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 165.94,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0164",
+    "ad": "X6 mm 75x130-4 kollu Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 178.7,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0165",
+    "ad": "X6 mm 100x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 118.2,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0166",
+    "ad": "X6 mm 100x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 127.3,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0167",
+    "ad": "X6 mm 100x100 -3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 121.04,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0168",
+    "ad": "X6 mm 100x100 -3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 130.36,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0169",
+    "ad": "X6 mm 100x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 129.57,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0170",
+    "ad": "X6 mm 100x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 139.53,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0171",
+    "ad": "6 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 115.93,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0172",
+    "ad": "6 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 124.85,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0173",
+    "ad": "3 mm 18x18 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 30.42,
+    "ekBilgi": "Çuval içi adet: 150"
+  },
+  {
+    "id": "p0174",
+    "ad": "3 mm 18x18 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 32.51,
+    "ekBilgi": "Çuval içi adet: 150"
+  },
+  {
+    "id": "p0175",
+    "ad": "6 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 118.2,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0176",
+    "ad": "6 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 127.3,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0177",
+    "ad": "3 mm 19x19 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 32.18,
+    "ekBilgi": "Çuval içi adet: 150"
+  },
+  {
+    "id": "p0178",
+    "ad": "3 mm 19x19 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 34.38,
+    "ekBilgi": "Çuval içi adet: 150"
+  },
+  {
+    "id": "p0179",
+    "ad": "6 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 119.34,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0180",
+    "ad": "6 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 128.52,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0181",
+    "ad": "3 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 33.93,
+    "ekBilgi": "Çuval içi adet: 150"
+  },
+  {
+    "id": "p0182",
+    "ad": "3 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 36.26,
+    "ekBilgi": "Çuval içi adet: 150"
+  },
+  {
+    "id": "p0183",
+    "ad": "6 mm 75x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 133.55,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0184",
+    "ad": "6 mm 75x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 143.82,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0185",
+    "ad": "3 mm 70x80 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 33.35,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0186",
+    "ad": "3 mm 70x80 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 35.63,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0187",
+    "ad": "X7 mm 19x19 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 152.87,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0188",
+    "ad": "X7 mm 19x19 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 164.63,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0189",
+    "ad": "3 mm 75x80 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 39.2,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0190",
+    "ad": "3 mm 75x80 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 41.88,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0191",
+    "ad": "X7 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 156.85,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0192",
+    "ad": "X7 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 168.91,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0193",
+    "ad": "3 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 42.12,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0194",
+    "ad": "3 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 45.01,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0195",
+    "ad": "X7 mm 20x20-3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 159.69,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0196",
+    "ad": "X7 mm 20x20-3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 171.97,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0197",
+    "ad": "3 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 43.88,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0198",
+    "ad": "3 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 46.88,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0199",
+    "ad": "X7 mm 22x22 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 167.08,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0200",
+    "ad": "X7 mm 22x22 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 179.93,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0201",
+    "ad": "4 mm 18x18 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 47.74,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0202",
+    "ad": "4 mm 18x18 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 51.41,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0203",
+    "ad": "X7 mm 70x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 162.53,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0204",
+    "ad": "X7 mm 70x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 175.03,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0205",
+    "ad": "4 mm 19x19 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 50.58,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0206",
+    "ad": "4 mm 19x19 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 54.47,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0207",
+    "ad": "X7 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 140.37,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0208",
+    "ad": "X7 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 151.16,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0209",
+    "ad": "4 mm 19x19-3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 52.85,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0210",
+    "ad": "4 mm 19x19-3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 56.92,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0211",
+    "ad": "X7 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 147.75,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0212",
+    "ad": "X7 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 159.12,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0213",
+    "ad": "4 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 52.28,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0214",
+    "ad": "4 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 56.3,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0215",
+    "ad": "7 mm 75x100 -3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 151.16,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0216",
+    "ad": "7 mm 75x100 -3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 162.79,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0217",
+    "ad": "4 mm 70x80 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 47.74,
+    "ekBilgi": "Çuval içi adet: 80"
+  },
+  {
+    "id": "p0218",
+    "ad": "4 mm 70x80 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 51.41,
+    "ekBilgi": "Çuval içi adet: 80"
+  },
+  {
+    "id": "p0219",
+    "ad": "X7 mm 75x100 -4 kollu Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 200.04,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0220",
+    "ad": "X7 mm 75x100 -4 kollu Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 215.42,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0221",
+    "ad": "4 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 61.38,
+    "ekBilgi": "Çuval içi adet: 80"
+  },
+  {
+    "id": "p0222",
+    "ad": "4 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 66.1,
+    "ekBilgi": "Çuval içi adet: 80"
+  },
+  {
+    "id": "p0223",
+    "ad": "X7 mm 75x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 156.85,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0224",
+    "ad": "X7 mm 75x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 168.91,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0225",
+    "ad": "4 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 63.65,
+    "ekBilgi": "Çuval içi adet: 80"
+  },
+  {
+    "id": "p0226",
+    "ad": "4 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 68.54,
+    "ekBilgi": "Çuval içi adet: 80"
+  },
+  {
+    "id": "p0227",
+    "ad": "X7 mm 75x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 158.55,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0228",
+    "ad": "X7 mm 75x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 170.75,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0229",
+    "ad": "X5 mm 18x18 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 62.65,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0230",
+    "ad": "X5 mm 18x18 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 67.47,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0231",
+    "ad": "X7 mm 75x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 167.08,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0232",
+    "ad": "X7 mm 75x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 179.93,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0233",
+    "ad": "X5 mm 18x18-3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 64.83,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0234",
+    "ad": "X5 mm 18x18-3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 69.82,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0235",
+    "ad": "x7 mm 100x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 164.8,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0236",
+    "ad": "x7 mm 100x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 177.48,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0237",
+    "ad": "X5 mm 19x19 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 67.63,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0238",
+    "ad": "X5 mm 19x19 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 72.83,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0239",
+    "ad": "x7 mm 100x100 4 kollu Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 238.68,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0240",
+    "ad": "x7 mm 100x100 4 kollu Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 257.04,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0241",
+    "ad": "X5 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 68.19,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0242",
+    "ad": "X5 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 73.44,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0243",
+    "ad": "x7 mm 100x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 175.03,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0244",
+    "ad": "x7 mm 100x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 188.5,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0245",
+    "ad": "X5 mm 70x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 75.01,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0246",
+    "ad": "X5 mm 70x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 80.78,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0247",
+    "ad": "x7 mm 100x125 -3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 181.85,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0248",
+    "ad": "x7 mm 100x125 -3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 195.84,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0249",
+    "ad": "X5 mm 70x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 79.56,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0250",
+    "ad": "X5 mm 70x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 85.68,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0251",
+    "ad": "X8 mm 75x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 185.26,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0252",
+    "ad": "X8 mm 75x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 199.51,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0253",
+    "ad": "X5 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 76.15,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0254",
+    "ad": "X5 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 82.01,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0255",
+    "ad": "X8 mm 100x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 255.73,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0256",
+    "ad": "X8 mm 100x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 275.4,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0257",
+    "ad": "X5 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 78.42,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0258",
+    "ad": "X5 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 84.46,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0259",
+    "ad": "8 mm 75x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 335.29,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0260",
+    "ad": "8 mm 75x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 361.08,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0261",
+    "ad": "X5 mm 100x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 86.95,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0262",
+    "ad": "X5 mm 100x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 93.64,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0263",
+    "ad": "Bük.4 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 53.89,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0264",
+    "ad": "Bük.4 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 57.64,
+    "ekBilgi": "Çuval içi adet: 100"
+  },
+  {
+    "id": "p0265",
+    "ad": "X5 mm 100x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 97.18,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0266",
+    "ad": "X5 mm 100x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 104.65,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0267",
+    "ad": "Bük.4 mm 70x80 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 72.06,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0268",
+    "ad": "Bük.4 mm 70x80 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 77.08,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0269",
+    "ad": "5 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 73.88,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0270",
+    "ad": "5 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 79.56,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0271",
+    "ad": "Bük.4 mm 70x80 ÇK Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 73.94,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0272",
+    "ad": "Bük.4 mm 70x80 ÇK Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 79.09,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0273",
+    "ad": "5 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 101.16,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0274",
+    "ad": "5 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 108.94,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0275",
+    "ad": "Bük.4 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 78.32,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0276",
+    "ad": "Bük.4 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 83.79,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0277",
+    "ad": "5 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 106.27,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0278",
+    "ad": "5 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 114.44,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0279",
+    "ad": "Bük.x5 mm 18x18 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 68.92,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0280",
+    "ad": "Bük.x5 mm 18x18 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 73.73,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0281",
+    "ad": "X6 mm 17x17 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 88.08,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0282",
+    "ad": "X6 mm 17x17 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 94.86,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0283",
+    "ad": "Bük.x5 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 75.81,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0284",
+    "ad": "Bük.x5 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 81.11,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0285",
+    "ad": "X6 mm 17x17 -3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 92.06,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0286",
+    "ad": "X6 mm 17x17 -3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 99.14,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0287",
+    "ad": "Bük.x5 mm 65x100 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 85.84,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0288",
+    "ad": "Bük.x5 mm 65x100 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 91.83,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0289",
+    "ad": "X6 mm 18x18 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 90.47,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0290",
+    "ad": "X6 mm 18x18 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 96.93,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0291",
+    "ad": "Bük.x5 mm 70x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 85.84,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0292",
+    "ad": "Bük.x5 mm 70x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 91.83,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0293",
+    "ad": "X6 mm 19x19 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 95.47,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0294",
+    "ad": "X6 mm 19x19 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 102.82,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0295",
+    "ad": "Bük.x5 mm 70x100 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 87.09,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0296",
+    "ad": "Bük.x5 mm 70x100 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 93.17,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0297",
+    "ad": "X6 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 99.45,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0298",
+    "ad": "X6 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 107.1,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0299",
+    "ad": "Bük.x5 mm 70x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 88.97,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0300",
+    "ad": "Bük.x5 mm 70x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 95.18,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0301",
+    "ad": "X6 mm 20x20 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 102.29,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0302",
+    "ad": "X6 mm 20x20 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 110.16,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0303",
+    "ad": "Bük.x5 mm 70x110 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 89.6,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0304",
+    "ad": "Bük.x5 mm 70x110 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 95.85,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0305",
+    "ad": "Bük.x5 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 88.15,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0306",
+    "ad": "Bük.x5 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 94.3,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0307",
+    "ad": "Bük.X7 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 162.91,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0308",
+    "ad": "Bük.X7 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 174.27,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0309",
+    "ad": "Bük.X7 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 169.17,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0310",
+    "ad": "Bük.X7 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 180.98,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0311",
+    "ad": "Bük.X7 mm 75x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 171.05,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0312",
+    "ad": "Bük.X7 mm 75x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 182.99,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0313",
+    "ad": "Bük.X7 mm 75x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 184.21,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0314",
+    "ad": "Bük.X7 mm 75x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 197.06,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0315",
+    "ad": "Bük.X7 mm 75x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 198.0,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0316",
+    "ad": "Bük.X7 mm 75x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 211.81,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0317",
+    "ad": "Bük.X7 mm 100x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 209.28,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0318",
+    "ad": "Bük.X7 mm 100x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 223.88,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0319",
+    "ad": "Bük.X7 mm 100x125 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 210.53,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0320",
+    "ad": "Bük.X7 mm 100x125 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 225.22,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0321",
+    "ad": "Bük.X7 mm 100x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 213.03,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0322",
+    "ad": "Bük.X7 mm 100x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 227.9,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0323",
+    "ad": "Bük.7 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 194.24,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0324",
+    "ad": "Bük.7 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 207.79,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0325",
+    "ad": "Bük.7 mm 20x20 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 199.88,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0326",
+    "ad": "Bük.7 mm 20x20 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 213.82,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0327",
+    "ad": "Bük.7 mm 70x120 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 263.16,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0328",
+    "ad": "Bük.7 mm 70x120 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 281.52,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0329",
+    "ad": "Bük.7 mm 100x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 299.36,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0330",
+    "ad": "Bük.7 mm 100x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 320.25,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0331",
+    "ad": "Bük.x8 mm 100x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 309.53,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0332",
+    "ad": "Bük.x8 mm 100x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 331.12,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0333",
+    "ad": "San 5 mm 75x100 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 123.56,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0334",
+    "ad": "San 5 mm 75x100 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 132.83,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0335",
+    "ad": "Bük.x5 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 91.98,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0336",
+    "ad": "Bük.x5 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 98.4,
+    "ekBilgi": "Çuval içi adet: 60"
+  },
+  {
+    "id": "p0337",
+    "ad": "San 6 mm 65x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 178.35,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0338",
+    "ad": "San 6 mm 65x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 191.73,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0339",
+    "ad": "Bük.x5 mm 75x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 93.99,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0340",
+    "ad": "Bük.x5 mm 75x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 100.54,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0341",
+    "ad": "San 6 mm 70x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 183.02,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0342",
+    "ad": "San 6 mm 70x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 196.74,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0343",
+    "ad": "Bük.x5 mm 75x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 96.49,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0344",
+    "ad": "Bük.x5 mm 75x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 103.22,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0345",
+    "ad": "San 6 mm 100x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 205.75,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0346",
+    "ad": "San 6 mm 100x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 221.18,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0347",
+    "ad": "Bük.x6 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 109.65,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0348",
+    "ad": "Bük.x6 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 117.3,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0349",
+    "ad": "San 6 mm 100x135 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 215.66,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0350",
+    "ad": "San 6 mm 100x135 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 231.83,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0351",
+    "ad": "Bük.x6 mm 22x22 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 119.67,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0352",
+    "ad": "Bük.x6 mm 22x22 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 128.03,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0353",
+    "ad": "San 7 mm 20x20 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 213.32,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0354",
+    "ad": "San 7 mm 20x20 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 229.32,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0355",
+    "ad": "Bük.x6 mm 22x22 ÇK-3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 124.69,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0356",
+    "ad": "Bük.x6 mm 22x22 ÇK-3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 133.39,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0357",
+    "ad": "San 7 mm 70x130 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 247.13,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0358",
+    "ad": "San 7 mm 70x130 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 265.67,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0359",
+    "ad": "Bük.x6 mm 70x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 126.57,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0360",
+    "ad": "Bük.x6 mm 70x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 135.4,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0361",
+    "ad": "San 7 mm 75x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 243.05,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0362",
+    "ad": "San 7 mm 75x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 261.28,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0363",
+    "ad": "Bük.x6 mm 70x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 130.33,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0364",
+    "ad": "Bük.x6 mm 70x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 139.42,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0365",
+    "ad": "San 7 mm 100x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 268.7,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0366",
+    "ad": "San 7 mm 100x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 288.85,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0367",
+    "ad": "Bük.x6 mm 70x120 -3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 135.34,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0368",
+    "ad": "Bük.x6 mm 70x120 -3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 144.78,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0369",
+    "ad": "San Bük 4 mm 20x20 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 60.15,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0370",
+    "ad": "San Bük 4 mm 20x20 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 64.35,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0371",
+    "ad": "Bük.x6 mm 70x120 ÇK Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 135.97,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0372",
+    "ad": "Bük.x6 mm 70x120 ÇK Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 145.45,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0373",
+    "ad": "San Bük 4 mm 70x100 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 83.96,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0374",
+    "ad": "San Bük 4 mm 70x100 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 89.82,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0375",
+    "ad": "Bük.x6 mm 75x90 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 116.54,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0376",
+    "ad": "Bük.x6 mm 75x90 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 124.67,
+    "ekBilgi": "Çuval içi adet: 50"
+  },
+  {
+    "id": "p0377",
+    "ad": "San 4 mm 75x90 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 79.58,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0378",
+    "ad": "San 4 mm 75x90 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 85.13,
+    "ekBilgi": "Çuval içi adet: 70"
+  },
+  {
+    "id": "p0379",
+    "ad": "Bük.x6 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 120.3,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0380",
+    "ad": "Bük.x6 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 128.69,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0381",
+    "ad": "San Bük 5 mm 21x21 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 107.14,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0382",
+    "ad": "San Bük 5 mm 21x21 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 114.62,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0383",
+    "ad": "Bük.x6 mm 75x100 ÇK-3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 123.43,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0384",
+    "ad": "Bük.x6 mm 75x100 ÇK-3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 132.05,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0385",
+    "ad": "San Bük 5 mm 23x23 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 113.41,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0386",
+    "ad": "San Bük 5 mm 23x23 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 121.32,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0387",
+    "ad": "Bük.x6 mm 75x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 122.81,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0388",
+    "ad": "Bük.x6 mm 75x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 131.38,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0389",
+    "ad": "San Bük 5 mm 21x21 x21 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 111.53,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0390",
+    "ad": "San Bük 5 mm 21x21 x21 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 119.31,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0391",
+    "ad": "Bük.x6 mm 75x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 133.46,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0392",
+    "ad": "Bük.x6 mm 75x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 142.77,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0393",
+    "ad": "San Bük 5 mm 65x100 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 136.59,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0394",
+    "ad": "San Bük 5 mm 65x100 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 146.12,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0395",
+    "ad": "Bük.x6 mm 75x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 134.71,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0396",
+    "ad": "Bük.x6 mm 75x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 144.11,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0397",
+    "ad": "San Bük 5 mm 65x110 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 140.98,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0398",
+    "ad": "San Bük 5 mm 65x110 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 150.81,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0399",
+    "ad": "Bük.x6 mm 75x125 ÇK Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 135.34,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0400",
+    "ad": "Bük.x6 mm 75x125 ÇK Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 144.78,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0401",
+    "ad": "San Bük 5 mm 70x100 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 135.97,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0402",
+    "ad": "San Bük 5 mm 70x100 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 145.45,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0403",
+    "ad": "Bük.x6 mm 100x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 135.34,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0404",
+    "ad": "Bük.x6 mm 100x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 144.78,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0405",
+    "ad": "San Bük 5 mm 70x110 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 142.23,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0406",
+    "ad": "San Bük 5 mm 70x110 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 152.16,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0407",
+    "ad": "Bük.x6 mm 100x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 149.12,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0408",
+    "ad": "Bük.x6 mm 100x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 159.53,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0409",
+    "ad": "San Bük 5 mm 70x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 149.75,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0410",
+    "ad": "San Bük 5 mm 70x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 160.2,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0411",
+    "ad": "Bük.6 mm 20x20 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 172.93,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0412",
+    "ad": "Bük.6 mm 20x20 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 185.0,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0413",
+    "ad": "San Bük 5 mm 75x100 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 139.1,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0414",
+    "ad": "San Bük 5 mm 75x100 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 148.8,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0415",
+    "ad": "Bük.6 mm 70x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 177.32,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0416",
+    "ad": "Bük.6 mm 70x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 189.69,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0417",
+    "ad": "San Bük 5 mm 75x110 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 145.99,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0418",
+    "ad": "San Bük 5 mm 75x110 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 156.18,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0419",
+    "ad": "Bük.6 mm 75x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 189.85,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0420",
+    "ad": "Bük.6 mm 75x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 203.1,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0421",
+    "ad": "San Bük 5 mm 75x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 154.14,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0422",
+    "ad": "San Bük 5 mm 75x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 164.89,
+    "ekBilgi": "Çuval içi adet: 40"
+  },
+  {
+    "id": "p0423",
+    "ad": "Bük.6 mm 75x100 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 171.68,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0424",
+    "ad": "Bük.6 mm 75x100 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 183.66,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0425",
+    "ad": "San Bük 6 mm 22x22 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 169.17,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0426",
+    "ad": "San Bük 6 mm 22x22 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 180.98,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0427",
+    "ad": "Bük.6 mm 75x100 ÇK Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 174.19,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0428",
+    "ad": "Bük.6 mm 75x100 ÇK Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 186.34,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0429",
+    "ad": "San Bük 6 mm 23x23 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 178.57,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0430",
+    "ad": "San Bük 6 mm 23x23 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 191.03,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0431",
+    "ad": "Bük.6 mm 75x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 179.2,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0432",
+    "ad": "Bük.6 mm 75x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 191.7,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0433",
+    "ad": "San Bük 6 mm 25x25 2H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 184.84,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0434",
+    "ad": "San Bük 6 mm 25x25 2H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 197.73,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0435",
+    "ad": "Bük.6 mm 75x125 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 191.1,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0436",
+    "ad": "Bük.6 mm 75x125 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 204.44,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0437",
+    "ad": "San Bük 6 mm 65x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 203.63,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0438",
+    "ad": "San Bük 6 mm 65x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 217.84,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0439",
+    "ad": "Bük.X7 mm 20x20 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 169.17,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0440",
+    "ad": "Bük.X7 mm 20x20 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 180.98,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0441",
+    "ad": "San Bük 6 mm 65x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 204.89,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0442",
+    "ad": "San Bük 6 mm 65x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 219.18,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0443",
+    "ad": "Bük.X7 mm 20x20 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 171.68,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0444",
+    "ad": "Bük.X7 mm 20x20 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 183.66,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0445",
+    "ad": "San Bük 6 mm 70x110 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 197.37,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0446",
+    "ad": "San Bük 6 mm 70x110 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 211.14,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0447",
+    "ad": "Bük.X7 mm 22x22 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 186.72,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0448",
+    "ad": "Bük.X7 mm 22x22 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 199.74,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0449",
+    "ad": "San Bük 6 mm 70x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 203.01,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0450",
+    "ad": "San Bük 6 mm 70x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 217.17,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0451",
+    "ad": "Bük.X7 mm 22x22 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 189.85,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0452",
+    "ad": "Bük.X7 mm 22x22 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 203.1,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0453",
+    "ad": "San Bük 6 mm 75x100 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 191.1,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0454",
+    "ad": "San Bük 6 mm 75x100 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 204.44,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0455",
+    "ad": "Bük.X7 mm 22x22 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 199.25,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0456",
+    "ad": "Bük.X7 mm 22x22 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 213.15,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0457",
+    "ad": "San Bük 6 mm 75x110 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 198.0,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0458",
+    "ad": "San Bük 6 mm 75x110 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 211.81,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0459",
+    "ad": "Bük.X7 mm 70x110 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 176.69,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0460",
+    "ad": "Bük.X7 mm 70x110 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 189.02,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0461",
+    "ad": "San Bük 6 mm 75x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 208.02,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0462",
+    "ad": "San Bük 6 mm 75x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 222.53,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0463",
+    "ad": "Bük.X7 mm 70x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 184.21,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0464",
+    "ad": "Bük.X7 mm 70x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 197.06,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0465",
+    "ad": "San Bük 6 mm 100x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 231.83,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0466",
+    "ad": "San Bük 6 mm 100x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 248.0,
+    "ekBilgi": "Çuval içi adet: 25"
+  },
+  {
+    "id": "p0467",
+    "ad": "Bük.X7 mm 70x120 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 185.46,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0468",
+    "ad": "Bük.X7 mm 70x120 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 198.4,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0469",
+    "ad": "San Bük 7 mm 20x20 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 223.06,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0470",
+    "ad": "San Bük 7 mm 20x20 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 238.62,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0471",
+    "ad": "Bük.X7 mm 70x130 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 200.5,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0472",
+    "ad": "Bük.X7 mm 70x130 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 214.49,
+    "ekBilgi": "Çuval içi adet: 30"
+  },
+  {
+    "id": "p0473",
+    "ad": "San Bük 7 mm 22x22 2H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 253.13,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0474",
+    "ad": "San Bük 7 mm 22x22 2H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 270.79,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0475",
+    "ad": "San Bük 7 mm 23x23 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 262.53,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0476",
+    "ad": "San Bük 7 mm 23x23 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 280.85,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0477",
+    "ad": "San Bük 7 mm 25x25 2H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 283.21,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0478",
+    "ad": "San Bük 7 mm 25x25 2H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 302.97,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0479",
+    "ad": "San Bük 7 mm 65x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 276.32,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0480",
+    "ad": "San Bük 7 mm 65x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 295.6,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0481",
+    "ad": "San Bük 7 mm 65x130 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 280.7,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0482",
+    "ad": "San Bük 7 mm 65x130 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 300.29,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0483",
+    "ad": "San Bük 7 mm 70x120 Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 261.28,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0484",
+    "ad": "San Bük 7 mm 70x120 Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 279.51,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0485",
+    "ad": "San Bük 7 mm 70x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 270.68,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0486",
+    "ad": "San Bük 7 mm 70x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 289.56,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0487",
+    "ad": "San Bük 7 mm 70x130 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 282.58,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0488",
+    "ad": "San Bük 7 mm 70x130 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 302.3,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0489",
+    "ad": "San Bük 7 mm 70x150 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 305.77,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0490",
+    "ad": "San Bük 7 mm 70x150 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 327.1,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0491",
+    "ad": "San Bük 7 mm 75x100 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 251.88,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0492",
+    "ad": "San Bük 7 mm 75x100 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 269.45,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0493",
+    "ad": "San Bük 7 mm 75x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 277.57,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0494",
+    "ad": "San Bük 7 mm 75x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 296.94,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0495",
+    "ad": "San Bük 7 mm 75x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 279.45,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0496",
+    "ad": "San Bük 7 mm 75x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 298.95,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0497",
+    "ad": "San Bük 7 mm 100x125 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 310.15,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0498",
+    "ad": "San Bük 7 mm 100x125 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 331.79,
+    "ekBilgi": "Çuval içi adet: 20"
+  },
+  {
+    "id": "p0499",
+    "ad": "San Bük 8 mm 24x24 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 412.91,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0500",
+    "ad": "San Bük 8 mm 24x24 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 441.72,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0501",
+    "ad": "San Bük 8 mm 70x120 ÇK 3H Besi Zinciri Normal",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 367.17,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0502",
+    "ad": "San Bük 8 mm 70x120 ÇK 3H Besi Zinciri Beyaz",
+    "kategori": "Besi Zinciri",
+    "birim": "ADET",
+    "fiyat": 392.79,
+    "ekBilgi": "Çuval içi adet: 15"
+  },
+  {
+    "id": "p0503",
+    "ad": "Köpek Zinciri (Çılbır) 25 NO 125CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 40.7,
+    "ekBilgi": "2,5MM 120CM Çılbır | Paket: 12, Çuval: 200"
+  },
+  {
+    "id": "p0504",
+    "ad": "Köpek Zinciri (Çılbır) 25 NO 150CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 48.1,
+    "ekBilgi": "2,5MM 150CM Çılbır | Paket: 12, Çuval: 150"
+  },
+  {
+    "id": "p0505",
+    "ad": "Köpek Zinciri (Çılbır) 25 NO 200CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 61.05,
+    "ekBilgi": "2,5MM 200CM Çılbır | Paket: 12, Çuval: 150"
+  },
+  {
+    "id": "p0506",
+    "ad": "Köpek Zinciri (Çılbır) 30 NO 120CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 38.85,
+    "ekBilgi": "3MM 120CM Çılbır | Paket: 12, Çuval: 150"
+  },
+  {
+    "id": "p0507",
+    "ad": "Köpek Zinciri (Çılbır) 30 NO 150CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 46.25,
+    "ekBilgi": "3MM 150CM Çılbır | Paket: 12, Çuval: 100"
+  },
+  {
+    "id": "p0508",
+    "ad": "Köpek Zinciri (Çılbır) 30 NO 200CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 59.2,
+    "ekBilgi": "3MM 200CM Çılbır | Paket: 12, Çuval: 100"
+  },
+  {
+    "id": "p0509",
+    "ad": "Köpek Zinciri (Çılbır) 30 NO 300CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 88.8,
+    "ekBilgi": "3MM 300CM Çılbır | Paket: 6, Çuval: 100"
+  },
+  {
+    "id": "p0510",
+    "ad": "Köpek Zinciri (Çılbır) 40 NO 120CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 55.5,
+    "ekBilgi": "4MM 120CM Çılbır | Paket: 12, Çuval: 100"
+  },
+  {
+    "id": "p0511",
+    "ad": "Köpek Zinciri (Çılbır) 40 NO 150CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 68.45,
+    "ekBilgi": "4MM 150CM Çılbır | Paket: 12, Çuval: 100"
+  },
+  {
+    "id": "p0512",
+    "ad": "Köpek Zinciri (Çılbır) 40 NO 200CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 86.95,
+    "ekBilgi": "4MM 200CM Çılbır | Paket: 6, Çuval: 75"
+  },
+  {
+    "id": "p0513",
+    "ad": "Köpek Zinciri (Çılbır) 40 NO 300CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 129.5,
+    "ekBilgi": "4MM 300CM Çılbır | Paket: 6, Çuval: 50"
+  },
+  {
+    "id": "p0514",
+    "ad": "Köpek Zinciri (Çılbır) 50 NO 120CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 68.45,
+    "ekBilgi": "5MM 120CM Çılbır | Paket: 6, Çuval: 50"
+  },
+  {
+    "id": "p0515",
+    "ad": "Köpek Zinciri (Çılbır) 50 NO 150CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 83.25,
+    "ekBilgi": "5MM 150CM Çılbır | Paket: 6, Çuval: 50"
+  },
+  {
+    "id": "p0516",
+    "ad": "Köpek Zinciri (Çılbır) 50 NO 200CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 107.3,
+    "ekBilgi": "5MM 200CM Çılbır | Paket: 6, Çuval: 50"
+  },
+  {
+    "id": "p0517",
+    "ad": "Köpek Zinciri (Çılbır) 50 NO 300CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 166.5,
+    "ekBilgi": "5MM 300CM Çılbır | Paket: 3, Çuval: 30"
+  },
+  {
+    "id": "p0518",
+    "ad": "Köpek Zinciri (Çılbır) 50 NO 400CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 203.5,
+    "ekBilgi": "5MM 400CM Çılbır | Paket: 6, Çuval: 25"
+  },
+  {
+    "id": "p0519",
+    "ad": "Köpek Zinciri (Çılbır) 50 NO 500CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 255.3,
+    "ekBilgi": "5MM 500CM Çılbır | Paket: 6, Çuval: 25"
+  },
+  {
+    "id": "p0520",
+    "ad": "Köpek Zinciri (Çılbır) 60 NO 200CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 148.0,
+    "ekBilgi": "6MM 200CM Çılbır | Paket: 3, Çuval: 40"
+  },
+  {
+    "id": "p0521",
+    "ad": "Köpek Zinciri (Çılbır) 60 NO 300CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 222.0,
+    "ekBilgi": "6MM 300CM Çılbır | Paket: 3, Çuval: 30"
+  },
+  {
+    "id": "p0522",
+    "ad": "Köpek Zinciri (Çılbır) 60 NO 400CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 286.75,
+    "ekBilgi": "6MM 400CM Çılbır | Paket: 3, Çuval: 25"
+  },
+  {
+    "id": "p0523",
+    "ad": "Köpek Zinciri (Çılbır) 60 NO 500CM",
+    "kategori": "Köpek Zinciri (Çılbır)",
+    "birim": "ADET",
+    "fiyat": 360.75,
+    "ekBilgi": "6MM 500CM Çılbır | Paket: 3, Çuval: 25"
+  },
+  {
+    "id": "p0524",
+    "ad": "D Halka 12 NO",
+    "kategori": "D Halka",
+    "birim": "ADET",
+    "fiyat": 1.7,
+    "ekBilgi": "Paket: 750 ADET, Torba: 6000"
+  },
+  {
+    "id": "p0525",
+    "ad": "D Halka 16 NO",
+    "kategori": "D Halka",
+    "birim": "ADET",
+    "fiyat": 2.95,
+    "ekBilgi": "Paket: 350 ADET, Torba: 3500"
+  },
+  {
+    "id": "p0526",
+    "ad": "D Halka 18 NO",
+    "kategori": "D Halka",
+    "birim": "ADET",
+    "fiyat": 3.7,
+    "ekBilgi": "Paket: 30 ADET, Torba: 3000"
+  },
+  {
+    "id": "p0527",
+    "ad": "D Halka 20 NO",
+    "kategori": "D Halka",
+    "birim": "ADET",
+    "fiyat": 4.5,
+    "ekBilgi": "Paket: 200 ADET, Torba: 2000"
+  },
+  {
+    "id": "p0528",
+    "ad": "D Halka 7MM 45 NO",
+    "kategori": "D Halka",
+    "birim": "ADET",
+    "fiyat": 11.25,
+    "ekBilgi": "Paket: 20 ADET, Torba: 1000"
+  },
+  {
+    "id": "p0529",
+    "ad": "D Halka 8MM 55 NO",
+    "kategori": "D Halka",
+    "birim": "ADET",
+    "fiyat": 15.0,
+    "ekBilgi": "Paket: -, Torba: 700"
+  },
+  {
+    "id": "p0530",
+    "ad": "Köprü 10 NO",
+    "kategori": "Köprü",
+    "birim": "ADET",
+    "fiyat": 1.5,
+    "ekBilgi": "Paket: 1000 ADET, Torba: 10.000"
+  },
+  {
+    "id": "p0531",
+    "ad": "Köprü 12 NO",
+    "kategori": "Köprü",
+    "birim": "ADET",
+    "fiyat": 1.75,
+    "ekBilgi": "Paket: 1000 ADET, Torba: 8.000"
+  },
+  {
+    "id": "p0532",
+    "ad": "Köprü 16 NO",
+    "kategori": "Köprü",
+    "birim": "ADET",
+    "fiyat": 2.0,
+    "ekBilgi": "Paket: 750 ADET, Torba: 7.500"
+  },
+  {
+    "id": "p0533",
+    "ad": "Köprü 18 NO",
+    "kategori": "Köprü",
+    "birim": "ADET",
+    "fiyat": 2.5,
+    "ekBilgi": "Paket: 500 ADET, Torba: 6.000"
+  },
+  {
+    "id": "p0534",
+    "ad": "Köprü 20 NO",
+    "kategori": "Köprü",
+    "birim": "ADET",
+    "fiyat": 3.0,
+    "ekBilgi": "Paket: 400 ADET, Torba: 5.000"
+  },
+  {
+    "id": "p0535",
+    "ad": "Köprü 50 NO",
+    "kategori": "Köprü",
+    "birim": "ADET",
+    "fiyat": 3.5,
+    "ekBilgi": "Paket: 250 ADET, Torba: 4000"
+  },
+  {
+    "id": "p0536",
+    "ad": "Çift Kafa Döner 5MM",
+    "kategori": "Çift Kafa Döner",
+    "birim": "ADET",
+    "fiyat": 10.0,
+    "ekBilgi": "Paket: 125 ADET, Torba: 1.000"
+  },
+  {
+    "id": "p0537",
+    "ad": "Çift Kafa Döner 6MM",
+    "kategori": "Çift Kafa Döner",
+    "birim": "ADET",
+    "fiyat": 11.5,
+    "ekBilgi": "Paket: 50 ADET, Torba: 500"
+  },
+  {
+    "id": "p0538",
+    "ad": "Çift Kafa Döner 8MM",
+    "kategori": "Çift Kafa Döner",
+    "birim": "ADET",
+    "fiyat": 16.0,
+    "ekBilgi": "Paket: 50 ADET, Torba: 500"
+  },
+  {
+    "id": "p0539",
+    "ad": "Çift Kafa Döner 10MM",
+    "kategori": "Çift Kafa Döner",
+    "birim": "ADET",
+    "fiyat": 22.5,
+    "ekBilgi": "Paket: 50 ADET, Torba: 400"
+  },
+  {
+    "id": "p0540",
+    "ad": "Saraç Döneri 4MM 25 NO Saraç",
+    "kategori": "Saraç Döneri",
+    "birim": "ADET",
+    "fiyat": 6.7,
+    "ekBilgi": "Paket: 200 ADET, Torba: 2.000"
+  },
+  {
+    "id": "p0541",
+    "ad": "Saraç Döneri 4MM 30 NO Saraç",
+    "kategori": "Saraç Döneri",
+    "birim": "ADET",
+    "fiyat": 7.0,
+    "ekBilgi": "Paket: 125 ADET, Torba: 1.000"
+  },
+  {
+    "id": "p0542",
+    "ad": "Saraç Döneri 5MM 35 NO Saraç",
+    "kategori": "Saraç Döneri",
+    "birim": "ADET",
+    "fiyat": 9.2,
+    "ekBilgi": "Paket: 125 ADET, Torba: 1.000"
+  },
+  {
+    "id": "p0543",
+    "ad": "Saraç Döneri 6MM 40 NO Saraç",
+    "kategori": "Saraç Döneri",
+    "birim": "ADET",
+    "fiyat": 11.7,
+    "ekBilgi": "Paket: 50 ADET, Torba: 500"
+  },
+  {
+    "id": "p0544",
+    "ad": "Saraç Döneri 8MM 45 NO Saraç",
+    "kategori": "Saraç Döneri",
+    "birim": "ADET",
+    "fiyat": 17.0,
+    "ekBilgi": "Paket: 50 ADET, Torba: 500"
+  },
+  {
+    "id": "p0545",
+    "ad": "Saraç Döneri 10MM 50 NO Saraç",
+    "kategori": "Saraç Döneri",
+    "birim": "ADET",
+    "fiyat": 22.5,
+    "ekBilgi": "Paket: 50 ADET, Torba: 500"
+  },
+  {
+    "id": "p0546",
+    "ad": "Dönerli Maşa 55 NO",
+    "kategori": "Dönerli Maşa",
+    "birim": "ADET",
+    "fiyat": 8.0,
+    "ekBilgi": "Paket: 100 ADET, Torba: 2.000"
+  },
+  {
+    "id": "p0547",
+    "ad": "Dönerli Maşa 65 NO",
+    "kategori": "Dönerli Maşa",
+    "birim": "ADET",
+    "fiyat": 8.5,
+    "ekBilgi": "Paket: 50 ADET, Torba: 1.000"
+  },
+  {
+    "id": "p0548",
+    "ad": "Dönerli Maşa 75 NO",
+    "kategori": "Dönerli Maşa",
+    "birim": "ADET",
+    "fiyat": 10.0,
+    "ekBilgi": "Paket: 50 ADET, Torba: 1.000"
+  },
+  {
+    "id": "p0549",
+    "ad": "Dönerli Maşa 100 NO",
+    "kategori": "Dönerli Maşa",
+    "birim": "ADET",
+    "fiyat": 12.0,
+    "ekBilgi": "Paket: 40 ADET, Torba: 800"
+  },
+  {
+    "id": "p0550",
+    "ad": "S Kanca 3MM",
+    "kategori": "S Kanca",
+    "birim": "ADET",
+    "fiyat": 1.7,
+    "ekBilgi": "Paket: 1000 ADET, Çuval: 10.000"
+  },
+  {
+    "id": "p0551",
+    "ad": "S Kanca 4MM",
+    "kategori": "S Kanca",
+    "birim": "ADET",
+    "fiyat": 2.5,
+    "ekBilgi": "Paket: 700 ADET, Çuval: 7.000"
+  },
+  {
+    "id": "p0552",
+    "ad": "S Kanca 5MM",
+    "kategori": "S Kanca",
+    "birim": "ADET",
+    "fiyat": 3.0,
+    "ekBilgi": "Paket: 400 ADET, Çuval: 4.000"
+  },
+  {
+    "id": "p0553",
+    "ad": "S Kanca 8MM",
+    "kategori": "S Kanca",
+    "birim": "ADET",
+    "fiyat": 4.6,
+    "ekBilgi": "Paket: 150 ADET, Çuval: 1.500"
+  }
+]
