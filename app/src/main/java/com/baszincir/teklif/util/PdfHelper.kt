@@ -7,6 +7,7 @@ import android.graphics.Canvas
 import android.graphics.Color
 import android.graphics.Paint
 import android.graphics.RectF
+import android.graphics.Typeface
 import android.graphics.pdf.PdfDocument
 import android.net.Uri
 import android.os.Build
@@ -48,15 +49,15 @@ object PdfHelper {
     fun createAndSaveOfferPdf(context: Context, offer: Offer): Uri? {
         val document = PdfDocument()
 
-        val titlePaint = Paint().apply { color = Color.BLACK; textSize = 20f; isFakeBoldText = true }
+        val titlePaint = Paint().apply { color = Color.BLACK; textSize = 20f; typeface = Typeface.DEFAULT_BOLD }
         val subPaint = Paint().apply { color = Color.DKGRAY; textSize = 11f }
-        val headerPaint = Paint().apply { color = Color.WHITE; textSize = 10f; isFakeBoldText = true }
+        val headerPaint = Paint().apply { color = Color.WHITE; textSize = 10f; typeface = Typeface.DEFAULT_BOLD }
         val cellPaint = Paint().apply { color = Color.BLACK; textSize = 9.5f }
-        val cellPaintBold = Paint().apply { color = Color.BLACK; textSize = 10.5f; isFakeBoldText = true }
+        val cellPaintBold = Paint().apply { color = Color.BLACK; textSize = 10.5f; typeface = Typeface.DEFAULT_BOLD }
         val linePaint = Paint().apply { color = Color.LTGRAY; strokeWidth = 1f }
         val headerBgPaint = Paint().apply { color = Color.parseColor("#2A2E7F") }
         val totalsLabelPaint = Paint().apply { color = Color.BLACK; textSize = 11f }
-        val totalsValuePaint = Paint().apply { color = Color.BLACK; textSize = 11f; isFakeBoldText = true }
+        val totalsValuePaint = Paint().apply { color = Color.BLACK; textSize = 11f; typeface = Typeface.DEFAULT_BOLD }
         val footerPaint = Paint().apply { color = Color.GRAY; textSize = 9f }
 
         // Sütun genişlikleri (toplam ~523pt, sayfa içi genişlik 595-2*36=523)
