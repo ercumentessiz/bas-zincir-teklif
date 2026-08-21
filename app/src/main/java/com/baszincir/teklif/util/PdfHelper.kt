@@ -66,9 +66,20 @@ object PdfHelper {
         var canvas = page.canvas
         var y: Float
 
-        fun drawBold(text: String, x: Float, y: Float, paint: Paint) {
-            canvas.drawText(text, x, y, paint)
-            canvas.drawText(text, x + 0.35f, y, paint)
+        fun harfGenisligi(text: String, paint: Paint): Float {
+            var w = 0f
+            for (ch in text) w += paint.measureText(ch.toString())
+            return w
+        }
+
+        fun ciz(text: String, x: Float, y: Float, paint: Paint, kalin: Boolean = false) {
+            var cx = x
+            for (ch in text) {
+                val s = ch.toString()
+                canvas.drawText(s, cx, y, paint)
+                if (kalin) canvas.drawText(s, cx + 0.35f, y, paint)
+                cx += paint.measureText(s)
+            }
         }
 
         fun drawHeader(): Float {
@@ -85,18 +96,18 @@ object PdfHelper {
             } catch (_: Exception) { }
 
             val tarihStr = "Tarih: ${DateHelper.formatTarih(offer.tarihMillis)}"
-            drawBold("TEKLİF", MARGIN, yy + 14f, titlePaint)
-            val tarihValWidth = subPaint.measureText(tarihStr)
-            canvas.drawText(tarihStr, PAGE_WIDTH - MARGIN - tarihValWidth, yy + 14f, subPaint)
+            ciz("TEKLİF", MARGIN, yy + 14f, titlePaint, kalin = true)
+            val tarihValWidth = harfGenisligi(tarihStr, subPaint)
+            ciz(tarihStr, PAGE_WIDTH - MARGIN - tarihValWidth, yy + 14f, subPaint)
 
             yy += 22f
             canvas.drawLine(MARGIN, yy, PAGE_WIDTH - MARGIN, yy, linePaint)
             yy += 16f
 
-            drawBold("Müşteri: ${offer.musteriAdi}", MARGIN, yy, cellPaintBold)
+            ciz("Müşteri: ${offer.musteriAdi}", MARGIN, yy, cellPaintBold, kalin = true)
             yy += 14f
             if (offer.musteriIl.isNotBlank()) {
-                canvas.drawText("İl: ${offer.musteriIl}", MARGIN, yy, subPaint)
+                ciz("İl: ${offer.musteriIl}", MARGIN, yy, subPaint)
                 yy += 14f
             }
             yy += 8f
@@ -108,12 +119,12 @@ object PdfHelper {
             canvas.drawRect(tableLeft, yy, tableLeft + tableWidth, yy + 20f, headerBgPaint)
             var x = tableLeft + 4f
             val ty = yy + 14f
-            drawBold("No", x, ty, headerPaint); x += colSira
-            drawBold("Ürün", x, ty, headerPaint); x += colUrun
-            drawBold("Miktar", x, ty, headerPaint); x += colAdet
-            drawBold("Birim", x, ty, headerPaint); x += colBirim
-            drawBold("B.Fiyat", x, ty, headerPaint); x += colFiyat
-            drawBold("Tutar", x, ty, headerPaint)
+            ciz("No", x, ty, headerPaint, kalin = true); x += colSira
+            ciz("Ürün", x, ty, headerPaint, kalin = true); x += colUrun
+            ciz("Miktar", x, ty, headerPaint, kalin = true); x += colAdet
+            ciz("Birim", x, ty, headerPaint, kalin = true); x += colBirim
+            ciz("B.Fiyat", x, ty, headerPaint, kalin = true); x += colFiyat
+            ciz("Tutar", x, ty, headerPaint, kalin = true)
             return yy + 20f
         }
 
@@ -134,13 +145,13 @@ object PdfHelper {
             }
             var x = tableLeft + 4f
             val ty = y + 13f
-            canvas.drawText(line.siraNo.toString(), x, ty, cellPaint); x += colSira
+            ciz(line.siraNo.toString(), x, ty, cellPaint); x += colSira
             val urunAdiKirp = if (line.urunAdi.length > 46) line.urunAdi.substring(0, 44) + "…" else line.urunAdi
-            canvas.drawText(urunAdiKirp, x, ty, cellPaint); x += colUrun
-            canvas.drawText(miktarFormat.format(line.adet), x, ty, cellPaint); x += colAdet
-            canvas.drawText(birimKisaltma(line.birim), x, ty, cellPaint); x += colBirim
-            canvas.drawText(tlFormat.format(line.birimFiyat), x, ty, cellPaint); x += colFiyat
-            canvas.drawText(tlFormat.format(line.satirToplam), x, ty, cellPaint)
+            ciz(urunAdiKirp, x, ty, cellPaint); x += colUrun
+            ciz(miktarFormat.format(line.adet), x, ty, cellPaint); x += colAdet
+            ciz(birimKisaltma(line.birim), x, ty, cellPaint); x += colBirim
+            ciz(tlFormat.format(line.birimFiyat), x, ty, cellPaint); x += colFiyat
+            ciz(tlFormat.format(line.satirToplam), x, ty, cellPaint)
 
             y += rowHeight
             canvas.drawLine(tableLeft, y, tableLeft + tableWidth, y, linePaint)
@@ -167,20 +178,20 @@ object PdfHelper {
         val genelToplamLabel = "GENEL TOPLAM:"
 
         val etiketGenislikleri = listOf(
-            totalsLabelPaint.measureText(araToplamLabel),
-            totalsLabelPaint.measureText(iskontoLabel),
-            totalsLabelPaint.measureText(iskontoSonrasiLabel),
-            totalsLabelPaint.measureText(kdvLabel),
-            totalsValuePaint.measureText(genelToplamLabel)
+            harfGenisligi(araToplamLabel, totalsLabelPaint),
+            harfGenisligi(iskontoLabel, totalsLabelPaint),
+            harfGenisligi(iskontoSonrasiLabel, totalsLabelPaint),
+            harfGenisligi(kdvLabel, totalsLabelPaint),
+            harfGenisligi(genelToplamLabel, totalsValuePaint)
         )
         val colonX = labelX + (etiketGenislikleri.maxOrNull() ?: 0f)
 
         fun totalRow(label: String, value: String, bold: Boolean = false) {
             val lp = if (bold) totalsValuePaint else totalsLabelPaint
-            val labelWidth = lp.measureText(label)
-            if (bold) drawBold(label, colonX - labelWidth, y, lp) else canvas.drawText(label, colonX - labelWidth, y, lp)
-            val vw = lp.measureText(value)
-            if (bold) drawBold(value, valueRight - vw, y, lp) else canvas.drawText(value, valueRight - vw, y, lp)
+            val labelWidth = harfGenisligi(label, lp)
+            ciz(label, colonX - labelWidth, y, lp, kalin = bold)
+            val vw = harfGenisligi(value, lp)
+            ciz(value, valueRight - vw, y, lp, kalin = bold)
             y += 16f
         }
 
@@ -193,21 +204,21 @@ object PdfHelper {
         totalRow(genelToplamLabel, money(offer.genelToplam), bold = true)
 
         y += 18f
-        drawBold(
+        ciz(
             "Teklif Geçerlilik Tarihi: ${DateHelper.formatTarih(offer.gecerlilikMillis)} Saat: ${DateHelper.formatSaat(offer.gecerlilikMillis)}",
-            MARGIN, y, cellPaintBold
+            MARGIN, y, cellPaintBold, kalin = true
         )
 
         y += 18f
         val teslimMetni = offer.teslimSuresi.ifBlank { "-" }
-        drawBold("Teslim Süresi: $teslimMetni", MARGIN, y, cellPaintBold)
+        ciz("Teslim Süresi: $teslimMetni", MARGIN, y, cellPaintBold, kalin = true)
 
         y += 20f
         val kdvNotu = if (offer.kdvOrani == 0.0)
             "* Bu teklif KDV'siz hazırlanmıştır."
         else
             "* Belirtilen ürün fiyatlarına KDV dahil değildir, KDV ayrıca eklenmiştir."
-        canvas.drawText("$kdvNotu Fiyat değiştirme hakkımız mahfuzdur.", MARGIN, y, footerPaint)
+        ciz("$kdvNotu Fiyat değiştirme hakkımız mahfuzdur.", MARGIN, y, footerPaint)
 
         document.finishPage(page)
 
