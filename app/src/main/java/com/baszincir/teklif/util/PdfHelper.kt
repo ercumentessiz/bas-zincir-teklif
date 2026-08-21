@@ -7,7 +7,6 @@ import android.graphics.Canvas
 import android.graphics.Color
 import android.graphics.Paint
 import android.graphics.RectF
-import android.graphics.Typeface
 import android.graphics.pdf.PdfDocument
 import android.net.Uri
 import android.os.Build
@@ -28,8 +27,6 @@ object PdfHelper {
         maximumFractionDigits = 2
     }
 
-    // Miktar sütunu için: kullanıcının formda girdiği haliyle gösterilir,
-    // sona gereksiz ",00" eklenmez (300 -> "300", 2,5 -> "2,5").
     private val miktarFormat: NumberFormat = NumberFormat.getNumberInstance(Locale("tr", "TR")).apply {
         minimumFractionDigits = 0
         maximumFractionDigits = 2
@@ -41,26 +38,20 @@ object PdfHelper {
         return name.replace(Regex("[\\\\/:*?\"<>|]"), " ").trim()
     }
 
-    /**
-     * PDF'i üretir ve cihazın "Downloads" klasörüne kaydeder.
-     * Dosya adı: "<Müşteri Adı> – Teklif.pdf"
-     * @return kaydedilen dosyanın Uri'si (null ise hata oluşmuştur)
-     */
     fun createAndSaveOfferPdf(context: Context, offer: Offer): Uri? {
         val document = PdfDocument()
 
-        val titlePaint = Paint().apply { color = Color.BLACK; textSize = 20f; typeface = Typeface.DEFAULT_BOLD }
+        val titlePaint = Paint().apply { color = Color.BLACK; textSize = 20f }
         val subPaint = Paint().apply { color = Color.DKGRAY; textSize = 11f }
-        val headerPaint = Paint().apply { color = Color.WHITE; textSize = 10f; typeface = Typeface.DEFAULT_BOLD }
+        val headerPaint = Paint().apply { color = Color.WHITE; textSize = 10f }
         val cellPaint = Paint().apply { color = Color.BLACK; textSize = 9.5f }
-        val cellPaintBold = Paint().apply { color = Color.BLACK; textSize = 10.5f; typeface = Typeface.DEFAULT_BOLD }
+        val cellPaintBold = Paint().apply { color = Color.BLACK; textSize = 10.5f }
         val linePaint = Paint().apply { color = Color.LTGRAY; strokeWidth = 1f }
         val headerBgPaint = Paint().apply { color = Color.parseColor("#2A2E7F") }
         val totalsLabelPaint = Paint().apply { color = Color.BLACK; textSize = 11f }
-        val totalsValuePaint = Paint().apply { color = Color.BLACK; textSize = 11f; typeface = Typeface.DEFAULT_BOLD }
+        val totalsValuePaint = Paint().apply { color = Color.BLACK; textSize = 11f }
         val footerPaint = Paint().apply { color = Color.GRAY; textSize = 9f }
 
-        // Sütun genişlikleri (toplam ~523pt, sayfa içi genişlik 595-2*36=523)
         val colSira = 28f
         val colUrun = 235f
         val colBirim = 38f
@@ -75,11 +66,14 @@ object PdfHelper {
         var canvas = page.canvas
         var y: Float
 
+        fun drawBold(text: String, x: Float, y: Float, paint: Paint) {
+            canvas.drawText(text, x, y, paint)
+            canvas.drawText(text, x + 0.35f, y, paint)
+        }
+
         fun drawHeader(): Float {
             var yy = MARGIN
             val contentWidth = PAGE_WIDTH - 2 * MARGIN
-
-            // Antet (letterhead) - tam genişlikte, oranı koruyarak
             try {
                 context.assets.open("letterhead.png").use { input ->
                     val bmp = BitmapFactory.decodeStream(input)
@@ -88,12 +82,10 @@ object PdfHelper {
                     canvas.drawBitmap(bmp, null, dst, null)
                     yy += letterheadH + 12f
                 }
-            } catch (_: Exception) {
-                // Antet bulunamazsa sessizce geç
-            }
+            } catch (_: Exception) { }
 
             val tarihStr = "Tarih: ${DateHelper.formatTarih(offer.tarihMillis)}"
-            canvas.drawText("TEKLİF", MARGIN, yy + 14f, titlePaint)
+            drawBold("TEKLİF", MARGIN, yy + 14f, titlePaint)
             val tarihValWidth = subPaint.measureText(tarihStr)
             canvas.drawText(tarihStr, PAGE_WIDTH - MARGIN - tarihValWidth, yy + 14f, subPaint)
 
@@ -101,7 +93,7 @@ object PdfHelper {
             canvas.drawLine(MARGIN, yy, PAGE_WIDTH - MARGIN, yy, linePaint)
             yy += 16f
 
-            canvas.drawText("Müşteri: ${offer.musteriAdi}", MARGIN, yy, cellPaintBold)
+            drawBold("Müşteri: ${offer.musteriAdi}", MARGIN, yy, cellPaintBold)
             yy += 14f
             if (offer.musteriIl.isNotBlank()) {
                 canvas.drawText("İl: ${offer.musteriIl}", MARGIN, yy, subPaint)
@@ -116,12 +108,12 @@ object PdfHelper {
             canvas.drawRect(tableLeft, yy, tableLeft + tableWidth, yy + 20f, headerBgPaint)
             var x = tableLeft + 4f
             val ty = yy + 14f
-            canvas.drawText("No", x, ty, headerPaint); x += colSira
-            canvas.drawText("Ürün", x, ty, headerPaint); x += colUrun
-            canvas.drawText("Miktar", x, ty, headerPaint); x += colAdet
-            canvas.drawText("Birim", x, ty, headerPaint); x += colBirim
-            canvas.drawText("B.Fiyat", x, ty, headerPaint); x += colFiyat
-            canvas.drawText("Tutar", x, ty, headerPaint)
+            drawBold("No", x, ty, headerPaint); x += colSira
+            drawBold("Ürün", x, ty, headerPaint); x += colUrun
+            drawBold("Miktar", x, ty, headerPaint); x += colAdet
+            drawBold("Birim", x, ty, headerPaint); x += colBirim
+            drawBold("B.Fiyat", x, ty, headerPaint); x += colFiyat
+            drawBold("Tutar", x, ty, headerPaint)
             return yy + 20f
         }
 
@@ -129,7 +121,7 @@ object PdfHelper {
         y = drawTableHeader(y)
 
         val rowHeight = 18f
-        val bottomLimit = PAGE_HEIGHT - MARGIN - 90f // alt bilgiler için pay
+        val bottomLimit = PAGE_HEIGHT - MARGIN - 90f
 
         for (line in offer.lines) {
             if (y + rowHeight > bottomLimit) {
@@ -154,7 +146,6 @@ object PdfHelper {
             canvas.drawLine(tableLeft, y, tableLeft + tableWidth, y, linePaint)
         }
 
-        // Toplamlar için yer kontrolü
         val totalsHeight = 130f
         if (y + totalsHeight > PAGE_HEIGHT - MARGIN) {
             document.finishPage(page)
@@ -187,9 +178,9 @@ object PdfHelper {
         fun totalRow(label: String, value: String, bold: Boolean = false) {
             val lp = if (bold) totalsValuePaint else totalsLabelPaint
             val labelWidth = lp.measureText(label)
-            canvas.drawText(label, colonX - labelWidth, y, lp)
+            if (bold) drawBold(label, colonX - labelWidth, y, lp) else canvas.drawText(label, colonX - labelWidth, y, lp)
             val vw = lp.measureText(value)
-            canvas.drawText(value, valueRight - vw, y, lp)
+            if (bold) drawBold(value, valueRight - vw, y, lp) else canvas.drawText(value, valueRight - vw, y, lp)
             y += 16f
         }
 
@@ -202,25 +193,21 @@ object PdfHelper {
         totalRow(genelToplamLabel, money(offer.genelToplam), bold = true)
 
         y += 18f
-        canvas.drawText(
+        drawBold(
             "Teklif Geçerlilik Tarihi: ${DateHelper.formatTarih(offer.gecerlilikMillis)} Saat: ${DateHelper.formatSaat(offer.gecerlilikMillis)}",
             MARGIN, y, cellPaintBold
         )
 
-        // Teslim Süresi: kullanıcının formda girdiği metin (örn. "3 İş Günü")
         y += 18f
         val teslimMetni = offer.teslimSuresi.ifBlank { "-" }
-        canvas.drawText("Teslim Süresi: $teslimMetni", MARGIN, y, cellPaintBold)
+        drawBold("Teslim Süresi: $teslimMetni", MARGIN, y, cellPaintBold)
 
         y += 20f
         val kdvNotu = if (offer.kdvOrani == 0.0)
             "* Bu teklif KDV'siz hazırlanmıştır."
         else
             "* Belirtilen ürün fiyatlarına KDV dahil değildir, KDV ayrıca eklenmiştir."
-        canvas.drawText(
-            "$kdvNotu Fiyat değiştirme hakkımız mahfuzdur.",
-            MARGIN, y, footerPaint
-        )
+        canvas.drawText("$kdvNotu Fiyat değiştirme hakkımız mahfuzdur.", MARGIN, y, footerPaint)
 
         document.finishPage(page)
 
@@ -248,9 +235,7 @@ object PdfHelper {
                 if (!downloadsDir.exists()) downloadsDir.mkdirs()
                 val file = java.io.File(downloadsDir, fileName)
                 java.io.FileOutputStream(file).use { out -> document.writeTo(out) }
-                androidx.core.content.FileProvider.getUriForFile(
-                    context, "${context.packageName}.fileprovider", file
-                )
+                androidx.core.content.FileProvider.getUriForFile(context, "${context.packageName}.fileprovider", file)
             }
         } catch (e: Exception) {
             null
