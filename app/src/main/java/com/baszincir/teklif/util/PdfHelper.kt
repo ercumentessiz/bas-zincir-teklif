@@ -38,19 +38,25 @@ object PdfHelper {
         return name.replace(Regex("[\\\\/:*?\"<>|]"), " ").trim()
     }
 
+    private fun pdfPaint(): Paint = Paint().apply {
+        isAntiAlias = true
+        isLinearText = true
+        isSubpixelText = true
+    }
+
     fun createAndSaveOfferPdf(context: Context, offer: Offer): Uri? {
         val document = PdfDocument()
 
-        val titlePaint = Paint().apply { color = Color.BLACK; textSize = 20f }
-        val subPaint = Paint().apply { color = Color.DKGRAY; textSize = 11f }
-        val headerPaint = Paint().apply { color = Color.WHITE; textSize = 10f }
-        val cellPaint = Paint().apply { color = Color.BLACK; textSize = 9.5f }
-        val cellPaintBold = Paint().apply { color = Color.BLACK; textSize = 10.5f }
+        val titlePaint = pdfPaint().apply { color = Color.BLACK; textSize = 20f }
+        val subPaint = pdfPaint().apply { color = Color.DKGRAY; textSize = 11f }
+        val headerPaint = pdfPaint().apply { color = Color.WHITE; textSize = 10f }
+        val cellPaint = pdfPaint().apply { color = Color.BLACK; textSize = 9.5f }
+        val cellPaintBold = pdfPaint().apply { color = Color.BLACK; textSize = 10.5f }
         val linePaint = Paint().apply { color = Color.LTGRAY; strokeWidth = 1f }
         val headerBgPaint = Paint().apply { color = Color.parseColor("#2A2E7F") }
-        val totalsLabelPaint = Paint().apply { color = Color.BLACK; textSize = 11f }
-        val totalsValuePaint = Paint().apply { color = Color.BLACK; textSize = 11f }
-        val footerPaint = Paint().apply { color = Color.GRAY; textSize = 9f }
+        val totalsLabelPaint = pdfPaint().apply { color = Color.BLACK; textSize = 11f }
+        val totalsValuePaint = pdfPaint().apply { color = Color.BLACK; textSize = 11f }
+        val footerPaint = pdfPaint().apply { color = Color.GRAY; textSize = 9f }
 
         val colSira = 28f
         val colUrun = 235f
@@ -77,7 +83,7 @@ object PdfHelper {
             for (ch in text) {
                 val s = ch.toString()
                 canvas.drawText(s, cx, y, paint)
-                if (kalin) canvas.drawText(s, cx + 0.35f, y, paint)
+                if (kalin) canvas.drawText(s, cx + 0.3f, y, paint)
                 cx += paint.measureText(s)
             }
         }
@@ -85,6 +91,7 @@ object PdfHelper {
         fun drawHeader(): Float {
             var yy = MARGIN
             val contentWidth = PAGE_WIDTH - 2 * MARGIN
+
             try {
                 context.assets.open("letterhead.png").use { input ->
                     val bmp = BitmapFactory.decodeStream(input)
@@ -246,7 +253,9 @@ object PdfHelper {
                 if (!downloadsDir.exists()) downloadsDir.mkdirs()
                 val file = java.io.File(downloadsDir, fileName)
                 java.io.FileOutputStream(file).use { out -> document.writeTo(out) }
-                androidx.core.content.FileProvider.getUriForFile(context, "${context.packageName}.fileprovider", file)
+                androidx.core.content.FileProvider.getUriForFile(
+                    context, "${context.packageName}.fileprovider", file
+                )
             }
         } catch (e: Exception) {
             null
