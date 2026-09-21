@@ -128,6 +128,11 @@ class OfferActivity : AppCompatActivity() {
                 binding.rbKdv20.isChecked = true
             }
             binding.etTeslimSuresi.setText(duzenlenecekTeklif.teslimSuresi)
+            when (duzenlenecekTeklif.odemeTipi) {
+                "Peşin" -> binding.rbPesin.isChecked = true
+                "Vadeli" -> binding.rbVadeli.isChecked = true
+            }
+            binding.etOdemeDetay.setText(duzenlenecekTeklif.odemeDetay)
             binding.tvMusteri.text = if (musteriIl.isNotBlank()) "$musteriAdi ($musteriIl)" else musteriAdi
         } else {
             teklifTarihiMillis = DateHelper.bugunMillis()
@@ -177,6 +182,12 @@ class OfferActivity : AppCompatActivity() {
 
     private fun kdvOraniAl(): Double =
         if (binding.rbKdv0.isChecked) 0.0 else 20.0
+
+    private fun odemeTipiAl(): String = when {
+        binding.rbPesin.isChecked -> "Peşin"
+        binding.rbVadeli.isChecked -> "Vadeli"
+        else -> ""
+    }
 
     private fun hesaplaVeGoster() {
         val araToplam = lines.sumOf { it.satirToplam }
@@ -230,7 +241,9 @@ class OfferActivity : AppCompatActivity() {
             kdvTutari = kdvTutari,
             genelToplam = genelToplam,
             olusturanEmail = mevcutOlusturanEmail,
-            teslimSuresi = binding.etTeslimSuresi.text.toString().trim()
+            teslimSuresi = binding.etTeslimSuresi.text.toString().trim(),
+            odemeTipi = odemeTipiAl(),
+            odemeDetay = binding.etOdemeDetay.text.toString().trim()
         )
     }
 
