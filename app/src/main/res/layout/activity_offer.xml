@@ -202,6 +202,52 @@
                     android:maxLines="1" />
             </com.google.android.material.textfield.TextInputLayout>
 
+            <!-- Ödeme -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="Ödeme"
+                android:textColor="@color/text_secondary"
+                android:textSize="12sp" />
+
+            <RadioGroup
+                android:id="@+id/rgOdeme"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rbPesin"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Peşin"
+                    android:textColor="@color/text_primary" />
+
+                <RadioButton
+                    android:id="@+id/rbVadeli"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Vadeli"
+                    android:textColor="@color/text_primary" />
+            </RadioGroup>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="Ödeme Detayı (opsiyonel, örn. Teslimatta Nakit / 60 Gün)">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etOdemeDetay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:maxLines="1" />
+            </com.google.android.material.textfield.TextInputLayout>
+
             <!-- Toplamlar -->
             <com.google.android.material.card.MaterialCardView
                 android:layout_width="match_parent"
