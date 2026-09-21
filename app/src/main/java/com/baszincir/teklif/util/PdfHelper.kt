@@ -100,7 +100,9 @@ object PdfHelper {
                     canvas.drawBitmap(bmp, null, dst, null)
                     yy += letterheadH + 12f
                 }
-            } catch (_: Exception) { }
+            } catch (_: Exception) {
+                // Antet bulunamazsa sessizce geç
+            }
 
             val tarihStr = "Tarih: ${DateHelper.formatTarih(offer.tarihMillis)}"
             ciz("TEKLİF", MARGIN, yy + 14f, titlePaint, kalin = true)
@@ -139,7 +141,7 @@ object PdfHelper {
         y = drawTableHeader(y)
 
         val rowHeight = 18f
-        val bottomLimit = PAGE_HEIGHT - MARGIN - 90f
+        val bottomLimit = PAGE_HEIGHT - MARGIN - 110f // alt bilgiler için pay (Teslim Süresi + Ödeme dahil)
 
         for (line in offer.lines) {
             if (y + rowHeight > bottomLimit) {
@@ -164,7 +166,8 @@ object PdfHelper {
             canvas.drawLine(tableLeft, y, tableLeft + tableWidth, y, linePaint)
         }
 
-        val totalsHeight = 130f
+        // Toplamlar için yer kontrolü
+        val totalsHeight = 150f
         if (y + totalsHeight > PAGE_HEIGHT - MARGIN) {
             document.finishPage(page)
             pageNumber++
@@ -216,9 +219,21 @@ object PdfHelper {
             MARGIN, y, cellPaintBold, kalin = true
         )
 
+        // Teslim Süresi: kullanıcının formda girdiği metin (örn. "3 İş Günü")
         y += 18f
         val teslimMetni = offer.teslimSuresi.ifBlank { "-" }
         ciz("Teslim Süresi: $teslimMetni", MARGIN, y, cellPaintBold, kalin = true)
+
+        // Ödeme: Peşin/Vadeli seçimi + varsa opsiyonel detay metni.
+        // Detay girilmişse detay gösterilir, girilmemişse sadece seçilen tip.
+        // Hiçbir seçim yapılmamışsa "-" gösterilir.
+        y += 18f
+        val odemeMetni = when {
+            offer.odemeTipi.isBlank() -> "-"
+            offer.odemeDetay.isNotBlank() -> offer.odemeDetay
+            else -> offer.odemeTipi
+        }
+        ciz("Ödeme: $odemeMetni", MARGIN, y, cellPaintBold, kalin = true)
 
         y += 20f
         val kdvNotu = if (offer.kdvOrani == 0.0)
