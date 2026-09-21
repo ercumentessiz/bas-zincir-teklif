@@ -69,6 +69,8 @@ data class Offer(
     var genelToplam: Double = 0.0,
     var olusturanEmail: String = "",
     var teslimSuresi: String = "",
+    var odemeTipi: String = "",
+    var odemeDetay: String = "",
     @PropertyName("createdAt")
     var createdAt: Long = 0L
 )
