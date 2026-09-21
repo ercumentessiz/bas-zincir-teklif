@@ -6,16 +6,6 @@ import com.google.firebase.firestore.Query
 import org.json.JSONArray
 import org.json.JSONObject
 
-/**
- * Tüm Firebase Firestore işlemlerinin tek merkezi.
- * - Müşteri listesi ilk açılışta assets içindeki JSON dosyasından
- *   Firestore'a otomatik olarak yüklenir (koleksiyon boşsa).
- * - Ürün fiyat listesi, uygulama güncellendiğinde (CURRENT_PRODUCTS_DATA_VERSION
- *   artırıldığında) eski katalog silinip assets'teki güncel veriyle yeniden
- *   yüklenir; elle eklenen özel ürünler bundan etkilenmez.
- * - Sonrasında fiyat/müşteri güncellemeleri Firebase Console'dan veya
- *   uygulama içindeki Yönetim ekranından yapılabilir.
- */
 object Repository {
 
     private val db by lazy { FirebaseFirestore.getInstance() }
@@ -28,19 +18,8 @@ object Repository {
     private const val KEY_CUSTOMERS_SYNCED = "customers_synced_v1"
     private const val KEY_PRODUCTS_DATA_VERSION = "products_data_version"
 
-    // Ürün fiyat listesi (assets/products.json) her değiştiğinde bu sayı
-    // artırılmalı. Uygulama, cihazda kayıtlı sürüm bu sayıdan küçükse
-    // "urunler" koleksiyonundaki fiyatları assets'teki güncel verilerle
-    // otomatik olarak üzerine yazar (elle eklenen özel ürünlere dokunmaz,
-    // çünkü onların id'si assets'tekilerle çakışmaz).
     private const val CURRENT_PRODUCTS_DATA_VERSION = 4
 
-    // ------------------------------------------------------------------
-    // İLK KURULUM / GÜNCELLEME:
-    // - Müşteri listesi: koleksiyon boşsa bir kereliğine assets'ten yüklenir.
-    // - Ürün listesi: cihazdaki sürüm numarası güncel değilse, assets'teki
-    //   fiyat listesi Firestore'daki ürünlerin üzerine yazılır (id eşleşmesiyle).
-    // ------------------------------------------------------------------
     fun ensureInitialSync(context: Context, onDone: () -> Unit, onError: (Exception) -> Unit) {
         val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
 
@@ -79,9 +58,6 @@ object Repository {
             try {
                 val productsJson = context.assets.open("products.json")
                     .bufferedReader(Charsets.UTF_8).use { it.readText() }
-                // Önce eski katalog ürünlerini (id deseni "pNNNN" olanları) temizle,
-                // ardından güncel fiyat listesini yükle. Elle eklenen özel ürünler
-                // (rastgele Firestore id'li) bu temizlikten etkilenmez.
                 temizleEskiKatalog {
                     syncProducts(JSONArray(productsJson)) {
                         prefs.edit().putInt(KEY_PRODUCTS_DATA_VERSION, CURRENT_PRODUCTS_DATA_VERSION).apply()
@@ -189,9 +165,6 @@ object Repository {
         writeNextChunk()
     }
 
-    // ------------------------------------------------------------------
-    // OKUMA
-    // ------------------------------------------------------------------
     fun getProducts(onResult: (List<Product>) -> Unit, onError: (Exception) -> Unit) {
         db.collection(PRODUCTS_COLLECTION).get()
             .addOnSuccessListener { snap ->
@@ -225,9 +198,6 @@ object Repository {
             .addOnFailureListener { onError(it) }
     }
 
-    // ------------------------------------------------------------------
-    // ÜRÜN / MÜŞTERİ YÖNETİMİ (uygulama içinden ekle / düzenle / sil)
-    // ------------------------------------------------------------------
     fun saveProduct(product: Product, onResult: () -> Unit, onError: (Exception) -> Unit) {
         val id = product.id.ifBlank { db.collection(PRODUCTS_COLLECTION).document().id }
         val data = mapOf(
@@ -267,9 +237,6 @@ object Repository {
             .addOnFailureListener { onError(it) }
     }
 
-    // ------------------------------------------------------------------
-    // YAZMA (Teklifler)
-    // ------------------------------------------------------------------
     fun saveNewOffer(offer: Offer, onResult: (String) -> Unit, onError: (Exception) -> Unit) {
         val data = offerToMap(offer)
         db.collection(OFFERS_COLLECTION).add(data)
@@ -320,6 +287,8 @@ object Repository {
             "genelToplam" to offer.genelToplam,
             "olusturanEmail" to offer.olusturanEmail,
             "teslimSuresi" to offer.teslimSuresi,
+            "odemeTipi" to offer.odemeTipi,
+            "odemeDetay" to offer.odemeDetay,
             "createdAt" to if (offer.createdAt != 0L) offer.createdAt else System.currentTimeMillis()
         )
     }
